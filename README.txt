@@ -84,10 +84,10 @@ Go to the RoboAdvisor directory.
 5.Get the AlphaVantage API key by following the instructions here: https://www.alphavantage.co/support/#api-key
 6.Get the news-api API key by following the instructions here: https://newsapi.org/docs/get-started
 7.Set the environment variable for AlphaVantage key
-    export ALPHA_VANTAGE_KEY='62VU0Z7IKBLN5VYE' (For Linux/MacOs terminals)
+    export ALPHA_VANTAGE_KEY=<Your Key> (For Linux/MacOs terminals)
     set ALPHA_VANTAGE_KEY=<Your Key> (For windows command prompt)
 8.Set the environment variable for news-api key (You WILL need this key if you want to view the full functionality of the app!)
-    export NEWS_API_KEY='82cfeff574a349b789025b6370f63369' (For Linux/MacOs terminals)
+    export NEWS_API_KEY=<Your Key> (For Linux/MacOs terminals)
     set NEWS_API_KEY=<Your Key> (For windows command prompt)
 9.Download and install sqlite3 from https://www.sqlite.org/index.html
 
