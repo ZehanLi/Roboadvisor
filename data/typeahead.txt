@@ -1,0 +1,5864 @@
+A, Agilent Technologies Inc
+AAL, American Airlines Group
+AAP, Advance Auto Parts
+AAPL, Apple Inc.
+ABBV, AbbVie Inc.
+ABC, AmerisourceBergen Corp
+ABMD, ABIOMED Inc
+ABT, Abbott Laboratories
+ACN, Accenture plc
+ADBE, Adobe Systems Inc
+ADI, Analog Devices, Inc.
+ADM, Archer-Daniels-Midland Co
+ADP, Automatic Data Processing
+ADS, Alliance Data Systems
+ADSK, Autodesk Inc.
+AEE, Ameren Corp
+AEP, American Electric Power
+AES, AES Corp
+AFL, AFLAC Inc
+AGN, Allergan, Plc
+AIG, American International Group
+AIV, Apartment Investment & Management
+AIZ, Assurant
+AJG, Arthur J. Gallagher & Co.
+AKAM, Akamai Technologies Inc
+ALB, Albemarle Corp
+ALGN, Align Technology
+ALK, Alaska Air Group Inc
+ALL, Allstate Corp
+ALLE, Allegion
+ALXN, Alexion Pharmaceuticals
+AMAT, Applied Materials Inc.
+AMCR, Amcor plc
+AMD, Advanced Micro Devices Inc
+AME, AMETEK Inc.
+AMG, Affiliated Managers Group Inc
+AMGN, Amgen Inc.
+AMP, Ameriprise Financial
+AMT, American Tower Corp.
+AMZN, Amazon.com Inc.
+ANET, Arista Networks
+ANSS, ANSYS
+ANTM, Anthem
+AON, Aon plc
+AOS, A.O. Smith Corp
+APA, Apache Corporation
+APD, Air Products & Chemicals Inc
+APH, Amphenol Corp
+APTV, Aptiv Plc
+ARE, Alexandria Real Estate Equities
+ARNC, Arconic Inc.
+ATO, Atmos Energy Corp
+ATVI, Activision Blizzard
+AVB, AvalonBay Communities, Inc.
+AVGO, Broadcom Inc.
+AVY, Avery Dennison Corp
+AWK, American Water Works Company Inc
+AXP, American Express Co
+AZO, AutoZone Inc
+BA, Boeing Company
+BAC, Bank of America Corp
+BAX, Baxter International Inc.
+BBT, BB&T Corporation
+BBY, Best Buy Co. Inc.
+BDX, Becton Dickinson
+BEN, Franklin Resources
+BIIB, Biogen Inc.
+BK, The Bank of New York Mellon Corp.
+BKNG, Booking Holdings Inc
+BKR, Baker Hughes Co
+BLK, BlackRock
+BLL, Ball Corp
+BMY, Bristol-Myers Squibb
+BR, Broadridge Financial Solutions
+BRK.B, Berkshire Hathaway
+BSX, Boston Scientific
+BWA, BorgWarner
+BXP, Boston Properties
+C, Citigroup Inc.
+CAG, Conagra Brands
+CAH, Cardinal Health Inc.
+CAT, Caterpillar Inc.
+CB, Chubb Limited
+CBOE, Cboe Global Markets
+CBRE, CBRE Group
+CBS, CBS Corp.
+CCI, Crown Castle International Corp.
+CCL, Carnival Corp.
+CDNS, Cadence Design Systems
+CDW, CDW
+CE, Celanese
+CERN, Cerner
+CF, CF Industries Holdings Inc
+CFG, Citizens Financial Group
+CHD, Church & Dwight
+CHRW, C. H. Robinson Worldwide
+CHTR, Charter Communications
+CI, CIGNA Corp.
+CINF, Cincinnati Financial
+CL, Colgate-Palmolive
+CLX, The Clorox Company
+CMA, Comerica Inc.
+CMCSA, Comcast Corp.
+CME, CME Group Inc.
+CMG, Chipotle Mexican Grill
+CMI, Cummins Inc.
+CMS, CMS Energy
+CNC, Centene Corporation
+CNP, CenterPoint Energy
+COF, Capital One Financial
+COG, Cabot Oil & Gas
+COO, The Cooper Companies
+COP, ConocoPhillips
+COST, Costco Wholesale Corp.
+COTY, Coty, Inc
+CPB, Campbell Soup
+CPRI, Capri Holdings
+CPRT, Copart Inc
+CRM, Salesforce.com
+CSCO, Cisco Systems
+CSX, CSX Corp.
+CTAS, Cintas Corporation
+CTL, CenturyLink Inc
+CTSH, Cognizant Technology Solutions
+CTVA, Corteva
+CTXS, Citrix Systems
+CVS, CVS Health
+CVX, Chevron Corp.
+CXO, Concho Resources
+D, Dominion Energy
+DAL, Delta Air Lines Inc.
+DD, DuPont de Nemours Inc
+DE, Deere & Co.
+DFS, Discover Financial Services
+DG, Dollar General
+DGX, Quest Diagnostics
+DHI, D. R. Horton
+DHR, Danaher Corp.
+DIS, The Walt Disney Company
+DISCA, Discovery Inc. Class A
+DISCK, Discovery Inc. Class C
+DISH, Dish Network
+DLR, Digital Realty Trust Inc
+DLTR, Dollar Tree
+DOV, Dover Corp.
+DOW, Dow Inc.
+DRE, Duke Realty Corp
+DRI, Darden Restaurants
+DTE, DTE Energy Co.
+DUK, Duke Energy
+DVA, DaVita Inc.
+DVN, Devon Energy
+DXC, DXC Technology
+EA, Electronic Arts
+EBAY, eBay Inc.
+ECL, Ecolab Inc.
+ED, Consolidated Edison
+EFX, Equifax Inc.
+EIX, Edison Int'l
+EL, Estee Lauder Cos.
+EMN, Eastman Chemical
+EMR, Emerson Electric Company
+EOG, EOG Resources
+EQIX, Equinix
+EQR, Equity Residential
+ES, Eversource Energy
+ESS, Essex Property Trust, Inc.
+ETFC, E*Trade
+ETN, Eaton Corporation
+ETR, Entergy Corp.
+EVRG, Evergy
+EW, Edwards Lifesciences
+EXC, Exelon Corp.
+EXPD, Expeditors
+EXPE, Expedia Group
+EXR, Extra Space Storage
+F, Ford Motor
+FANG, Diamondback Energy
+FAST, Fastenal Co
+FB, Facebook Inc.
+FBHS, Fortune Brands Home & Security
+FCX, Freeport-McMoRan Inc.
+FDX, FedEx Corporation
+FE, FirstEnergy Corp
+FFIV, F5 Networks
+FIS, Fidelity National Information Services
+FISV, Fiserv Inc
+FITB, Fifth Third Bancorp
+FLIR, FLIR Systems
+FLS, Flowserve Corporation
+FLT, FleetCor Technologies Inc
+FMC, FMC Corporation
+FOX, Fox Corporation Class B
+FOXA, Fox Corporation Class A
+FRC, First Republic Bank
+FRT, Federal Realty Investment Trust
+FTI, TechnipFMC
+FTNT, Fortinet
+FTV, Fortive Corp
+GD, General Dynamics
+GE, General Electric
+GILD, Gilead Sciences
+GIS, General Mills
+GL, Globe Life Inc.
+GLW, Corning Inc.
+GM, General Motors
+GOOG, Alphabet Inc Class C
+GOOGL, Alphabet Inc Class A
+GPC, Genuine Parts
+GPN, Global Payments Inc.
+GPS, Gap Inc.
+GRMN, Garmin Ltd.
+GS, Goldman Sachs Group
+GWW, Grainger (W.W.) Inc.
+HAL, Halliburton Co.
+HAS, Hasbro Inc.
+HBAN, Huntington Bancshares
+HBI, Hanesbrands Inc
+HCA, HCA Healthcare
+HD, Home Depot
+HES, Hess Corporation
+HFC, HollyFrontier Corp
+HIG, Hartford Financial Svc.Gp.
+HII, Huntington Ingalls Industries
+HLT, Hilton Worldwide Holdings Inc
+HOG, Harley-Davidson
+HOLX, Hologic
+HON, Honeywell Int'l Inc.
+HP, Helmerich & Payne
+HPE, Hewlett Packard Enterprise
+HPQ, HP Inc.
+HRB, H&R Block
+HRL, Hormel Foods Corp.
+HSIC, Henry Schein
+HST, Host Hotels & Resorts
+HSY, The Hershey Company
+HUM, Humana Inc.
+IBM, International Business Machines
+ICE, Intercontinental Exchange
+IDXX, IDEXX Laboratories
+IEX, IDEX Corporation
+IFF, Intl Flavors & Fragrances
+ILMN, Illumina Inc
+INCY, Incyte
+INFO, IHS Markit Ltd.
+INTC, Intel Corp.
+INTU, Intuit Inc.
+IP, International Paper
+IPG, Interpublic Group
+IPGP, IPG Photonics Corp.
+IQV, IQVIA Holdings Inc.
+IR, Ingersoll-Rand PLC
+IRM, Iron Mountain Incorporated
+ISRG, Intuitive Surgical Inc.
+IT, Gartner Inc
+ITW, Illinois Tool Works
+IVZ, Invesco Ltd.
+JBHT, J. B. Hunt Transport Services
+JCI, Johnson Controls International
+JEC, Jacobs Engineering Group
+JKHY, Jack Henry & Associates
+JNJ, Johnson & Johnson
+JNPR, Juniper Networks
+JPM, JPMorgan Chase & Co.
+JWN, Nordstrom
+K, Kellogg Co.
+KEY, KeyCorp
+KEYS, Keysight Technologies
+KHC, Kraft Heinz Co
+KIM, Kimco Realty
+KLAC, KLA Corporation
+KMB, Kimberly-Clark
+KMI, Kinder Morgan
+KMX, Carmax Inc
+KO, Coca-Cola Company
+KR, Kroger Co.
+KSS, Kohl's Corp.
+KSU, Kansas City Southern
+L, Loews Corp.
+LB, L Brands Inc.
+LDOS, Leidos Holdings
+LEG, Leggett & Platt
+LEN, Lennar Corp.
+LH, Laboratory Corp. of America Holding
+LHX, L3Harris Technologies
+LIN, Linde plc
+LKQ, LKQ Corporation
+LLY, Lilly (Eli) & Co.
+LMT, Lockheed Martin Corp.
+LNC, Lincoln National
+LNT, Alliant Energy Corp
+LOW, Lowe's Cos.
+LRCX, Lam Research
+LUV, Southwest Airlines
+LVS, Las Vegas Sands Corp
+LW, Lamb Weston Holdings Inc
+LYB, LyondellBasell
+M, Macy's Inc.
+MA, Mastercard Inc.
+MAA, Mid-America Apartments
+MAC, Macerich
+MAR, Marriott Int'l.
+MAS, Masco Corp.
+MCD, McDonald's Corp.
+MCHP, Microchip Technology
+MCK, McKesson Corp.
+MCO, Moody's Corp
+MDLZ, Mondelez International
+MDT, Medtronic plc
+MET, MetLife Inc.
+MGM, MGM Resorts International
+MHK, Mohawk Industries
+MKC, McCormick & Co.
+MKTX, MarketAxess
+MLM, Martin Marietta Materials
+MMC, Marsh & McLennan
+MMM, 3M Company
+MNST, Monster Beverage
+MO, Altria Group Inc
+MOS, The Mosaic Company
+MPC, Marathon Petroleum
+MRK, Merck & Co.
+MRO, Marathon Oil Corp.
+MS, Morgan Stanley
+MSCI, MSCI Inc
+MSFT, Microsoft Corp.
+MSI, Motorola Solutions Inc.
+MTB, M&T Bank Corp.
+MTD, Mettler Toledo
+MU, Micron Technology
+MXIM, Maxim Integrated Products Inc
+MYL, Mylan N.V.
+NBL, Noble Energy Inc
+NCLH, Norwegian Cruise Line Holdings
+NDAQ, Nasdaq, Inc.
+NEE, NextEra Energy
+NEM, Newmont Goldcorp
+NFLX, Netflix Inc.
+NI, NiSource Inc.
+NKE, Nike
+NLOK, NortonLifeLock
+NLSN, Nielsen Holdings
+NOC, Northrop Grumman
+NOV, National Oilwell Varco Inc.
+NOW, ServiceNow
+NRG, NRG Energy
+NSC, Norfolk Southern Corp.
+NTAP, NetApp
+NTRS, Northern Trust Corp.
+NUE, Nucor Corp.
+NVDA, Nvidia Corporation
+NVR, NVR Inc
+NWL, Newell Brands
+NWS, News Corp. Class B
+NWSA, News Corp. Class A
+O, Realty Income Corporation
+OKE, ONEOK
+OMC, Omnicom Group
+ORCL, Oracle Corp.
+ORLY, O'Reilly Automotive
+OXY, Occidental Petroleum
+PAYX, Paychex Inc.
+PBCT, People's United Financial
+PCAR, PACCAR Inc.
+PEAK, Healthpeak Properties
+PEG, Public Serv. Enterprise Inc.
+PEP, PepsiCo Inc.
+PFE, Pfizer Inc.
+PFG, Principal Financial Group
+PG, Procter & Gamble
+PGR, Progressive Corp.
+PH, Parker-Hannifin
+PHM, Pulte Homes Inc.
+PKG, Packaging Corporation of America
+PKI, PerkinElmer
+PLD, Prologis
+PM, Philip Morris International
+PNC, PNC Financial Services
+PNR, Pentair plc
+PNW, Pinnacle West Capital
+PPG, PPG Industries
+PPL, PPL Corp.
+PRGO, Perrigo
+PRU, Prudential Financial
+PSA, Public Storage
+PSX, Phillips 66
+PVH, PVH Corp.
+PWR, Quanta Services Inc.
+PXD, Pioneer Natural Resources
+PYPL, PayPal
+QCOM, QUALCOMM Inc.
+QRVO, Qorvo
+RCL, Royal Caribbean Cruises Ltd
+RE, Everest Re Group Ltd.
+REG, Regency Centers Corporation
+REGN, Regeneron Pharmaceuticals
+RF, Regions Financial Corp.
+RHI, Robert Half International
+RJF, Raymond James Financial Inc.
+RL, Ralph Lauren Corporation
+RMD, ResMed
+ROK, Rockwell Automation Inc.
+ROL, Rollins Inc.
+ROP, Roper Technologies
+ROST, Ross Stores
+RSG, Republic Services Inc
+RTN, Raytheon Co.
+SBAC, SBA Communications
+SBUX, Starbucks Corp.
+SCHW, Charles Schwab Corporation
+SEE, Sealed Air
+SHW, Sherwin-Williams
+SIVB, SVB Financial
+SJM, JM Smucker
+SLB, Schlumberger Ltd.
+SLG, SL Green Realty
+SNA, Snap-on
+SNPS, Synopsys Inc.
+SO, Southern Co.
+SPG, Simon Property Group Inc
+SPGI, S&P Global, Inc.
+SRE, Sempra Energy
+STI, SunTrust Banks
+STT, State Street Corp.
+STX, Seagate Technology
+STZ, Constellation Brands
+SWK, Stanley Black & Decker
+SWKS, Skyworks Solutions
+SYF, Synchrony Financial
+SYK, Stryker Corp.
+SYY, Sysco Corp.
+T, AT&T Inc.
+TAP, Molson Coors Brewing Company
+TDG, TransDigm Group
+TEL, TE Connectivity Ltd.
+TFX, Teleflex
+TGT, Target Corp.
+TIF, Tiffany & Co.
+TJX, TJX Companies Inc.
+TMO, Thermo Fisher Scientific
+TMUS, T-Mobile US
+TPR, Tapestry, Inc.
+TRIP, TripAdvisor
+TROW, T. Rowe Price Group
+TRV, The Travelers Companies Inc.
+TSCO, Tractor Supply Company
+TSN, Tyson Foods
+TTWO, Take-Two Interactive
+TWTR, Twitter, Inc.
+TXN, Texas Instruments
+TXT, Textron Inc.
+UA, Under Armour Class C
+UAA, Under Armour Class A
+UAL, United Airlines Holdings
+UDR, UDR, Inc.
+UHS, Universal Health Services, Inc.
+ULTA, Ulta Beauty
+UNH, United Health Group Inc.
+UNM, Unum Group
+UNP, Union Pacific Corp
+UPS, United Parcel Service
+URI, United Rentals, Inc.
+USB, U.S. Bancorp
+UTX, United Technologies
+V, Visa Inc.
+VAR, Varian Medical Systems
+VFC, V.F. Corp.
+VIAB, Viacom Inc.
+VLO, Valero Energy
+VMC, Vulcan Materials
+VNO, Vornado Realty Trust
+VRSK, Verisk Analytics
+VRSN, Verisign Inc.
+VRTX, Vertex Pharmaceuticals Inc
+VTR, Ventas Inc
+VZ, Verizon Communications
+WAB, Wabtec Corporation
+WAT, Waters Corporation
+WBA, Walgreens Boots Alliance
+WCG, WellCare
+WDC, Western Digital
+WEC, Wec Energy Group Inc
+WELL, Welltower Inc.
+WFC, Wells Fargo
+WHR, Whirlpool Corp.
+WLTW, Willis Towers Watson
+WM, Waste Management Inc.
+WMB, Williams Cos.
+WMT, Walmart
+WRK, WestRock
+WU, Western Union Co
+WY, Weyerhaeuser
+WYNN, Wynn Resorts Ltd
+XEC, Cimarex Energy
+XEL, Xcel Energy Inc
+XLNX, Xilinx
+XOM, Exxon Mobil Corp.
+XRAY, Dentsply Sirona
+XRX, Xerox
+XYL, Xylem Inc.
+YUM, Yum! Brands Inc
+ZBH, Zimmer Biomet Holdings
+ZION, Zions Bancorp
+ZTS, Zoetis
+AA, Alcoa Corp
+AAC, Aac Holdings Inc
+AAN, Aaron's Inc
+AAT, American Assets Trust
+AB, Alliancebernstein Holding LP
+ABB, Abb Ltd
+ABEV, Ambev S.A.
+ABG, Asbury Automotive Group Inc
+ABM, ABM Industries Incorporated
+ABR, Arbor Realty Trust
+AC, Associated Capital Group Inc
+ACA, Arcosa Inc
+ACB, Aurora Cannabis Inc
+ACC, American Campus Communities Inc
+ACCO, Acco Brands Corp
+ACH, Aluminum Corp of China Ltd
+ACM, Aecom Technology Corp
+ACP, Avenue Income Credit Strategies
+ACRE, Ares Commercial Real Estate Cor
+ADC, Agree Realty Corp
+ADNT, Adient Plc
+ADSW, Advanced Disposal Services Inc
+ADT, ADT Inc
+ADX, Adams Express Company
+AEB, Aegon N.V. Perp Cap Secs Floating Rate [Ne]
+AEG, Aegon N.V.
+AEH, Aegon N.V. Perp Cap Secs
+AEL, American Equity Investment Life
+AEM, Agnico-Eagle Mines Ltd
+AEO, American Eagle Outfitters
+AER, Aercap Holdings N.V.
+AFB, Alliance National Municipal
+AFC, Allied Capital Corp
+AFG, American Financial Group
+AFGB, American Financial Group Inc 5.875% Subordinat
+AFGE, American Financial Group Inc
+AFGH, American Financial Group Inc
+AFI, Armstrong Flooring Inc
+AFT, Apollo Senior Floating Rate Fund Inc
+AG, First Majestic Silver
+AGCO, Agco Corp
+AGD, Alpine Global Dynamic Dividend Fund
+AGI, Alamos Gold Inc
+AGM, Federal Agricultural Mortgage Corp
+AGM-A, Federal Agricultural Mortgage Corp [Agm/Pa]
+AGO, Assured Guaranty Ltd
+AGR, Avangrid Inc
+AGRO, Adecoagro S.A.
+AGS, Playags Inc
+AGX, Argan Inc
+AHC, A.H. Belo Corp
+AHH, Armada Hoffler Properties Inc
+AHT, Ashford Hospitality Trust Inc
+AI, Arlington Asset Investment Corp
+AIC, Arlington Asset Investment Cor
+AIF, Apollo Tactical Income Fund Inc
+AIN, Albany International Corp
+AIR, AAR Corp
+AIT, Applied Industrial Technologies
+AIW, Arlington Asset Investment Cor
+AIZP, Assurant Inc 6.50% Series D Mandatory Converti
+AJRD, Aerojet Rocketdyne Holdings
+AJX, Great Ajax Corp
+AJXA, Great Ajax Corp 7.25% Convertible Senior Notes
+AKR, Acadia Realty Trust
+AKS, AK Steel Holding Corp
+AL, Air Lease Corp Cl A
+ALC, Alcon Inc
+ALE, Allete Inc
+ALEX, Alexander and Baldwin Inc
+ALG, Alamo Group
+ALLY, Ally Financial
+ALSN, Allison Transmission Holdings
+ALV, Autoliv Inc
+ALX, Alexander's Inc
+AM, Antero Midstream Corp
+AMC, Amc Entertainment Holdings Inc
+AMH, American Homes 4 Rent
+AMK, Assetmark Financial Holdings Inc
+AMN, Amn Healthcare Services Inc
+AMOV, America Movil A ADR
+AMPY, Amplify Energy Corp
+AMRC, Ameresco Inc
+AMRX, Amneal Pharmaceuticals Inc
+AMX, America Movil S.A.B. DE C.V.
+AN, Autonation Inc
+ANF, Abercrombie & Fitch Company
+ANFI, Amira Nature Foods Ltd
+ANH, Anworth Mortgage Asset Corp
+AOD, Alpine Total Dynamic Dividend
+AP, Ampco-Pittsburgh Corp
+APAM, Artisan Partners Asset Mgmt
+APHA, Aphria Inc
+APLE, Apple Hospitality REIT Inc
+APO, Apollo Global Management Llc C
+APRN, Blue Apron Holdings Inc
+APTS, Preferred Apartment Communities
+APY, Apergy Corp
+AQ, Aquantia Corp
+AQN, Algonquin Pwr & Util
+AQNA, Algonquin Power & Utilities Corp
+AQNB, Algonquin Power & Utilities Corp. 6.20% Fixed-To
+AQUA, Evoqua Water Technologies Corp
+AR, Antero Resources Corp
+ARA, American Renal Associates
+ARC, American Reprographics Company
+ARCH, Arch Coal Inc
+ARCO, Arcos Dorados Holdings Inc
+ARD, Ardagh Group S.A.
+ARDC, Ares Dynamic Credit Allocation
+ARES, Ares Management LP
+ARGD, Argo Grp Itl Snr NTS
+ARGO, Argo Group Intl Hlds
+ARI, Apollo Commercial Real Estate
+ARL, American Realty Investors
+ARLO, Arlo Technologies Inc
+ARMK, Aramark Holdings Corp
+AROC, Archrock Inc
+ARR, Armour Residential R
+ARW, Arrow Electronics
+ASA, ASA Gold and Precious Metals
+ASB, Associated Banc-Corp
+ASC, Ardmore Shipping Corp
+ASG, Liberty All-Star Growth Fund
+ASGN, On Assignment
+ASH, Ashland Global Holdings Inc
+ASIX, Advansix Inc
+ASPN, Aspen Aerogels Inc
+ASR, Grupo Aeroportuario Del Sureste
+ASX, Ase Industrial Holding Co. Ltd
+AT, Atlantic Power Corp
+ATEN, A10 Networks Inc
+ATGE, Adtalem Global Education Inc
+ATH, Athene Holding Ltd
+ATHM, Autohome Inc
+ATI, Allegheny Technologies Inc
+ATKR, Atkore International Group
+ATR, Aptargroup
+ATTO, Atento S.A.
+ATU, Actuant Corp
+ATUS, Altice USA Inc Cl A
+ATV, Acorn International
+AU, Anglogold Ashanti Ltd
+AUO, Au Optronics Corp
+AUY, Yamana Gold
+AVA, Avista Corp
+AVAL, Grupo Aval Acciones Y Valores S
+AVD, American Vanguard Corp
+AVH, Avianca Holdings S.A.
+AVK, Advent Claymore Convertible Securities
+AVLR, Avalara Inc
+AVNS, Avanos Medical Inc
+AVP, Avon Products
+AVTR, Avantor Inc
+AVX, Avx Corp
+AVYA, Avaya Holdings Corp
+AWF, Alliancebernstein Global High Income Fund
+AWI, Armstrong World Industries Inc
+AWP, Alpine Global Premier Propertie
+AWR, American States Water Company
+AX, Axos Financial Inc
+AXE, Anixter International Inc
+AXL, American Axle & Manufacturing
+AXO, Axos Financial Inc
+AXR, Amrep Corp
+AXS, Axis Capital Holdings
+AXTA, Axalta Coating Systems Ltd
+AYI, Acuity Brands Inc
+AYR, Aircastle Ltd
+AYX, Alteryx Inc
+AZN, Astrazeneca Plc
+AZRE, Azure Power Global Ltd
+AZUL, Azul S.A. ADR
+AZZ, Azz Inc
+B, Barnes Group
+BABA, Alibaba Group Holding
+BAF, Blackrock Income Inv Quality Trust
+BAH, Booz Allen Hamilton Holding Corp
+BAM, Brookfield Asset Management Inc
+BANC, First Pactrust Bancorp
+BAP, Credicorp Ltd
+BAS, Basic Energy Services
+BB, Blackberry Ltd
+BBAR, Bbva Banco Frances S.A.
+BBD, Banco Bradesco S.A.
+BBDC, Barings Bdc Inc
+BBDO, Banco Bradesco S.A.
+BBF, Blackrock Muni Income Trust
+BBK, Blackrock Muni Trust
+BBL, Bhp Billiton Plc
+BBN, Balckrock Build America Trust
+BBU, Brookfield Business Partners LP
+BBVA, Banco Bilbao Viscaya Argentaria S.A.
+BBW, Build-A-Bear Workshop
+BBX, Bbx Capital Corp
+BC, Brunswick Corp
+BCC, Boise Cascade L.L.C.
+BCE, BCE Inc
+BCEI, Bonanza Creek Energy Inc
+BCH, Banco DE Chile
+BCO, Brink's Company
+BCRH, Blue Capital Reinsurance
+BCS, Barclays Plc
+BCSF, Bain Capital Specialty Finance Inc
+BCX, Blackrock Resources
+BDC, Belden Inc
+BDJ, Blackrock Enhanced Dividend Achievers
+BDN, Brandywine Realty Trust
+BDXA, Becton Dickinson & Company
+BE, Bloom Energy Corp Cl A
+BEDU, Bright Scholar Education Holdings Ltd
+BEP, Brookfield Renewable
+BERY, Berry Global Group
+BEST, Best Inc
+BFAM, Bright Horizons Family Solutions Inc
+BFK, Blackrock Muni Income Trust
+BFO, Blackrock Florida Muni 2020 Trust
+BFS, Saul Centers
+BFY, Blackrock New York Muni Trust II
+BFZ, Blackrock California Muni Trust
+BG, Bunge Ltd
+BGB, Blackstone / Gso Strategic Cre
+BGG, Briggs & Stratton Corp
+BGH, Babson Capital Global Short Du
+BGIO, Blackrock 2022 Global Income Opportunity Trust
+BGR, Blackrock Energy and Resources Trust
+BGS, B&G Foods Holdings
+BGT, Blackrock Global
+BGX, Blackstone Gso Long Short Credit Fund
+BGY, Blackrock International
+BH, Biglari Holdings Inc
+BHC, Bausch Health Companies Inc
+BHE, Benchmark Electronics
+BHGE, Baker Hughes A Ge Co. Cl A
+BHK, Blackrock Core Trust
+BHLB, Berkshire Hills Bancorp
+BHP, Bhp Billiton Ltd
+BHR, Braemar Hotels & Resorts Inc
+BHV, Blackrock Virginia Muni Trust
+BHVN, Biohaven Pharmaceutical Holding Company Ltd
+BID, Sotheby's Holdings
+BIF, Boulder Growth & Income Fund Inc
+BIG, Big Lots
+BIO, Bio-Rad Laboratories
+BIP, Brookfield Infrastructure Partners LP
+BIT, Blackrock Multi-Sector Income T
+BITA, Bitauto Holdings Ltd
+BJ, Bj's Wholesale Club Holdings Inc
+BKD, Brookdale Senior Living Inc
+BKE, Buckle Inc
+BKH, Black Hills Corp
+BKI, Black Knight Inc
+BKK, Blackrock Muni 2020 Trust
+BKN, Blackrock Investment Quality Municipal
+BKT, Blackrock Income Trust Inc
+BKU, BankUnited Inc
+BLD, Topbuild Corp
+BLE, Blackrock Muni Income Trust II
+BLW, Blackrock Ltd Duration Income Trust
+BLX, Banco Latinoamericano DE Comercio
+BMA, Banco Macro S.A.
+BME, Blackrock Health Sciences Trust
+BMI, Badger Meter
+BMO, Bank of Montreal
+BNED, Barnes & Noble Education Inc C
+BNS, Bank of Nova Scotia
+BNY, Blackrock New York Muni Trust Inc
+BOE, Blackrock Global
+BOH, Bank of Hawaii Corp
+BOOT, Boot Barn Holdings Inc
+BORR, Borr Drilling Ltd
+BOX, Box Inc
+BP, BP Plc
+BPL, Buckeye Partners LP
+BPMP, BP Midstream Partners LP
+BPT, BP Prudhoe Bay Royalty Trust
+BQH, Blackrock New York Muni Trust
+BRC, Brady Corp
+BRFS, Brf-Brasil Foods S.A.
+BRK.A, Berkshire Hathaway Cl A
+BRO, Brown & Brown
+BRPM, B. Riley Principal Merger Corp
+BRT, BRT Realty Trust
+BRX, Brixmor Property Group Inc
+BSA, Brightsphere Investment Group Plc
+BSAC, Banco Santander Chile ADR
+BSBR, Banco Santander Brasil S.A.
+BSD, Blackrock Strategic Muni Trust Inc
+BSE, Blackrock New York Muni Income Trust
+BSIG, Brightsphere Investment Group Plc
+BSL, Blackstone Gso Senior Floating Rate
+BSM, Black Stone Minerals LP
+BSMX, Grupo Financiero Santander Mexico
+BST, Blackrock Science and Technolo
+BSTZ, Blackrock Science and Technology Trust II
+BTA, Blackrock Long-Term Muni Advantage Trust
+BTE, Baytex Energy Corp
+BTI, British American Tobacco Industries
+BTO, John Hancock Bank and Thrift Fund
+BTT, Blackrock Municipal Target Term
+BTU, Peabody Energy Corp
+BTZ, Blackrock Preferred
+BUD, Anheuser-Busch Inbev S.A.
+BUI, Blackrock Utility and Infrastr
+BURL, Burlington Stores Inc
+BV, Brightview Holdings Inc
+BVN, Compania Mina Buenaventura S.A.
+BW, Babcock & Wilcox Enterprises
+BWG, Legg Mason Bw Global Income
+BWXT, Bwx Technologies Inc
+BX, The Blackstone Group LP
+BXC, Bluelinx Holdings Inc
+BXG, Bluegreen Vacations Corp
+BXMT, Blackstone Mortgage Trust Inc Cl A
+BXMX, Nuveen Equity Premium
+BXS, Bancorpsouth Inc
+BY, Byline Bancorp Inc
+BYD, Boyd Gaming Corp
+BYM, Blackrock Muni Income Quality Trust
+BZH, Beazer Homes USA
+BZM, Blackrock Maryland Muni Trust
+CAAP, Corporacion America Airports Sa
+CABO, Cable One Inc
+CACI, Caci International
+CADE, Cadence Bancorp Cl A
+CAE, Cae Inc
+CAF, Morgan Stanley China A Share Fund Inc
+CAI, Cai International
+CAJ, Canon Inc
+CAL, Caleres Inc
+CALX, Calix Inc
+CANG, Cango Inc ADR
+CAPL, Crossamerica Partners LP
+CARS, Cars.com Inc
+CATO, Cato Corp
+CBB, Cincinnati Bell Inc
+CBD, Companhia Brasileira DE Distribuicao
+CBH, Allianzgi Convertible Income 2024 Target Term Fu
+CBL, Cbl & Associates Properties
+CBM, Cambrex Corp
+CBPX, Continental Building Products
+CBT, Cabot Corp
+CBU, Community Bank System
+CBZ, Cbiz Inc
+CC, Chemours Company
+CCC, Clarivate Analytics Plc
+CCEP, Coca Cola European Partners
+CCH, Collier Creek Holdings Cl A
+CCJ, Cameco Corp
+CCK, Crown Cork & Seal Company
+CCM, Concord Medical Services
+CCO, Clear Channel Outdoor Holdings
+CCR, Consol Coal Resources LP
+CCS, Century Communities Inc
+CCU, Compania Cervecerias Unidas S.A.
+CCX, Churchill Capital Corp II
+CCZ, Comcast Corp
+CDAY, Ceridian Hcm Holding Inc
+CDE, Coeur Mining Inc
+CDR, Cedar Shopping Centers Inc
+CEA, China Eastern Airlines Corp Ltd
+CEE, Central Europe and Russia Fund
+CEIX, Consol Energy Inc
+CEL, Cellcom Israel
+CELP, Cypress Energy Partners LP
+CEM, Clearbridge Energy MLP Fund Inc
+CEN, Center Coast MLP & Infrastructure
+CEO, Cnooc Ltd
+CEPU, Central Puerto S.A. ADR
+CEQP, Crestwood Equity Partners LP
+CFR, Cullen/Frost Bankers
+CFX, Colfax Corp
+CFXA, Colfax Corp Tangible Equity Unit
+CGA, China Green Agriculture
+CGC, Canopy Growth Corp
+CHA, China Telecom Corp Ltd
+CHAP, Chaparral Energy Inc
+CHCT, Community Healthcare Trust Inc
+CHE, Chemed Inc
+CHGG, Chegg Inc
+CHH, Choice Hotels International
+CHK, Chesapeake Energy Corp
+CHKR, Chesapeake Granite Wash Trust
+CHL, China Mobile [Hong Kong] Ltd
+CHMI, Cherry Hill Mortgage Investmen
+CHN, China Fund
+CHRA, Charah Solutions Inc
+CHS, Chico's Fas
+CHT, Chunghwa Telecom Co. Ltd
+CHU, China Unicom [Hong Kong] Ltd
+CHWY, Chewy Inc
+CIA, Citizens Inc
+CIB, Bancolombia S.A.
+CIEN, Ciena Corp
+CIF, Colonial Intermediate High
+CIG, Comp En DE MN Cemig ADR
+CII, Blackrock Capital and Income Strategies
+CIM, Chimera Investment Corp
+CINR, Ciner Resources LP
+CIO, City Office REIT Inc
+CIR, Circor International
+CISN, Cision Ltd
+CIT, Cit Group Inc
+CJ, C&J Energy Services Inc
+CKH, Seacor Smit Inc
+CLB, Core Laboratories N.V.
+CLDR, Cloudera Inc
+CLDT, Chatham Lodging Trust [Reit]
+CLF, Cleveland-Cliffs Inc
+CLGX, Corelogic
+CLH, Clean Harbors
+CLI, Mack-Cali Realty Corp
+CLNC, Colony Northstar Credit Real Estate Inc Class
+CLNY, Colony Capital Inc
+CLPR, Clipper Realty Inc
+CLR, Continental Resources
+CLS, Celestica Inc
+CLW, Clearwater Paper Corp
+CM, Canadian Imperial Bank of Commerce
+CMC, Commercial Metals Company
+CMCM, Cheetah Mobile Inc
+CMD, Cantel Medical
+CMO, Capstead Mortgage Corp
+CMP, Compass Minerals Intl Inc
+CMRE, Costamare Inc
+CMSA, Cms Energy Corp 5.625% Junior Subordinate
+CMSC, Cms Energy Corp
+CMSD, Cms Energy Corp 5.875% Junior Subordinate
+CMU, Colonial Muni Income Trust
+CNA, Cna Financial Corp
+CNDT, Conduent Inc
+CNF, Cnfinance Holdings Ltd ADR
+CNHI, CNH Industrial N.V.
+CNI, Canadian National Railway
+CNK, Cinemark Holdings Inc
+CNNE, Cannae Holdings Inc
+CNO, Cno Financial Group
+CNQ, Canadian Natural Resources
+CNR, Cornerstone Building Brands Inc
+CNS, Cohn & Steers Inc
+CNX, CNX Resources Corp
+CNXM, CNX Midstream Partners LP
+CO, Global Cord Blood Corp
+CODI, Compass Diversified Holdings
+COE, China Online Education Group
+COLD, Americold Realty Trust
+COR, Coresite Realty Corp
+CORR, Corenergy Infrastructure Trust Inc
+COT, Cott Corp
+CP, Canadian Pacific Railway
+CPA, Copa Holdings S.A.
+CPAC, Cementos Pacasmayo S.A.A
+CPE, Callon Petroleum Company
+CPF, Central Pacific Financial Company
+CPG, Crescent Pt Energy
+CPK, Chesapeake Utilities Corp
+CPL, Cpfl Energia S.A.
+CPLG, Corepoint Lodging Inc
+CPS, Cooper Std Hldg Inc
+CPT, Camden Property Trust
+CR, Crane Company
+CRC, California Resources Corp
+CRCM, Care.com Inc
+CRH, CRH Plc
+CRI, Carter's Inc
+CRK, Comstock Resources
+CRL, Charles River Laboratories Intl
+CRR, Carbo Ceramics
+CRS, Carpenter Technology Corp
+CRT, Cross Timbers Royalty Trust
+CRY, Cryolife
+CS, Credit Suisse Group
+CSL, Carlisle Companies Inc
+CSLT, Castlight Health Inc
+CSS, Css Industries
+CSTM, Constellium N.V.
+CSU, Capital Senior Living Corp
+CSV, Carriage Services
+CTAA, Qwest Corp
+CTB, Cooper Tire & Rubber Company
+CTBB, Qwest Corp
+CTDD, Qwest Corp 6.75% Notes Due 2057
+CTK, Cootek [Cayman] Inc
+CTLT, Catalent Inc
+CTR, Clearbridge Energy MLP Fund IN
+CTRA, Contura Energy Inc
+CTS, Cts Corp
+CTST, Canntrust Holdings Inc
+CTT, Catchmark Timber Trust Inc
+CTV, Qwest Corp
+CTY, Qwest Corp
+CTZ, Qwest Corp 6.625% Notes
+CUB, Cubic Corp
+CUBE, Cubesmart
+CUBI, Customers Bancorp
+CUK, Carnival Plc ADR
+CULP, Culp Inc
+CURO, Curo Group Holdings Corp
+CUZ, Cousins Properties Inc
+CVA, Covanta Holding Corp
+CVE, Cenovus Energy Inc
+CVEO, Civeo Corp
+CVI, Cvr Energy Inc
+CVIA, Covia Holdings Corp
+CVNA, Carvana Co. Cl A
+CW, Curtiss-Wright Corp
+CWEN, Clearway Energy Inc Cl C
+CWH, Camping World Holdings Inc
+CWK, Cushman & Wakefield Plc
+CWT, California Water Service Group Holding
+CX, Cemex S.A.B. DE C.V.
+CXE, Colonial High Income Muni Trust
+CXH, Colonial Investment Grade Muni Trust
+CXP, Columbia Property Trust Inc
+CXW, Corecivic Inc
+CYD, China Yuchai International
+CYH, Community Health Systems
+CZZ, Cosan Ltd
+DAC, Danaos Corp
+DAN, Dana Inc
+DAR, Darling International Inc
+DAVA, Endava Plc
+DB, Deutsche Bank Ag
+DBD, Diebold Nixdorf Inc
+DBI, Designer Brands Inc
+DBL, Doubleline Opportunistic Credi
+DCF, Dreyfus Alcentra Global Credit Income 2024 Targe
+DCI, Donaldson Company
+DCO, Ducommun Inc
+DCP, Dcp Midstream LP
+DCUE, Dominion Energy Inc 2019 Series A
+DDD, 3D Systems Corp
+DDF, Delaware Dividend & Income
+DDS, Dillard's
+DDT, Dillard's
+DEA, Easterly Government Properties
+DECK, Deckers Outdoor Corp
+DEI, Douglas Emmett
+DELL, Dell Technologies Inc
+DEO, Diageo Plc
+DESP, Despegar.com Corp
+DEX, Delaware Enhanced Global Dividend
+DF, Dean Foods Company
+DFIN, Donnelly Financial Solutions Inc
+DFP, Flaherty & Crumrine Dynamic
+DHF, Dreyfus High Yield Strategies Fund
+DHT, Dht Holdings
+DHX, Dice Holdings
+DIAX, Nuveen Dow
+DIN, Dineequity Inc
+DK, Delek US Holdings
+DKL, Delek Logistics Partners LP
+DKS, Dick's Sporting Goods Inc
+DKT, Deutsch Bk Contingent Cap TR V
+DL, China Distance Education Holdings
+DLB, Dolby Laboratories
+DLNG, Dynagas Lng Partners LP
+DLPH, Delphi Technologies Plc
+DLX, Deluxe Corp
+DMB, Dreyfus Municipal Bond Infrastr
+DMO, Western Asset Mortgage Defined Opp
+DNI, Chartwell Dividend & Income Fund
+DNOW, Now Inc
+DNP, Duff & Phelps Utilities Income
+DNR, Denbury Resources
+DO, Diamond Offshore Drilling
+DOC, Physicians Realty Trust
+DOOR, Masonite Wrldwde Hld
+DPG, Duff & Phelps Global Utility
+DPLO, Diplomat Pharmacy Inc
+DPZ, Domino's Pizza Inc
+DQ, Daqo New Energy
+DRD, Drdgold Ltd
+DRH, Diamondrock Hospitality Company
+DRQ, Dril-Quip
+DRUA, Dominion Resources Inc
+DS, Drive Shack Inc
+DSE, Duff & Phelps Select Energy ML
+DSL, Doubleline Income Solutions Fun
+DSM, Dreyfus Strategic Muni Bond Fund
+DSSI, Diamond S Shipping Inc
+DSU, Blackrock Debt Strategies Fund
+DSX, Diana Shipping Inc
+DT, Dynatrace Inc
+DTF, Duff & Phelps Utilities Tax-Free Income
+DTJ, Dte Energy Company 2016 Series
+DTQ, Dte Energy Company Sub Deb 62
+DTV, Dte Energy Company Corp Unit
+DTW, Dte Energy Company 2017 Series E 5.25% Jr
+DTY, Dignity Plc
+DUC, Duff & Phelps Utility & Corporate Trust
+DUKB, Duke Energy Corp 5.625%
+DUKH, Duke Energy Corp 5.125%
+DVD, Dover Downs Entertainment
+DX, Dynex Capital
+DXB, Deutsche Bk Contingent Cap TR
+DY, Dycom Industries
+E, Eni S.P.A.
+EAB, First Mortgage Bonds
+EAE, Entergy Arkansas Inc
+EAF, Graftech International Ltd
+EAI, Entergy Arkansas Inc
+EARN, Ellington Residential Mortgage
+EAT, Brinker International
+EB, Eventbrite Inc
+EBF, Ennis Inc
+EBR, Centrais Electricas Brazil
+EBS, Emergent Biosolutions
+EC, Ecopetrol S.A.
+ECA, Encana Corp
+ECC, Eagle Point Credit Co. Inc
+ECCA, Eagle Point Credit Company Inc
+ECCB, Eagle Point Credit Company Inc
+ECCX, Eagle Point Credit Company Inc 6.6875% Notes Du
+ECCY, Eagle Point Credit Company Inc
+ECOM, Channeladvisor Corp
+ECT, Eca Marcellus Trust
+EDD, Emerging Markets Domestic Debt Fund
+EDF, Stone Harbor Emerging Markets
+EDI, Stone Harbor Emerging Markets
+EDN, Empresa Distribuidora Y Comercializadora
+EDU, New Oriental Education & Technology Group
+EE, El Paso Electric Company
+EEA, European Equity Fund
+EEX, Emerald Expositions Events Inc
+EFC, Ellington Financial Llc
+EFF, Eaton Vance Floating-Rate Inco
+EFL, Eaton Vance Floating-Rate 2022 Target Term Trust
+EFR, Eaton Vance Senior Floating-Rate Fund
+EFT, Eaton Vance Floating Rate Income Trust
+EGF, Blackrock Enhanced Government Fund
+EGHT, 8X8 Inc
+EGIF, Eagle Growth and Income Opportunity
+EGO, Eldorado Gold Corp
+EGP, Eastgroup Properties
+EGY, Vaalco Energy Inc
+EHC, Encompass Health Corp
+EHI, Western Asset Global High
+EHT, Eaton Vance High Income 2021 Ta
+EIC, Eagle Point Income Company Inc
+EIG, Employers Holdings Inc
+ELAN, Elanco Animal Health Inc
+ELC, Entergy Louisiana Llc
+ELF, E.L.F. Beauty Inc
+ELJ, Entergy Louisiana Llc
+ELP, Companhia Paranaense DE Energia
+ELS, Equity Lifestyle Properties
+ELU, Entergy Louisiana Llc First M
+ELVT, Elevate Credit Inc
+ELY, Callaway Golf Company
+EMD, Western Asset Emerging Market Debt Fund Inc
+EME, Emcor Group
+EMF, Templeton Emerging Markets Fund
+EMO, Clearbridge Energy MLP Opportu
+EMP, Entergy Mississippi Inc 4.9% Bonds
+ENB, Enbridge Inc
+ENBA, Enbridge Inc 6.375% Fixed-To-Floating Rate
+ENBL, Enable Midstream Partners LP
+ENIA, Enersis Americas S.A. American
+ENIC, Enersis Chile S.A. ADR
+ENJ, Entergy New Orleans Inc
+ENLC, Enlink Midstream Llc
+ENO, Entergy New Orleans Incfirst
+ENR, Energizer Holdings Inc
+ENS, Enersys Inc
+ENV, Envestnet Inc
+ENVA, Enova International Inc
+ENZ, Enzo Biochem
+EOD, Wells Fargo Global Dividend Opportunity
+EOI, Eaton Vance Enhance Equity
+EOS, Eaton Vance Enhanced Equity II
+EOT, Eaton Vance Muni Income Trust
+EPAC, Actuant Corp
+EPAM, Epam Systems Inc
+EPC, Edgewell Personal Care
+EPD, Enterprise Products Partners LP
+EPR, Entertainment Properties Trust
+EPRT, Essential Properties Realty Trust Inc
+EQC, Equity Commonwealth
+EQH, Axa Equitable Holdings Inc
+EQM, Eqm Midstream Partners LP
+EQNR, Equinor ASA
+EQS, Equus Total Return
+EQT, Eqt Corp
+ERA, Era Group Inc
+ERF, Enerplus Corp
+ERJ, Embraer-Empresa Brasileira DE Aeronautica
+EROS, Eros International Plc
+ESE, Esco Technologies Inc
+ESI, Element Solutions Inc
+ESNT, Essent Group Ltd
+ESRT, Empire State Realty Trust Inc
+ESTC, Elastic N.V.
+ESTE, Earthstone Energy
+ET, Energy Transfer LP
+ETB, Eaton Vance Tax-Managed Buy-Write
+ETG, Eaton Vance Tax-Advantaged Global Dividend
+ETH, Ethan Allen Interiors Inc
+ETJ, Eaton Vance Risk-Managed Diversified Equity
+ETM, Entercom Communications Corp
+ETO, Eaton Vance Tax-Advantage Global Dividend Opp
+ETRN, Equitrans Midstream Corp
+ETV, Eaton Vance Corp
+ETW, Eaton Vance Corp
+ETX, Eaton Vance Municipal Income T
+ETY, Eaton Vance Tax-Managed Diversified Equity
+EURN, Euronav NV
+EV, Eaton Vance Corp
+EVA, Enviva Partners LP
+EVC, Entravision Communications Corp
+EVF, Eaton Vance Senior Income Trust
+EVG, Eaton Vance Short Diversified
+EVH, Evolent Health Inc Cl A Com
+EVN, Eaton Vance Muni Income Trust
+EVR, Evercore Partners Inc
+EVRI, Everi Holdings Inc
+EVT, Eaton Vance Tax Advantaged Dividend
+EVTC, Evertec Inc
+EXD, Eaton Vance Tax-Advantaged Bond
+EXG, Eaton Vance Tax-Managed Global Diversified Equit
+EXK, Endeavour Silver Corp
+EXP, Eagle Materials Inc
+EXPR, Express Inc
+EXTN, Exterran Corp
+EZT, First Mortgage Bonds
+FAF, First American Corp
+FAM, First Trust/Aberdeen Global Opportunity
+FBC, Flagstar Bancorp
+FBK, Fb Financial Corp
+FBM, Foundation Building Materials Inc
+FBP, First Bancorp
+FC, Franklin Covey Company
+FCAU, Fiat Chrysler Automobiles N.V.
+FCF, First Commonwealth Financial Corp
+FCN, Fti Consulting
+FCPT, Four Corners Property Trust IN
+FCT, Senior Floating Rate II
+FDEU, First Trust Dynamic Europe Equi
+FDP, Fresh Del Monte Produce
+FDS, Factset Research Systems Inc
+FEDU, Four Seasons Education [Cayman] Inc
+FEI, First Trust MLP and Energy Inc
+FELP, Foresight Energy LP
+FENG, Phoenix New Media Ltd
+FEO, First Trust/Aberdeen Emerging Opportunity Fund
+FET, Forum Energy Technologies Inc
+FF, Futurefuel Corp
+FFA, First Trust Enhanced Equity Income Fund
+FFC, Flaherty Crumrine/Claymore Preferred Securities
+FFG, Fbl Financial Group
+FG, Fgl Holdings
+FGB, Specialty Finance and Financial Fund
+FGP, Ferrellgas Partners LP
+FHN, First Horizon National Corp
+FI, Frank's International N.V.
+FICO, Fair Isaac and Company Inc
+FIF, First Trust Energy Infrastruct
+FII, Federated Investors
+FINS, Angel Oak Financial Strategies Income Term Trust
+FIT, Fitbit Inc
+FIV, First Trust Senior Floating Rate 2022 Target Ter
+FIX, Comfort Systems USA
+FL, Footlocker Inc
+FLC, Flaherty & Crumrine/Claymore Total Return
+FLNG, Flex Lng Ltd
+FLO, Flowers Foods
+FLOW, SPX Flow Inc
+FLR, Fluor Corp
+FLY, Fly Leasing Ltd
+FMN, Federated Premier Muni
+FMO, Fiduciary/Claymore MLP Opportunity Fund
+FMS, Fresenius Medical Care Corp
+FMX, Fomento Economico Mexicano S.A.B. DE C.V.
+FMY, First Trust/Fidac Mortgage Income Fund
+FN, Fabrinet
+FNB, F.N.B. Corp
+FND, Floor & Decor Holdings Inc
+FNF, Fidelity National Financial
+FNV, Franco Nev Corp
+FOE, Ferro Corp
+FOF, Cohen & Steers Closed-End Opportunity Fund
+FOR, Forestar Group Inc
+FPAC, Far Point Acquisition Corp Cl A
+FPF, First Trust Intermediate Durat
+FPH, Five Point Holdings Llc Cl A
+FPI, Farmland Partners Inc
+FPL, First Trust New Opportunities M
+FR, First Industrial Realty Trust
+FRA, Blackrock Floating Rate Income Fund
+FRAC, Keane Group Inc
+FRO, Frontline Ltd
+FSB, Franklin Financial Network Inc
+FSD, High Income Long Short Fund
+FSK, FS KKR Capital Corp
+FSLY, Fastly Inc
+FSM, Fortuna Silver Mines
+FSS, Federal Signal Corp
+FT, Franklin Universal Trust
+FTAI, Fortress Transportation & Infra
+FTCH, Farfetch Ltd Cl A
+FTK, Flotek Industries
+FTS, Fortis Inc
+FTSI, Fts International Inc
+FUL, H. B. Fuller Company
+FUN, Cedar Fair LP
+FVRR, Fiverr International Ltd
+G, Genpact Ltd
+GAB, Gabelli Equity Trust
+GAM, General American Investors
+GATX, GATX Corp
+GBAB, Guggenheim Build America Bonds
+GBL, Gamco Investors
+GBX, Greenbrier Companies
+GCAP, Gain Capital Holdings
+GCI, Gannett Co. Inc
+GCO, Genesco Inc
+GCP, Gcp Applied Technologies Inc C
+GCV, Gabelli Convertible and Income Securities
+GDDY, Godaddy Inc
+GDI, Gardner Denver Holdings Inc
+GDL, The Gdl Fund
+GDO, Western Asset Global Corporate Defined
+GDOT, Green Dot Corp
+GDV, Gabelli Dividend
+GEF, Greif Bros. Corp
+GEL, Genesis Energy LP
+GEN, Genesis Healthcare Inc
+GEO, Geo Group Inc
+GER, Goldman Sachs MLP Energy Renai
+GES, Guess Inc
+GF, New Germany Fund
+GFF, Griffon Corp
+GFI, Gold Fields Ltd
+GFY, Western Asset Variable Rate Strategic
+GGB, Gerdau S.A.
+GGG, Graco Inc
+GGM, Guggenheim Credit Allocation F
+GGT, Gabelli Global Multi-Media Trust
+GGZ, Gabelli Global Small and Mid CA
+GHC, Graham Holdings Company
+GHG, Greentree Hospitality Group Ltd ADR
+GHL, Greenhill & Co. Inc
+GHM, Graham Corp
+GHY, Prudential Global Short Durati
+GIB, CGI Group
+GIG, Gigcapital Inc
+GIL, Gildan Activewear
+GIM, Templeton Global
+GIX, Gigcapital2 Inc
+GJH, Strats Sm Trust For United States Cellular Corp
+GJO, Strats Sm Trust For Wal-Mart Stores Inc Securiti
+GJP, Strats Sm Trust For Dominion Resources Inc Secur
+GJR, Strats Sm Trust For The Procter & Gamble Co. Sec
+GJS, Strats Sm Trust For Goldman Sachs Group Securiti
+GJT, Strats Sm Trust For Allstate Corp Securities Ser
+GJV, Strats Sm Trust For News Corp Securities Series
+GKOS, Glaukos Corp
+GLOB, Globant S.A.
+GLOG, Gaslog Ltd
+GLOP, Gaslog Partners LP
+GLP, Global Partners LP
+GLT, Glatfelter
+GME, Gamestop Corp
+GMED, Globus Medical Inc
+GMRE, Global Medical REIT Inc
+GMS, Gms Inc
+GMTA, GATX Corp 5.625% Senior
+GMZ, Goldman Sachs MLP Income Oppor
+GNC, GNC Holdings Inc
+GNE, Genie Energy Ltd Cl B
+GNK, Genco Shipping & Trading Ltd
+GNL, Global Net Lease Inc
+GNRC, Generac Holdings Inc
+GNT, Gabelli Natural Resources Gold
+GNW, Genworth Financial Inc
+GOF, Claymore/Guggenheim Strategic Fund
+GOL, Gol Linhas Aereas Inteligentes S.A.
+GOLD, Barrick Gold Corp
+GOLF, Acushnet Holdings Corp
+GOOS, Canada Goose Holdings Inc Subordinate Voting Sh
+GPI, Group 1 Automotive
+GPJA, Georgia Power Company Series 2017A 5.00% Jr
+GPK, Graphic Packaging Holding Company
+GPM, Guggenheim Enhanced Equity
+GPMT, Granite Point Mortgage Trust Inc
+GPRK, Geopark Hldgs Lmtd
+GPX, Gp Strategies Corp
+GRA, W.R. Grace & Company
+GRAF, Graf Industrial Corp
+GRAM, Grana Y Montero S.A.A.
+GRC, Gorman-Rupp Company
+GRUB, Grubhub Inc
+GRX, The Gabelli Healthcare & Wellness Trust
+GSAH, GS Acquisition Holdings Corp Cl A
+GSBD, Goldman Sachs Bdc Inc
+GSH, Guangshen Railway
+GSK, Glaxosmithkline Plc
+GSL, Global Ship Lease Inc
+GSX, Gsx Techedu Inc ADR
+GTES, Gates Industrial Corp Plc
+GTN, Gray Television
+GTS, Triple-S Management Corp
+GTT, Global Telcom & Technology Inc
+GTX, Garrett Motion Inc
+GTY, Getty Realty Corp
+GUT, Gabelli Utility Trust
+GVA, Granite Construction Inc
+GWB, Great Western Bancorp Inc
+GWR, Genesee & Wyoming
+GWRE, Guidewire Software Inc
+GYB, Cabco Series 2004-101 Trust
+GYC, Corporate Asset Backed Corp Cabco
+H, Hyatt Hotels Corp
+HAE, Haemonetics Corp
+HASI, Hannon Armstrong Sustainable IN
+HBB, Hamilton Beach Brands Holding Company Cl A
+HBM, Hudbay Minerals Inc
+HCC, Warrior Met Coal Inc
+HCFT, Hunt Companies Finance Trust Inc
+HCHC, Hc2 Holdings Inc
+HCI, Homeowners Choice
+HCP, HCP Inc
+HCR, Hi-Crush Inc
+HCXY, Hercules Capital Inc 6.25% Notes Due 2033
+HCXZ, Hercules Capital Inc 5.25% Notes Due 2025
+HDB, Hdfc Bank Ltd
+HE, Hawaiian Electric Industries
+HEI, Heico Corp
+HEP, Holly Energy Partners LP
+HEQ, John Hancock Hedged Eqty & Inc
+HESM, Hess Midstream Partners LP
+HEXO, Hexo Corp
+HFRO, Highland Floating Rate Opportunities Fund
+HGH, The Hartford Financial Srvcs G
+HGLB, Highland Global Allocation Fund
+HGV, Hilton Grand Vacations Inc
+HHC, Howard Hughes Corp
+HHS, Harte-Hanks
+HI, Hillenbrand Inc
+HIE, Miller/Howard High Income Eqty
+HIL, Hill International Inc
+HIO, Western Asset High
+HIW, Highwoods Properties
+HIX, Western Asset High Income Fund II Inc
+HJV, MS S.A.C. Saturns Ge Series 2002-14
+HKIB, Amtd International Inc
+HL, Hecla Mining Company
+HLF, Herbalife Ltd
+HLI, Houlihan Lokey
+HLX, Helix Energy Solutions Group
+HMC, Honda Motor Company
+HMI, Huami Corp ADR
+HMLP, Hoegh Lng Partners LP
+HMN, Horace Mann Educators Corp
+HMY, Harmony Gold Mining Co. Ltd
+HNGR, Hanger Inc
+HNI, Hon Industries Inc
+HNP, Huaneng Power Intl
+HOME, At Home Group Inc
+HOS, Hornbeck Offshore Services
+HOV, Hovnanian Enterprises Inc
+HPF, John Hancock Pfd II
+HPI, John Hancock Preferred
+HPP, Hudson Pacific Properties
+HPR, Highpoint Resources Corp
+HPS, John Hancock Preferred Income Fund III
+HQH, Tekla Healthcare Investors
+HQL, Tekla Life Sciences Investors
+HR, Healthcare Realty Trust Inc
+HRC, Hill-Rom Holdings Inc
+HRI, Herc Holdings Inc
+HRTG, Heritage Insurance Holdings
+HSBC, HSBC Holdings Plc
+HSC, Harsco Corp
+HT, Hersha Hospitality Trust
+HTA, Healthcare Trust of America
+HTD, John Hancock Tax Advantaged Dividend
+HTFA, Horizon Technology Finance 6.25% Notes Due 2022
+HTGC, Hercules Technology Growth Capital
+HTH, Hilltop Holdings Inc
+HTY, John Hancock Tax-Advantaged Global
+HTZ, Hertz Global Holdings Inc
+HUBB, Hubbell Inc B
+HUBS, Hubspot Inc
+HUD, Hudson Ltd Cl A
+HUN, Huntsman Corp
+HUYA, Huya Inc
+HVT, Haverty Furniture Companies
+HXL, Hexcel Corp
+HY, Hyster-Yale Materials Handling
+HYB, New America High
+HYI, Western Asset High Yield Defined
+HYT, Blackrock High Yield Fund Vi Inc
+HZN, Horizon Global Corp Comm
+HZO, Marinemax Inc
+I, Intelsat S.A.
+IAA, Iaa Inc
+IAE, VOYA Asia Pacific High Dividend Equity
+IAG, Iamgold Corp
+IBA, Industrias Bachoco S.A. DE C.V.
+IBN, Icici Bank Ltd
+IBP, Installed Building Products
+ICD, Independence Contract Drilling Inc
+ICL, Israel Chemicals Ltd
+IDA, Idacorp Inc
+IDE, VOYA Infrastructure Industrial
+IDT, IDT Corp
+IFFT, International Flavors & Fragrances Inc
+IFN, India Fund
+IFS, Intercorp Financial Services Inc
+IGA, VOYA Global Advantage and Premium
+IGD, VOYA Global Equity Dividend and Premium
+IGI, Western Asset Investment Grade Defined
+IGR, VOYA Clarion Global Real Estate
+IGT, International Game Technology
+IHC, Independence Holding Company
+IHD, VOYA Emerging Markets High Dividend
+IHG, Intercontinental Hotels Group
+IHIT, Invesco High Income 2023 Target Term Fund
+IHTA, Invesco High Income 2024 Target Term Fund
+IID, VOYA International High Dividend Equity
+IIF, Morgan Stanley India Investment Fund Inc
+IIM, Invesco Insured Muni Income Trust
+IIPR, Innovative Industrial Properties
+IMAX, Imax Corp
+INB, Cohen & Steers Global Income Builder
+INF, Brookfield Global Listed Infra
+INFY, Infosys Ltd
+ING, ING Groep N.V. ADR
+INGR, Ingredion Inc
+INN, Summit Hotel Properties
+INSI, Insight Select Income Fund
+INSP, Inspire Medical Systems Inc
+INST, Instructure Inc
+INSW, International Seaways Inc
+INT, World Fuel Services Corp
+INVH, Invitation Homes Inc
+INXN, Interxion Holding N.V.
+IO, ION Geophysical Corp
+IPHI, Inphi Corp
+IPI, Intrepid Potash Inc
+IPOA, Social Capital Hedosophia Holdings Corp
+IQI, Invesco Quality Muni Income Trust
+IRET, Investors Real Estate Trust
+IRL, Irish Investment Fund
+IRR, VOYA Risk Managed Natural Resources Fund
+IRS, Irsa Inversiones Y Representaciones S.A.
+IRT, Independence Realty Trust Inc
+ISD, Prudential Short Duration High
+ISG, VOYA Group N.V.
+ITCB, Itau Corpbanca
+ITGR, Integer Holdings Corp
+ITT, ITT Inc
+ITUB, Itau Unibanco Banco Holding S.A.
+IVC, Invacare Corp
+IVH, Ivy High Income Opportunities
+IVR, Invesco Mortgage Capital Inc
+IX, Orix Corp ADR
+JAG, Jagged Peak Energy Inc
+JAX, J. Alexander's Holdings Inc C
+JBGS, Jbg Smith Properties
+JBK, Lehman Abs Corp
+JBL, Jabil Circuit
+JBN, Select Asset Inc
+JBR, Select Asset Inc
+JBT, John Bean Technologies Corp
+JCAP, Jernigan Capital Inc
+JCE, Nuveen Core Equity Alpha Fund
+JCO, Nuveen Credit Opportunities 2022 Target Term Fun
+JCP, J.C. Penney Company Inc
+JDD, Nuveen Diversified Dividend and
+JE, Just Energy Group Inc
+JEF, Jefferies Financial Group Inc
+JELD, Jeld-Wen Holding Inc
+JEMD, Nuveen Emerging Markets Debt 2022 Target Term Fu
+JEQ, Japan Equity Fund
+JFR, Nuveen Floating Rate
+JGH, Nuveen Global High Income Fund
+JHAA, Nuveen High Income 2023 Target Term Fund
+JHB, Nuveen High Income November 2021 Target Term Fun
+JHD, Nuveen High Income December 2019 Target Term Fun
+JHG, Janus Henderson Group Plc
+JHI, John Hancock Investors Trust
+JHS, John Hancock Income Securities Trust
+JHX, James Hardie Industries Se
+JHY, Nuveen High Income 2020 Target
+JILL, J. Jill Inc
+JKS, Jinkosolar Holding Company Ltd
+JLL, Jones Lang Lasalle Inc
+JLS, Nuveen Mortgage Opportunity Term Fund
+JMEI, Jumei International Holding Ltd
+JMF, Nuveen Energy MLP Total Return Fund
+JMIA, Jumia Technologies Ag ADR
+JMLP, Nuveen All Cap Energy MLP Oppo
+JMM, Nuveen Multi-Market Income Fund Inc
+JMP, JMP Group Inc
+JMPB, JMP Group Inc
+JMPD, JMP Group Llc 7.25% Senior Notes Due 2027
+JMPE, JMP Group Llc 6.875% Senior Notes Due 2029
+JMT, Nuven Mortgage Opportunity Term Fund 2
+JOE, St. Joe Company
+JOF, Japan Smaller Capitalization Fund Inc
+JP, Jupai Holdings Ltd
+JPC, Nuveen Preferred and Convertible
+JPI, Nuveen Preferred and Income Term Fund
+JPS, Nuveen Quality Preferred 2
+JPT, Nuveen Preferred and Income 2022 Term Fund
+JQC, Nuveen Preferred and Convertible 2
+JRI, Nuveen Real Asset Income and Gr
+JRO, Nuveen Floating Rate Income Opportuntiy
+JRS, Nuveen Real Estate Fund
+JSD, Nuveen Short Duration Credit O
+JT, Jianpu Technology Inc
+JTA, Nuveen Tax-Advantaged Total Return
+JTD, Nuveen Tax-Advantaged Dividend Growth
+KAI, Kadant Inc
+KAMN, Kaman Corp
+KAR, Kar Auction Services Inc
+KB, KB Financial Group Inc
+KBH, KB Home
+KBR, KBR Inc
+KDMN, Kadmon Holdings Llc
+KDP, Keurig Dr Pepper Inc
+KEG, Key Energy Services Inc
+KEM, Kemet Corp
+KEN, Kenon Holdings Ltd
+KEP, Korea Electric Power Corp
+KEX, Kirby Corp
+KF, Korea Fund
+KFS, Kingsway Financial Services
+KFY, Korn/Ferry International
+KGC, Kinross Gold Corp
+KIO, KKR Income Opportunities Fund
+KKR, KKR & Co. LP
+KL, Kirkland Lake Gold Ltd
+KMF, Kayne Anderson Midstream Energy Fund
+KMPR, Kemper Corp
+KMT, Kennametal Inc
+KN, Knowles Corp
+KNL, Knoll Inc
+KNOP, Knot Offshore Partners LP
+KNX, Knight-Swift Transporation Inc
+KODK, Eastman Kodak
+KOF, Coca Cola Femsa S.A.B. DE C.V.
+KOP, Koppers Holdings Inc
+KOS, Kosmos Energy Ltd
+KRA, Kraton Performance Polymers Inc
+KRC, Kilroy Realty Corp
+KREF, KKR Real Estate Finance Trust Inc
+KRG, Kite Realty Group Trust
+KRO, Kronos Worldwide Inc
+KRP, Kimbell Royalty Partners
+KSM, Scudder Strategic Municiple Income Trust
+KT, Korea Telecom Corp
+KTB, Kontoor Brands Inc [Ktb/I]
+KTF, Scudder Municiple Income Trust
+KTH, Lehman Abs Corp
+KTN, Lehman Abs Corp
+KTP, Lehman Abs Corp
+KW, Kennedy-Wilson Holdings Inc
+KWR, Quaker Chemical Corp
+KYN, Kayne Anderson MLP Investment Company
+LAC, Lithium Americas Corp
+LAD, Lithia Motors
+LADR, Ladder Capital Corp
+LAIX, Laix Inc ADR
+LAZ, Lazard Ltd
+LBRT, Liberty Oilfield Services Inc
+LC, Lendingclub Corp
+LCI, Lannett Co. Inc
+LCII, Lci Industries
+LDL, Lydall Inc
+LDP, Cohen & Steers Ltd Duration Prfd Income Fund
+LEA, Lear Corp
+LEAF, Leaf Group Ltd
+LEE, Lee Enterprises Inc
+LEJU, Leju Holdings Ltd
+LEO, Dreyfus Strategic Municipals
+LEVI, Levi Strauss & Co. Cl A
+LFC, China Life Insurance Company Ltd
+LGC, Legacy Acquisition Corp
+LGI, Lazard Global Total Return and
+LHC, Leo Holdings Corp Cl A
+LII, Lennox International
+LINX, Linx S.A. ADR
+LITB, Lightinthebox Holding Co. Ltd
+LKSD, Lsc Communications Inc
+LL, Lumber Liquidators Holdings Inc
+LM, Legg Mason Inc
+LMHA, Legg Mason Inc
+LMHB, Legg Mason Inc
+LN, Line Corp
+LND, Brasilagro ADR
+LNN, Lindsay Corp
+LOMA, Loma Negra Comp Indu Argentina Sociedad ADR
+LOR, Lazard World Dividend &
+LPG, Dorian Lpg Ltd
+LPI, Laredo Petroleum Holdings Inc
+LPL, Lg Display Co. Ltd
+LPT, Liberty Property Trust
+LPX, Louisiana-Pacific Corp
+LRN, K12 Inc
+LSI, Life Storage
+LTC, Ltc Properties
+LTHM, Livent Corp
+LTM, Latam Airlines Group S.A.
+LUB, Luby's Inc
+LXFR, Luxfer Holdings Plc
+LXP, Lexington Realty Trust
+LXU, Lsb Industries Inc
+LYG, Lloyds Banking Group Plc
+LYV, Live Nation Entertainment
+LZB, La-Z-Boy Inc
+MAIN, Main Street Capital Corp
+MAN, Manpower Inc
+MANU, Manchester United Ltd
+MATX, Matson Inc
+MAV, Pioneer Muni High Income Advantage Trust
+MAXR, Maxar Technologies Ltd
+MBI, MBIA Inc
+MBT, Mobile Telesystems
+MC, Moelis
+MCA, Blackrock Muniyield California Insured Fund
+MCB, Metropolitan Bank Holding Corp
+MCC, Medley Capital Corp
+MCI, Massmutual Corporate Investors
+MCN, Madison/Claymore Covered Call & Equity Strategy
+MCR, MFS Charter Income Trust
+MCRN, Milacron Holdings Corp
+MCS, Marcus Corp
+MCV, Medley Capital Corp
+MCX, Medley Capital Corp
+MCY, Mercury General Corp
+MD, Mednax Inc
+MDC, M.D.C. Holdings
+MDLA, Medallia Inc
+MDLQ, Medley Llc 7.25% Notes Due 2024
+MDLX, Medley Llc
+MDLY, Medley Management Inc
+MDP, Meredith Corp
+MDR, McDermott International
+MDU, Mdu Res Group Inc
+MEC, Mayville Engineering Company Inc
+MED, Medifast Inc
+MEI, Methode Electronics
+MEN, Blackrock Munienhanced Fund
+MFA, MFA Financial Inc
+MFAC, Megalith Financial Acquisition Corp Cl A
+MFC, Manulife Financial Corp
+MFD, Macquarie/First Trust Global
+MFG, Mizuho Financial Group
+MFGP, Micro Focus Intl Plc
+MFL, Blackrock Muniholdings Investment Quality Fund
+MFM, MFS Muni Income Trust
+MFO, MFA Financial Inc
+MFT, Blackrock Muniyield Investment Qualityfund
+MFV, MFS Special Value Trust
+MG, Mistras Group Inc
+MGA, Magna International
+MGF, MFS Government Markets Income Trust
+MGP, MGM Growth Properties Llc
+MGR, Affiliated Managers Group Inc
+MGU, Macquarie Global Infrastructure Total Return Fun
+MGY, Magnolia Oil & Gas Corp
+MHD, Blackrock Muniholdings Fund
+MHE, Massachusetts Health and Education Tax-Exempt TR
+MHF, Western Asset Muni High
+MHI, Pioneer Muni High Income Trust
+MHLA, Maiden Holdings Ltd 6.625% No
+MHN, Blackrock Muniholdings New York Quality Fund
+MHNC, Maiden Holdings North America
+MHO, M/I Homes
+MIC, Macquarie Infrastructure Company Trust
+MIE, Cohen & Steers MLP Income and
+MIN, MFS Intermediate Income Trust
+MITT, Ag Mortgage Investment Trust
+MIXT, Mix Telematics Ltd
+MIY, Blackrock Muniyield Michigan Quality Fund
+MKL, Markel Corp
+MLI, Mueller Industries
+MLP, Maui Land & Pineapple Company
+MLR, Miller Industries
+MMD, Mainstay Defined Muni Opp Fund
+MMI, Marcus & Millichap
+MMP, Magellan Midstream Partners LP
+MMS, Maximus Inc
+MMT, MFS Multimarket Income Trust
+MMU, Western Asset Managed Municipals Fund
+MN, Manning & Napier Inc
+MNE, Blackrock Muni New York Intermediate Duration Fu
+MNK, Mallinckrodt Plc
+MNP, Western Asset Muni Partners Fund
+MNR, Monmouth Real Estate Investment Corp
+MNRL, Brigham Minerals Inc
+MOD, Modine Manufacturing Company
+MODN, Model N Inc
+MOGU, Mogu Inc ADR
+MOH, Molina Healthcare Inc
+MOSC, Mosaic Acquisition Corp
+MOV, Movado Group Inc
+MPA, Blackrock Muniyield Pennsylvania Quality Fund
+MPLX, Mplx LP
+MPV, Massmutual Participation Investors
+MPW, Medical Properties Trust
+MPX, Marine Products Corp
+MQT, Blackrock Muniyield Quality Fund II
+MQY, Blackrock Muniyield Quality Fund
+MR, Montage Resources Corp
+MRC, Mrc Global Inc
+MSA, Msa Safety Inc
+MSB, Mesabi Trust
+MSC, Studio City Intl Holdings Ltd ADR
+MSD, Morgan Stanley Emerging Markets Debt
+MSG, The Madison Square Garden Comp
+MSGN, Msg Networks Inc
+MSL, Midsouth Bancorp
+MSM, Msc Industrial Direct Company
+MT, Arcelormittal
+MTDR, Matador Resources Company
+MTG, Mgic Investment Corp
+MTH, Meritage Corp
+MTL, Mechel Oao
+MTL.P, Mechel Pao [Mtl/P]
+MTN, Vail Resorts
+MTOR, Meritor Inc
+MTR, Mesa Royalty Trust
+MTRN, Materion Corp
+MTT, Western Asset Muni Defined Opportunity Trust Inc
+MTW, Manitowoc Company
+MTX, Minerals Technologies Inc
+MTZ, Mastec Inc
+MUA, Blackrock Muniassets Fund
+MUC, Blackrock Muniholdings California Quality Fund
+MUE, Blackrock Muniholdings Quality Fund II
+MUFG, Mitsubishi Ufj Financial Group Inc
+MUH, Blackrock Muniholdings Fund II
+MUI, Blackrock Muni Intermediate Duration Fund Inc
+MUJ, Blackrock Muniholdings New Jersey Insured Fund
+MUR, Murphy Oil Corp
+MUS, Blackrock Muniholdings Quality Fund
+MUSA, Murphy USA Inc
+MUX, Mcewen Mining Inc
+MVC, MVC Capital
+MVCD, MVC Capital Inc 6.25% Senior Notes Due 2022
+MVF, Munivest Fund
+MVO, Mv Oil Trust
+MVT, Blackrock Munivest Fund II
+MWA, Mueller Water Products
+MX, Magnachip Semiconductor Corp
+MXE, Mexico Equity and
+MXF, Mexico Fund
+MXL, Maxlinear Inc
+MYC, Blackrock Muniyield California Fund
+MYD, Blackrock Muniyield Fund
+MYE, Myers Industries
+MYF, Blackrock Muniyield Investment Fund
+MYI, Blackrock Muniyield Quality Fund III
+MYJ, Blackrock Muniyield New Jersey Fund
+MYN, Blackrock Muniyield New York Quality Fund
+MYOV, Myovant Sciences Ltd
+MZA, Muniyield Arizona Fund
+NAC, Nuveen California Divadv Fund
+NAD, Nuveen Divadv Fund
+NAN, Nuveen New York Divadv Fund
+NAT, Nordic American Tanker Shipping Ltd
+NAV, Navistar International Corp
+NAZ, Nuveen Arizona Premium Fund
+NBB, Nuveen Build America Bond Fund
+NBHC, National Bank Holdings Corp
+NBLX, Noble Midstream Partners LP
+NBR, Nabors Industries
+NC, Nacco Industries
+NCA, Nuveen California Muni Value Fund
+NCB, Nuveen California Muni Value Fund 2
+NCI, Navigant Consulting
+NCR, NCR Corp
+NCV, Agic Convertible &
+NCZ, Agic Convertible & II
+NDP, Tortoise Energy Independence F
+NE, Noble Corp
+NEA, Nuveen Insured Tax-Free Advantage Fund
+NEP, Nextera Energy Partners LP
+NET, Cloudflare Inc Cl A
+NEU, Newmarket Corp
+NEV, Nuveen Enhanced Muni Value Fund
+NEW, Puxin Ltd
+NEWM, New Media Investment Group Inc
+NEWR, New Relic Inc
+NEXA, Nexa Resources S.A.
+NFC, New Frontier Corp
+NFG, National Fuel Gas Company
+NFJ, Nfj Dividend Interest & Premium Strategy Fund
+NGG, National Grid Transco Plc
+NGL, Ngl Energy Partners LP
+NGS, Natural Gas Services Group
+NGVC, Natural Grocers By Vitamin Cottage Inc
+NGVT, Ingevity Corp
+NHA, Nuveen Municipal
+NHF, Nexpoint Credit Strategies Fund
+NHI, National Health Investors
+NID, Nuveen Intermediate Duration M
+NIE, Agic Equity & Convertible
+NIM, Nuveen Maturities Fund
+NINE, Nine Energy Service Inc
+NIO, Nio Inc
+NIQ, Nuveen Intermediate Duration Q
+NJR, Newjersey Resources Corp
+NJV, Nuveen New Jersey Muni Value Fund
+NKG, Nuveen Georgia Divadv Fund 2
+NKX, Nuveen Insured California Tax-Free
+NL, NL Industries
+NLS, Nautilus Group
+NLY, Annaly Capital Management Inc
+NM, Navios Maritime Holdings Inc
+NMCO, Nuveen Municipal Credit Opportunities Fund
+NMFC, New Mountain Finance Corp
+NMFX, New Mountain Finance Corp
+NMI, Nuveen Muni
+NMM, Navios Maritime Partners LP
+NMR, Nomura Holdings Inc ADR
+NMS, Nuveen Minnesota Municipal Inco
+NMT, Nuveen Massachusetts Premium Fund
+NMY, Nuveen Maryland Premium Fund
+NMZ, Nuveen Muni High Income Opportunity
+NNA, Navios Maritime Acquisition Corp
+NNC, Nuveen North Carolina Premium Fund
+NNI, Nelnet Inc
+NNN, National Retail Properties
+NNY, Nuveen New York Muni Value Fund
+NOA, North American Energy Partners
+NOAH, Noah Holdings Ltd
+NOK, Nokia Corp
+NOM, Nuveen Missouri Premium Fund
+NOMD, Nomad Foods Ltd
+NOVA, Sunnova Energy International Inc
+NP, Neenah Paper
+NPK, National Presto Industries
+NPN, Nuveen Pennsylvania Muni Value Fund
+NPO, Enpro Industries
+NPTN, Neophotonics Corp
+NPV, Nuveen Virginia Premium Fund
+NQP, Nuveen Pennsylvania Investment
+NR, Newpark Resources
+NRE, Northstar Realty Europe Corp C
+NRGX, Neurologix Inc
+NRK, Nuveen Insured New York Tax-Free
+NRP, Natural Resource Partners LP
+NRT, North European Oil Royality Trust
+NRUC, National Rural Utilities Coop Finance Corp 5.500
+NRZ, New Residential Investment Corp
+NS, Nustar Energy LP
+NSA, National Storage Affiliates Tru
+NSCO, Nesco Holdings Inc
+NSL, Nuveen Senior
+NSP, Insperity Inc
+NSS, Nustar Logistics LP
+NTB, Bank of Butterfield Ltd
+NTC, Nuveen Connecticut Premium Fund
+NTG, Tortoise MLP Fund
+NTP, Nam Tai Electronics
+NTR, Nutrien Ltd
+NTX, Nuveen Texas Quality
+NTZ, Natuzzi S.P.A.
+NUM, Nuveen Michigan Quality
+NUO, Nuveen Ohio Quality
+NUS, Nu Skin Enterprises
+NUV, Nuveen Muni Value Fund
+NUW, Nuveen Muni Value Fund
+NVG, Nuveen Insured Divadv Fund
+NVGS, Navigator Holdings
+NVO, Novo Nordisk A/S
+NVRO, Nevro Corp
+NVS, Novartis Ag
+NVST, Envista Holdings Corp
+NVT, Nvent Electric Plc
+NVTA, Invitae Corp
+NWE, Northwestern Corp
+NWHM, New Home Co. Llc
+NWN, Northwest Natural Gas Company
+NX, Quanex Building Products Corp
+NXC, Nuveen California Tax-Free Income
+NXJ, Nuveen New Jersey Divadv Fund
+NXN, Nuveen Insured New York Tax-Free
+NXP, Nuveen Tax Free Income Portfolio
+NXQ, Nuveen Tax Free Income Portfolio II
+NXR, Nuveen Tax Free Income Portfolio III
+NXRT, Nexpoint Residential Trust Inc
+NYCB, New York Community Bancorp
+NYT, New York Times Company
+NYV, Nuveen New York Muni Value Fund 2
+NZF, Nuveen Divadv Fund 3
+OAC, Oaktree Acquisition Corp Cl A
+OAK, Oaktree Capital Group Llc
+OAS, Oasis Petroleum Inc
+OBE, Obsidian Energy Ltd
+OC, Owens Corning Inc
+OCN, Ocwen Financial Corp
+ODC, Oil-Dri Corp of America
+OEC, Orion Engineered Carbons S.A R
+OFC, Corporate Office Properties
+OFG, Oriental Financial Group
+OGE, Oge Energy Corp
+OGS, One Gas Inc
+OHI, Omega Healthcare Investors
+OI, Owens-Illinois
+OIA, Invesco Muni Income Trust
+OII, Oceaneering International
+OIS, Oil States International
+OLN, Olin Corp
+OLP, One Liberty Properties
+OMF, Onemain Holdings Inc
+OMI, Owens & Minor
+OMN, Omnova Solutions Inc
+OMP, Oasis Midstream Partners LP
+ONDK, On Deck Capital Inc
+ONE, Onesmart International Education Group Ltd A
+OOMA, Ooma Inc
+OPP, Rivernorth/Doubleline Strategic Opportunity Fund
+OPY, Oppenheimer Holdings
+OR, Osisko Gold Royalties Ltd
+ORA, Ormat Technologies
+ORAN, Orange ADR
+ORC, Orchid Island Capital Inc
+ORCC, Owl Rock Capital Corp
+ORI, Old Republic International Corp
+ORN, Orion Group Holdings Inc
+OSB, Norbord Inc
+OSG, Overseas Shipholding Group Inc
+OSK, Oshkosh Truck Corp
+OSLE, Oaktree Specialty Lending Corp
+OUT, Outfront Media Inc
+OXM, Oxford Industries
+PAA, Plains All American Pipeline LP
+PAC, Grupo Aeroportuario Del Pacifico
+PACD, Pacific Drilling S.A.
+PACK, Ranpak Holdings Corp
+PAG, Penske Automotive Group
+PAGP, Plains Gp Holdings LP
+PAGS, Pagseguro Digital Ltd Cl A
+PAI, Pacific American Income Shares
+PAM, Pampa Energia S.A.
+PANW, Palo Alto Networks Inc
+PAR, Par Technology Corp
+PARR, Par Petroleum Corp
+PAYC, Paycom Software Inc
+PB, Prosperity Bancshares
+PBA, Pembina Pipeline Cor
+PBB, Prospect Capital Corp
+PBC, Prospect Capital Corp 6.875% Notes Due 20
+PBF, PBF Energy Inc
+PBFX, PBF Logistics LP
+PBH, Prestige Brand Holdings
+PBI, Pitney Bowes Inc
+PBR, Petroleo Brasileiro S.A. Petrobras
+PBT, Permian Basin Royalty Trust
+PBY, Prospect Capital Corp 6.25% Notes Due 202
+PCF, Putnam High Income Bond Fund
+PCG, Pacific Gas & Electric Company
+PCI, Pimco Dynamic Credit Income Fun
+PCK, Pimco California Muni II
+PCM, Pimco Commercial Mortgage Securities
+PCN, Pimco Corporate
+PCQ, Pimco California Muni
+PD, Pagerduty Inc
+PDI, Pimco Dynamic Income Fund
+PDM, Piedmont Office Realty Trust
+PDS, Precision Drilling Corp
+PDT, John Hancock Premium Dividend Fund
+PE, Parsley Energy
+PEB, Pebblebrook Hotel Trust
+PEI, Pennsylvania Real Estate Investment
+PEN, Penumbra Inc
+PEO, Adams Natural Resources Fund Inc
+PER, Sandridge Permian Trust
+PFD, Flaherty & Crumrine Preferred Inc
+PFGC, Performance Food Group Company
+PFH, Cabco TR Jcp 7.625
+PFL, Pimco Income Strategy Fund
+PFN, Pimco Income Strategy Fund II
+PFO, Flaherty & Crumrine Preferred Fund
+PFS, Provident Financial Services
+PFSI, Pennymac Financial Services IN
+PGP, Pimco Global Stocksplus & Income
+PGRE, Paramount Group Inc
+PGTI, Pgt Inc
+PGZ, Principal Real Estate Income F
+PHD, Pioneer Floating Rate Trust
+PHG, Koninklijke Philips Electronics
+PHI, Philippine Long Distance Telephone
+PHK, Pimco High Income Fund
+PHR, Phreesia Inc
+PHT, Pioneer High Income Trust
+PHX, Panhandle Royalty Company
+PIC, Pivotal Investment Corp II Cl A
+PII, Polaris Industries Inc
+PIM, Putnam Master Intermediate Income
+PING, Ping Identity Holding Corp
+PINS, Pinterest Inc
+PIR, Pier 1 Imports
+PIY, Merrill Lynch Depositor
+PJC, Piper Jaffray Companies
+PJH, Prudential Financial Inc
+PJT, Pjt Partners Inc Cl A
+PK, Park Hotels & Resorts Inc
+PKD, Parker Drilling Company
+PKE, Park Electrochemical Corp
+PKO, Pimco Income Opportunity Fund
+PKX, Posco ADR
+PLAN, Anaplan Inc
+PLNT, Planet Fitness
+PLOW, Douglas Dynamics
+PLT, Plantronics
+PMF, Pimco Muni
+PML, Pimco Muni II
+PMM, Putnam Managed Muni Income Trust
+PMO, Putnam Muni Opportunities Trust
+PMT, Pennymac Mortgage Investment Trust
+PMX, Pimco Muni Income Fund III
+PNF, Pimco New York Muni
+PNI, Pimco New York Muni II
+PNM, PNM Resources Inc
+POL, Polyone Corp
+POR, Portland General Electric Company
+POST, Post Holdings Inc
+PPDF, Ppdai Group Inc
+PPR, VOYA Prime Rate Trust
+PPT, Putnam Premier Income Trust
+PPX, PPL Capital Funding Inc
+PQG, Pq Group Holdings Inc
+PRA, Pro-Assurance Corp
+PRH, Prudential Financial Inc
+PRI, Primerica Inc
+PRLB, Proto Labs Inc
+PRO, Pros Holdings
+PROS, Prosight Global Inc
+PRS, Prudential Financial Inc 5.625% Junior
+PRSP, Perspecta Inc
+PRT, Permrock Royalty Trust Trust Units
+PRTY, Party City Holdco Inc
+PSB, Business Parks
+PSF, Cohen & Steers Preferred Fund
+PSN, Parsons Corp
+PSO, Pearson Plc
+PSTG, Pure Storage Inc
+PSTL, Postal Realty Trust Cl A
+PSV, Hermitage Offshore Services Ltd.
+PSXP, Phillips 66 Partners LP
+PTR, Petrochina Company Ltd
+PTY, Pimco Corporate Opportunity Fund
+PUK, Prudential Public Ltd Company
+PUMP, Propetro Holding Corp
+PVG, Pretium Res Inc
+PVL, Permianville Royalty Trust
+PVT, Pivotal Acquisition Corp Cl A
+PVTL, Pivotal Software Inc
+PYN, Pimco New York Muni Income Fund III
+PYS, Pplus Trust
+PYT, Pplus Trust
+PYX, Pyxus International Inc
+PZC, Pimco California Muni Income Fund III
+QEP, Qep Resources
+QES, Quintana Energy Services Inc
+QGEN, Qiagen N.V.
+QHC, Quorum Health Corp
+QSR, Restaurant Brands International
+QTS, Qts Realty Trust Inc
+QTWO, Q2 Holdings Inc
+QUAD, Quad Graphics Inc
+QUOT, Quotient Technology Inc
+QVCD, Qvc Inc 6.375% Senior Secured Notes Due 2067
+R, Ryder System
+RA, Brookfield Real Assets Income Fund Inc
+RACE, Ferrari N.V.
+RAD, Rite Aid Corp
+RAMP, Liveramp Holdings Inc
+RBA, Ritchie Bros. Auctioneers Inc
+RBC, Regal-Beloit Corp
+RBS, Royal Bank Scotland Group Plc
+RC, Ready Capital Corp
+RCA, Ready Capital Corp 7.00%
+RCB, Ready Capital Corp 6.20% Senior Notes Due
+RCI, Rogers Communication
+RCP, Ready Capital Corp 6.50% Series
+RCS, Rcm Strategic Global Government Fund
+RCUS, Arcus Biosciences Inc
+RDN, Radian Group Inc
+RDY, Dr. Reddy's Laboratories Ltd
+RELX, Relx Plc
+RENN, Renren Inc
+RES, RPC Inc
+RESI, Altisource Residential Corp
+REV, Revlon Inc
+REVG, Rev Group Inc
+REX, Rex American Resources Corp
+REXR, Rexford Industrial Realty Inc
+REZI, Resideo Technologies Inc
+RFI, Cohen & Steers Total Return Realty Fund
+RFP, Resolute Forest Products Inc
+RGA, Reinsurance Group of America Inc
+RGR, Sturm Ruger & Company
+RGS, Regis Corp
+RGT, Royce Global Value Trust Inc
+RH, Restoration Hardware Holdings
+RHP, Ryman Hospitality Properties REIT
+RIG, Transocean Inc
+RIO, Rio Tinto Plc
+RIV, Rivernorth Opportunities Fund
+RLGY, Realogy Holdings Corp
+RLH, Red Lion Hotels Corp
+RLI, Rli Corp
+RLJ, Rlj Lodging Trust
+RM, Regional Managment Corp
+RMAX, Re/Max Holdings Inc
+RMED, Ra Medical Systems Inc
+RMG, Rmg Acquisition Corp Cl A
+RMI, Rivernorth Opportunistic Municipal Income Fund
+RMM, Rivernorth Managed Duration Municipal Income Fun
+RMT, Royce Micro-Cap Trust
+RNG, Ringcentral Inc
+RNGR, Ranger Energy Services Inc Cl A
+RNP, Cohen & Steers REIT and Preferred
+RNR, Renaissancere Holdings Ltd
+ROAN, Roan Resources Inc
+ROG, Rogers Corp
+ROYT, Pacific Coast Oil Trust
+RPAI, Retail Properties of America
+RPLA, Replay Acquisition Corp
+RPM, RPM International Inc
+RPT, Ramco-Gershenson Properties Trust
+RQI, Cohen & Steers Quality Income Realty Fund Inc
+RRC, Range Resources Corp
+RRD, Donnelley [R.R.] & Sons Company
+RRTS, Roadrunner Transportation Systems Inc
+RS, Reliance Steel & Aluminum Company
+RSF, Rivernorth Marketplace Lending Corp
+RST, Rosetta Stone
+RTEC, Rudolph Technologies
+RTW, Rtw Retailwinds Inc
+RUBI, The Rubicon Project Inc
+RVI, Retail Value Inc
+RVLV, Revolve Group Inc
+RVT, Royce Value Trust
+RWGE, Regalwood Global Energy Ltd Cl A
+RWT, Redwood Trust
+RXN, Rexnord Corp
+RY, Royal Bank of Canada
+RYAM, Rayonier Advanced Materials Inc
+RYB, Ryb Education Inc Aps
+RYI, Ryerson Holding Corp
+RYN, Rayonier Inc REIT
+RZA, Reinsurance Group of America
+RZB, Reinsurance Group of America
+S, Sprint Corp
+SA, Seabridge Gold
+SAB, Saratoga Investment Corp 6.75% Notes Due 2023
+SAF, Saratoga Investment Corp
+SAFE, Safehold Inc
+SAH, Sonic Automotive
+SAIC, Science Applications International
+SAIL, Sailpoint Technologies Holdings Inc
+SALT, Scorpio Bulkers Inc
+SAM, Boston Beer Company
+SAN, Banco Santander
+SAP, SAP Ag
+SAR, Saratoga Investment Corp
+SAVE, Spirit Airlines Inc
+SB, Safe Bulkers Inc
+SBE, Switchback Energy Acquisition Corp Cl A
+SBGL, Sibanye Gold Ltd ADR
+SBH, Sally Beauty Holdings
+SBI, Western Asset Intermediate Fund Inc
+SBNA, Scorpio Tankers Inc
+SBOW, Silverbow Resources Inc
+SBR, Sabine Royalty Trust
+SBS, Cia DE Saneamento Basico Do Estado
+SC, Santander Consumer USA Holdings
+SCA, Stellus Capital Investment 5.75% Notes Due 2022
+SCCO, Southern Peru Copper Corp
+SCD, Lmp Capital and Income Fund Inc
+SCI, Service Corp International
+SCL, Stepan Company
+SCM, Stellus Capital Investment Cor
+SCPE, SC Health Corp Cl A
+SCS, Steelcase Inc
+SCU, Sculptor Capital Management Inc.
+SCX, L.S. Starrett Company
+SD, Sandridge Energy Inc
+SDR, Sandridge Mississippian Trust
+SDRL, Seadrill Ltd
+SDT, Sandridge Mississippian Trust
+SE, Sea Ltd ADR
+SEAS, Seaworld Entertainment Inc Company
+SEM, Select Medical Holdings Corp
+SEMG, Semgroup Corp
+SERV, Servicemaster Global Holdings
+SF, Stifel Financial Corp
+SFB, Stifel Financial Corp 5.20% Senior Notes
+SFE, Safeguard Scientifics
+SFL, Ship Finance International
+SFUN, Soufun Holdings
+SGU, Star Gas Partners LP
+SHAK, Shake Shack Inc
+SHG, Shinhan Financial Group Co. Ltd
+SHI, Sinopec Shangai Petrochemical Company Ltd
+SHLL, Tortoise Acquisition Corp Cl A
+SHLX, Shell Midstream Partners LP
+SHO, Sunstone Hotel Investors
+SHOP, Shopify Inc
+SID, Companhia Siderurgica Nacional
+SIG, Signet Jewelers Ltd
+SITC, Site Centers Corp
+SITE, Siteone Landscape Supply
+SIX, Six Flags Entertainment Corp
+SJI, South Jersey Industries
+SJIJ, South Jersey Industries Inc 5.625% Junior Subor
+SJIU, South Jersey Industries Inc
+SJR, Shaw Communications Inc
+SJT, San Juan Basin Royalty Trust
+SJW, SJW Corp
+SKM, Sk Telecom Corp
+SKT, Tanger Factory Outlet Centers
+SKX, Skechers U.S.A.
+SKY, Skyline Corp
+SLCA, U.S. Silica Holdings Inc
+SLF, Sun Life Financial Inc
+SM, Sm Energy Company
+SMAR, Smartsheet Inc Cl A
+SMFG, Sumitomo Mitsui Financial Group Inc
+SMG, Scotts Miracle-Gro Company
+SMHI, Seacor Marine Holdings Inc
+SMLP, Summit Midstream Partners LP
+SMM, Salient Midstream & MLP Fund
+SMP, Standard Motor Products
+SMTA, Spirit Mta REIT
+SNAP, Snap Inc
+SNDR, Schneider National Inc
+SNE, Sony Corp
+SNN, Smith & Nephew Snats
+SNP, China Petroleum & Chemical Corp
+SNR, New Senior Investment Group Inc
+SNV, Synovus Financial Corp
+SNX, Synnex Corp
+SOGO, Sogou Inc
+SOI, Solaris Oilfield Infrastructure Inc Cl A
+SOJA, The Southern Co. Series
+SOJB, Southern Company
+SOJC, Southern Company Series 2017B 5.25% Junior Subor
+SOL, Renesola Ltd
+SOLN, Southern Company
+SON, Sonoco Products Company
+SOR, Source Capital
+SPAQ, Spartan Energy Acquisition Corp Cl A
+SPB, Spectrum Brands Holdings Inc
+SPE, Special Opportunities Fund Inc
+SPH, Suburban Propane Partners LP
+SPLP, Steel Partners Hldgs
+SPN, Superior Energy Services
+SPOT, Spotify Technology S.A.
+SPR, Spirit Aerosystems Holdings
+SPXC, SPX Corp
+SPXX, Nuveen Equity Premium and Growth Fund
+SQ, Square
+SQM, Sociedad Quimica Y Minera S.A.
+SQNS, Sequans Communications S A
+SR, Spire Inc
+SRC, Spirit Realty Capital Inc
+SREA, Sempra Energy 5.750% Junior Subordinated Notes D
+SRF, The Cushing Royalty & Income Fund
+SRG, Seritage Growth Properties
+SRI, Stoneridge Inc
+SRL, Scully Royalty Ltd.
+SRLP, Sprague Resources LP
+SRT, Startek Inc
+SRV, The Cushing MLP Total Return Fund
+SSD, Simpson Manufacturing Company
+SSI, Stage Stores
+SSL, Sasol Ltd
+SSTK, Shutterstock Inc
+SSW, Seaspan Corp
+SSWA, Seaspan Corp 7.125% Notes Due 2027
+ST, Sensata Technologies Holding N.V.
+STAG, STI Inc
+STAR, Istar Financial Inc
+STC, Stewart Information Services Corp
+STE, Steris Corp
+STG, Sunlands Online Education Group ADR
+STK, Columbia Seligman Premium Technology
+STL, Sterling Bancorp
+STM, Stmicroelectronics N.V.
+STN, Stantec Inc
+STNG, Scorpio Tankers Inc
+STON, Stonemor Partners LP
+STOR, Store Capital Corpstore Capital
+STWD, Starwood Property Trust
+SU, Suncor Energy Inc
+SUI, Sun Communities
+SUM, Summit Materials Inc
+SUN, Sunoco LP
+SUP, Superior Industries International
+SUPV, Grupo Supervielle S.A.
+SUZ, Suzano Papel E Celul
+SWCH, Switch Inc
+SWI, Solarwinds Corp
+SWJ, Stanley Black & Decker Inc
+SWM, Schweitzer-Mauduit International
+SWN, Southwestern Energy Company
+SWP, Stanley Black & Decker Inc
+SWX, Southwest Gas Corp
+SWZ, Swiss Helvetia Fund
+SXC, Suncoke Energy Inc
+SXI, Standex International Corp
+SXT, Sensient Technologies Corp
+SYX, Systemax Inc
+SZC, The Cushing Renaissance Fund
+TAC, Transalta Corp
+TAK, Takeda Pharmaceutical Co. Ltd
+TAL, Tal Education Group
+TALO, Talos Energy Inc
+TARO, Taro Pharm Inds
+TBB, AT&T Inc 5.350% Global Notes Due 2066
+TBC, AT&T Inc 5.625% Global Notes Due 2067
+TBI, Trueblue Inc
+TCI, Transcontinental Realty Investors
+TCO, Taubman Centers
+TCP, TCP Pipelines
+TCRW, THL Credit Inc 6.125% Notes Due 2023
+TCRZ, THL Credit Inc
+TCS, The Container Store Group Inc
+TD, Toronto Dominion Bank
+TDA, Telephone and Data Systems Inc
+TDC, Teradata Corp
+TDE, Telephone and Data Systems
+TDF, Templeton Dragon Fund
+TDI, Telephone and Data Systems
+TDJ, Telephone and Data Systems Inc
+TDOC, Teladoc Health Inc
+TDS, Telephone and Data Systems
+TDW, Tidewater Inc
+TDY, Teledyne Technologies Inc
+TEAF, Tortoise Essential Assets Income Term Fund
+TECK, Teck Resources Ltd
+TEF, Telefonica S.A.
+TEI, Templeton Emerging Markets
+TEN, Tenneco Automotive
+TEO, Telecom Argentina Stet - France Telecom S.A.
+TEX, Terex Corp
+TG, Tredegar Corp
+TGE, Tallgrass Energy Gp LP
+TGH, Textainer Group Holdings
+TGI, Triumph Group
+TGNA, Tegna Inc
+TGP, Teekay Lng Partners LP
+TGS, Transportadora DE Gas Sa Ord B
+THC, Tenet Healthcare Corp
+THG, The Hanover Insurance Group
+THGA, The Hanover Insurance Group
+THO, Thor Industries
+THQ, Tekla Healthcare Opportunities
+THR, Thermon Group Holdings Inc
+THS, Treehouse Foods
+THW, Tekla World Healthcare Fund
+TISI, Team Inc
+TK, Teekay Shipping Corp
+TKC, Turkcell Iletisim Hizmetleri As
+TKR, Timken Company
+TLI, Lmp Corporate Loan Fund Inc
+TLK, P.T. Telekomunikasi Indonesia Tbk
+TLRA, Telaria Inc
+TLRD, Tailored Brands Inc
+TLYS, Tilly's Inc
+TM, Toyota Motor Corp Ltd Ord
+TME, Tencent Music Entertainment Group ADR
+TMHC, Taylor Morrison Home Corp
+TMST, Timken Steel Corp
+TNC, Tennant Company
+TNET, Trinet Group Inc
+TNK, Teekay Tankers Ltd
+TNP, Tsakos Energy Navigation Ltd
+TOL, Toll Brothers Inc
+TOO, Teekay Offshore Partners LP
+TOT, Totalfinaelf S.A.
+TOWR, Tower International
+TPB, Turning Point Brands
+TPC, Tutor Perini Corp
+TPGH, Tpg Pace Holdings Corp Cl A
+TPH, Tri Pointe Homes Inc
+TPL, Texas Pacific Land Trust
+TPRE, Third Point Reinsurance Ltd Company
+TPVG, Triplepoint Venture Growth Bdc
+TPVY, Triplepoint Venture Growth Bdc Corp 5.75% Notes
+TPX, Tempur-Pedic International Inc
+TPZ, Tortoise Power and Energy
+TR, Tootsie Roll Industries
+TRC, Tejon Ranch Company
+TRCO, Tribune Media Corp
+TREC, Trecora Resources
+TREX, Trex Company
+TRGP, Targa Resources
+TRI, Thomson Reuters Corp
+TRN, Trinity Industries
+TRNE, Trine Acquisition Corp Cl A
+TRNO, Terreno Realty Corp
+TROX, Tronox Inc
+TRP, Transcananda Pipelines
+TRQ, Turquoise Hill Resources Ltd
+TRTN, Triton International Ltd
+TRTX, Tpg Re Finance Trust Inc
+TRU, Transunion
+TRWH, Twin River Worldwide Holdings Inc
+TS, Tenaris S.A.
+TSE, Trinseo S.A.
+TSI, Tcw Strategic
+TSLF, THL Credit Senior Loan Fund
+TSLX, Tpg Specialty Lending Inc
+TSM, Taiwan Semiconductor Manufacturing
+TSQ, Townsquare Media Llc
+TSU, Tim Participacoes S.A.
+TTC, Toro Company
+TTI, Tetra Technologies
+TTM, Tata Motors Ltd
+TTP, Tortoise Pipeline & Energy Fund
+TU, Telus Corp Non Voting Shares
+TUFN, Tufin Software Technologies Ltd.
+TUP, Tupperware Corp
+TV, Grupo Televisa S.A.
+TVC, Tennessee Valley Authority
+TVE, Tennessee Valley Authority
+TWI, Titan International
+TWLO, Twilio
+TWN, Taiwan Fund
+TWO, Two Harbors Investments Corp
+TX, Ternium S.A.
+TY, Tri Continental Corp
+TYG, Tortoise Energy Infrastructure Corp
+TYL, Tyler Technologies
+UAN, Cvr Partners LP
+UBA, Urstadt Biddle Properties Inc
+UBER, Uber Technologies Inc
+UBP, Urstadt Biddle Properties Inc
+UBS, UBS Group Ag
+UE, Urban Edge Properties
+UFI, Unifi Inc
+UFS, Domtar Corp
+UGI, Ugi Corp
+UGP, Ultrapar Participacoes S.A.
+UHT, Universal Health Realty Income Trust
+UI, Ubiquiti Networks
+UIS, Unisys Corp
+UL, Unilever Plc
+UMC, United Microelectronics Corp
+UMH, Umh Properties
+UN, Unilever NV
+UNF, Unifirst Corp
+UNFI, United Nat Foods
+UNMA, Unum Group 6.250% Junior Subordinated Notes Due
+UNT, Unit Corp
+UNVR, Univar Inc
+USA, Liberty All-Star Equity Fund
+USAC, USA Compression Partners LP
+USDP, USD Partners LP
+USFD, US Foods Holding
+USM, United States Cellular Corp
+USNA, Usana Health Sciences Inc
+USPH, U.S. Physical Therapy
+USX, U.S. Xpress Enterprises Inc Cl A
+UTF, Cohen & Steers Infrastructure Fund
+UTI, Universal Technical Institute Inc
+UTL, Unitil Corp
+UVE, Universal Insurance Holdings Inc
+UVV, Universal Corp
+UZA, United States Cellular Corp
+UZB, United States Cellular Corp
+UZC, United States Cellular Corp
+VAC, Marriot Vacations Worldwide Cor
+VAL, Valaris Plc
+VALE, Vale S.A.
+VAM, The Vivaldi Opportunities Fund
+VAPO, Vapotherm Inc
+VBF, Invesco Van Kampen Bond Fund
+VCIF, Vertical Capital Income Fund Common Shares of BE
+VCRA, Vocera Communications Inc
+VCV, Invesco California Value Muni Income Trust
+VEC, Vectrus Inc
+VEDL, Vedanta Ltd
+VEEV, Veeva Systems Inc
+VER, Vereit Inc
+VET, Vermilion Energy Inc
+VG, Vonage Holdings
+VGI, Virtus Global Multi-Sector Inc
+VGM, Invesco Trust For Investment Grade Municipals
+VGR, Vector Group Ltd
+VHI, Valhi Inc
+VICI, Vici Properties Inc
+VIPS, Vipshop Holdings Ltd
+VIST, Vista Oil & Gas S.A.B. DE C.V.
+VIV, Telecomunicacoes DE Sao Paulo ADR
+VJET, Voxeljet Ag
+VKQ, Invesco Muni Trust
+VLRS, Controladora Vuela Compaia DE
+VLT, Invesco High
+VMI, Valmont Industries
+VMO, Invesco Muni Opportunity Trust
+VMW, Vmware Inc
+VNCE, Vince Holding Corp
+VNE, Veoneer Inc
+VNTR, Venator Materials Plc
+VOC, Voc Energy Trust
+VOYA, VOYA Financial Inc
+VPG, Vishay Precision Group
+VPV, Invesco Pennsylvania Muni
+VRS, Verso Corp
+VRTV, Veritiv Corp
+VSH, Vishay Intertechnology
+VSI, Vitamin Shoppe Inc
+VSLR, Vivint Solar Inc
+VSM, Versum Materials Inc
+VST, Vistra Energy Corp
+VSTO, Vista Outdoor Inc
+VTA, Invesco Dynamic Credit Fund
+VTN, Invesco Trust New York Muni
+VVI, Viad Corp
+VVR, Invesco Senior Income Trust
+VVV, Valvoline Inc
+W, Wayfair Inc
+WAAS, Aquaventure Holdings Ltd
+WAIR, Wesco Aircraft Holdings Inc
+WAL, Western Alliance Bancorp
+WALA, Western Alliance Bancorp
+WBAI, 500Wan.com Ltd
+WBC, Wabco Holdings Inc
+WBK, Westpac Banking Corp
+WBS, Webster Financial Corp
+WBT, Welbilt Inc
+WCC, Wesco International
+WCN, Waste Connections Inc
+WD, Walker & Dunlop
+WDR, Waddell & Reed Financial
+WEA, Western Asset Bond Fund
+WEI, Weidai Ltd ADR
+WES, Western Midstream Partners LP
+WEX, Wex Inc
+WF, Woori Finance Holdings Co. Ltd
+WGO, Winnebago Industries
+WH, Wyndham Hotels & Resorts Inc
+WHD, Cactus Inc Cl A
+WHG, Westwood Holdings Group Inc
+WIA, U.S. Treasury Inflation Prot Secs Fd
+WIT, Wipro Ltd
+WIW, U.S Treasury Inflation Prot Secs Fd 2
+WK, Workiva Llc
+WLH, William Lyon Homes
+WLK, Westlake Chemical Corp
+WLKP, Westlake Chemical Partners LP
+WLL, Whiting Petroleum Corp
+WMC, Western Asset Mortgage Capital
+WMK, Weis Markets
+WMS, Advanced Drainage Systems Inc
+WNC, Wabash National Corp
+WNS, Wns Ltd
+WOR, Worthington Industries
+WORK, Slack Technologies Inc
+WOW, Wideopenwest Inc
+WPC, W.P. Carey & Co. Llc
+WPG, Washington Prime Group Inc
+WPM, Wheaton Precious Metals
+WPP, Wpp Plc ADR
+WPX, Wpx Energy Inc
+WRB, W.R. Berkley Corp
+WRE, Washington Real Estate Investment
+WRI, Weingarten Realty Investors
+WSM, Williams-Sonoma
+WSO, Watsco Inc
+WSR, Whitestone REIT
+WST, West Pharmaceutical Services
+WTI, W&T Offshore
+WTM, White Mountains Insurance Group
+WTR, Aqua America
+WTS, Watts Water Technologies
+WTTR, Select Energy Services Inc
+WUBA, 58.com Inc
+WWE, World Wrestling Entertainment
+WWW, Wolverine World Wide
+WYND, Wyndham Destinations Inc
+X, United States Steel Corp
+XAN, Exantas Capital Corp
+XFLT, Xai Octagon Floating Alt Income Term Trust Compa
+XHR, Xenia Hotels & Resorts Inc
+XIN, Xinyuan Real Estate Co. Ltd
+XPO, Xpo Logistics Inc
+XRF, China Rapid Finance Ltd ADR
+XYF, X Financial
+Y, Alleghany Corp
+YELP, Yelp Inc
+YETI, Yeti Holdings Inc
+YEXT, Yext Inc
+YPF, Ypf Sociedad Anonima
+YRD, Yirendai Ltd
+YUMC, Yum China Holdings Inc
+ZAYO, Zayo Group Holdings Inc
+ZBK, Zion Bancorp
+ZEN, Zendesk Inc
+ZF, Zweig Fund
+ZNH, China Southern Airlines Company
+ZTO, Zto Express [Cayman] Inc
+ZTR, Zweig Total Return Fund
+ZUO, Zuora Inc
+ZYME, Zymeworks Inc
+AABA, Altaba Inc
+AAME, Atlantic Amer Cp
+AAOI, Applied Optoelect
+AAON, Aaon Inc
+AAWW, Atlas Air Ww
+AAXJ, All Country Asia Ex Japan Ishares MSCI ETF
+AAXN, Axon Inc
+ABCB, Ameris Bancorp
+ABDC, Alcentra Capital Com
+ABEO, Abeona Therapeutics
+ABIL, Ability Inc
+ABIO, Arca Biopharma Inc
+ABTX, Allegiance Banc CS
+ABUS, Arbutus Biopharma Cp
+ACAD, Acadia Pharmaceutica
+ACAM, Acamar Partners Acquisition Corp Cl A
+ACBI, Atlantic Capital
+ACER, Acer Therapeutics Inc
+ACGL, Arch Capital Grp Ltd
+ACGLO, Arch Capital Group Ltd ADR
+ACGLP, Arch Capital Group Ltd
+ACHC, Acadia Healthcr Company
+ACHN, Achillion Pharmaceuticals
+ACHV, Achieve Life Sciences Inc
+ACIA, Acacia Communica
+ACIU, AC Immune S.A.
+ACIW, Aci Worldwide Inc
+ACLS, Axcelis Tech Inc
+ACMR, Acm Research Inc
+ACNB, Acnb Corp
+ACOR, Acorda Therapeutics
+ACRS, Aclaris Therapts
+ACRX, Acelrx Pharmaceutica
+ACST, Acasti Pharma
+ACT, Advisorshares Vice ETF
+ACTG, Acacia Res-Acacia
+ACTT, Act II Global Acquisition Corp. Cl A
+ACTTU, Act II Global Acquisition Corp. Unit
+ACWI, ACWI Ishares MSCI ETF
+ACWX, ACWI Ex US Ishares MSCI ETF
+ADAP, Adaptimmune Ther Ads
+ADES, Advanced Emissions Solutions Inc
+ADIL, Adial Pharmaceuticals Inc
+ADMA, Adma Biologics
+ADMP, Adamis Pharmaceuticl
+ADMS, Adamas Pharma
+ADPT, Adaptive Biotechnologies Corp
+ADRA, Bldrs Asia 50 ADR Index Fund Invesco
+ADRD, Bldrs Developed Markets 100 ADR Index Fund Inves
+ADRE, Bldrs Emerging Markets 50 ADR Index Fund Invesco
+ADRO, Aduro Biotech
+ADRU, Bldrs Europe Select ADR Index Fund Invesco
+ADTN, Adtran Inc
+ADUS, Addus Homecare Corp
+ADVM, Adverum Biotechnlgs
+ADXS, Advaxis Inc
+AEGN, Aegion Corp
+AEHR, Aehr Test Systems
+AEIS, Advanced Energy
+AEMD, Aethlon Medical
+AERI, Aerie Pharmaceuticals
+AESE, Allied Esports Entertainment Inc
+AEY, Addvantage Techs Group
+AEYE, Audioeye Inc
+AEZS, Aeterna Zentaris
+AFH, Atlas Fincl Hld Ord
+AFIN, American Finance Trust Inc Cl A
+AFMD, Affimed N.V.
+AFYA, Afya Ltd Cl A
+AGBA, Agba Acquisition Limited
+AGEN, Agenus Inc
+AGFS, Agrofresh Solutions
+AGIO, Agios Pharmaceuticals
+AGLE, Aeglea Biothera
+AGMH, Agm Group Holdings Inc Cl A
+AGNC, American Capital Age
+AGNCB, American Cap Agy Cor
+AGNCM, Agnc Investment Corp Cum Red Pfd Ser D Fixed To
+AGNCN, Agnc Investment Corp
+AGND, Wisdomtree Neg Duration US Agg Bond Fund
+AGRX, Agile Therap
+AGTC, Applied Genetic Tech
+AGYS, Agilysys Inc
+AGZD, Wisdomtree Int Rate US Agg Bond Fund
+AHPI, Allied Healthcare
+AIA, Asia 50 Ishares ETF
+AIHS, Senmiao Technology Ltd
+AIMC, Altra Indtl Mtn
+AIMT, Aimmune Therap
+AINV, Apollo Investment Company
+AIQ, Global X Future Analytics Tech ETF
+AIRG, Airgain Inc
+AIRR, Rba American Industrial Renaissance ETF FT
+AIRT, Air T Inc
+AIRTP, Air T Inc Funding Alpha Income Trust Preferred
+AKBA, Akebia Therapeutics
+AKCA, Akcea Therapeutics Inc
+AKER, Akers Biosciences
+AKRO, Akero Therapeutics Inc
+AKRX, Akorn Inc
+AKTS, Akoustis Technologies Inc
+AKTX, Akari Therapeutics
+ALAC, Alberton Acquisition Corp
+ALACR, Alberton Acquisition Corp Rights
+ALACU, Alberton Acquisition Corp Unit
+ALBO, Albireo Pharma Inc
+ALCO, Alico Inc
+ALDR, Alder Biopharma
+ALDX, Aldeyra Therapeu
+ALEC, Alector Inc
+ALGR, Allegro Merger Corp
+ALGRU, Allegro Merger Corp Unit
+ALGT, Allegiant Travel Com
+ALIM, Alimera Sciences Inc
+ALJJ, Alj Regional Hold
+ALKS, Alkermes Plc
+ALLK, Allakos Inc
+ALLO, Allogene Therapeutics Inc
+ALLT, Allot Communications
+ALNA, Allena Pharmaceuticals Inc
+ALNY, Alnylam Pharmaceuticals
+ALOT, Astronova Inc
+ALPN, Alpine Immune Sciences Inc
+ALRM, Alarm.com
+ALRN, Aileron Therapeutics Inc
+ALRS, Alerus Financial Corp
+ALSK, Alaska Commun Sys
+ALT, Altimmune Inc
+ALTM, Altus Midstream Company
+ALTR, Altair Engineering Inc Cl A
+ALTY, G-X Super Dividend Alternatives ETF
+ALYA, Alithya Group Inc Cl A
+AMAG, Amag Pharmaceuticals
+AMAL, Amalgamated Bk
+AMBA, Ambarella Inc
+AMBC, Ambac Financial Group
+AMBCW, Ambac Financial Group
+AMCA, Russell 1000 Pure US Rev Ishares ETF
+AMCI, Amci Acquisition Corp Cl A
+AMCIU, Amci Acquisition Corp Unit
+AMCX, Amc Networks Cl A
+AMED, Amedisys Inc
+AMEH, Apollo Medical Holdings Inc
+AMKR, Amkor Technology
+AMNB, American Natl Bksh
+AMOT, Allied Motion Tech
+AMPH, Amphastar Pharma
+AMR, Alta Mesa Resources Inc
+AMRB, American River Bkshs
+AMRH, Ameri Holdings Inc
+AMRK, A-Mark Precious Meta
+AMRN, Amarin Corp Ads
+AMRS, Amyris Inc
+AMSC, Amer Superconductor
+AMSF, Amerisafe Inc
+AMSWA, Amer Software Inc
+AMTB, Mercantil Bank Holding Cl A
+AMTBB, Mercantil Bank Holding Cl B
+AMTD, TD Ameritrade HD
+AMWD, Amer Woodmark Cp
+ANAB, Anaptysbio Inc
+ANAT, Amer Natl Insurance
+ANCN, Anchiano Therapeutics Ltd ADR
+ANDA, Andina Acquisition Corp III
+ANDAU, Andina Acquisition Corp III Unit
+ANDE, Andersons Inc
+ANGI, Homeservices Inc
+ANGO, Angiodynamics Inc
+ANIK, Anika Therapeutics
+ANIP, ANI Pharma Inc
+ANIX, Anixa Biosciences Inc
+ANTE, Airnet Technology Inc
+ANY, Sphere 3D Corp
+AOBC, American Outdoor Brands Corp
+AOSL, Alpha and Omega Semi
+APDN, Applied Dna Scns
+APDNW, Applied Dna Sci Wrnt
+APEI, American Pub. Edu.
+APEN, Apollo Endosurgery Inc
+APEX, Apex Global Brands Inc
+APLS, Apellis Pharmaceuticals Inc
+APLT, Applied Therapeutics Inc
+APM, Aptorum Group Ltd Cl A
+APOG, Apogee Entrpr Inc
+APOP, Cellect Biotechnology Ltd
+APPF, Appfolio Cl A
+APPN, Appian Corp Cl A
+APPS, Digital Turbine
+APTO, Aptose Bioscns
+APTX, Aptinyx Inc
+APVO, Aptevo Therapeutics Inc
+APWC, Asia Pacific Wire & Cable
+APXTU, Apex Technology Acquisition Corp
+APYX, Apyx Medical Corp
+AQB, Aquabounty Technologies Inc
+AQMS, Aqua Metals Inc
+AQST, Aquestive Therapeutics Inc
+ARAV, Aravive Inc
+ARAY, Accuray Incorporated
+ARCB, Arcbest Corp
+ARCC, Ares Capital Corp
+ARCE, Arco Platform Ltd Cl A
+ARCT, Arcturus Therapeutics Ltd
+ARDS, Aridis Pharmaceuticals Inc
+ARDX, Ardelyx Inc
+AREC, American Resources Corp
+AREX, Approach Res. Inc
+ARGX, Argenx Se Ads
+ARKR, Ark Restaurants Cp
+ARLP, Alliance Resource Pt
+ARNA, Arena Pharmaceuticals
+AROW, Arrow Financial Corp
+ARPO, Aerpio Pharmaceuticals Inc
+ARQL, Arqule Inc
+ARTL, Artelo Biosciences Inc
+ARTNA, Artesian Res Cp A
+ARTW, Art S Way MFG Company
+ARTX, Arotech Corp
+ARVN, Arvinas Inc
+ARWR, Arrowhead Pharma
+ARYA, Arya Sciences Acquisiton Corp Cl A
+ARYAU, Arya Sciences Acquisiton Corp Unit
+ASET, Flexshares Real Assets Allocation Index Fund
+ASFI, Asta Funding Inc
+ASLN, Aslan Pharmaceuticals Ltd ADR
+ASMB, Assembly Biosciences
+ASML, Asml Hldg NY Reg
+ASNA, Ascena Retail Group
+ASND, Ascendis Pharma Ads
+ASPS, Altisource Portfolio
+ASPU, Aspen Group Inc
+ASRT, Assertio Therapeutics Inc
+ASRV, Ameriserv Financial
+ASRVP, Ameriserv Fin Cap
+ASTC, Astrotech Corp
+ASTE, Astec Inds Inc
+ASUR, Asure Software
+ASYS, Amtech Systems Inc
+ATAI, Ata Inc ADR
+ATAX, Amer First Mf Inv
+ATEC, Alphatec Holdings
+ATEX, Pdvwireless
+ATHE, Alterity Therapeutics Ltd.
+ATHX, Athersys Inc
+ATIF, Atif Holdings Limited
+ATIS, Attis Industries Inc
+ATLC, Atlanticus Hldg Cp
+ATLO, Ames Natl Corp
+ATNI, Atn International
+ATNX, Athenex Inc
+ATOM, Atomera Inc
+ATOS, Atossa Genetics Inc
+ATRA, Atara Biotherap
+ATRC, Atricure Inc
+ATRI, Atrion Corp
+ATRO, Astronics Cp
+ATRS, Antares Pharma
+ATSG, Air Transport
+ATXI, Avenue Therapeutics Inc
+AUB, Atlantic Union Bancshares Corp
+AUBN, Auburn Natl Bncp
+AUDC, Audiocodes Ltd
+AUPH, Aurinia Pharm Ord
+AUTL, Autolus Therapeutics Plc ADR
+AUTO, Autoweb Inc
+AVAV, Aerovironment Inc
+AVCO, Avalon Globocare
+AVDL, Avadel Pharmaceuticals Plc
+AVDR, Avedro Inc
+AVEO, Aveo Pharmaceuticals
+AVGR, Avinger Inc
+AVID, Avid Tech Inc
+AVNW, Aviat Networks Inc
+AVRO, Avrobio Inc
+AVT, Avnet Inc
+AVXL, Anavex Lf SC
+AWRE, Aware Inc
+AWSM, Cool Holdings Inc
+AXAS, Abraxas Petro Corp
+AXDX, Accelerate Diagnosti
+AXGN, Axogen Inc
+AXGT, Axovant Sciences Ltd
+AXLA, Axcella Health Inc
+AXNX, Axonics Modulation Technologies Inc
+AXSM, Axsome Thera
+AXTI, Axt Inc
+AY, Atlantica Yield Plc
+AYTU, Aytu Bioscience Inc
+AZPN, Aspen Technology
+AZRX, Azurrx Biopharma Inc
+BAND, Bandwidth Inc
+BANF, Bancfirst Corp
+BANFP, Bfc Capital Trust II
+BANR, Banner Corp
+BANX, Stonecastle Fncl Cp
+BASI, Bioanalytical Syst
+BATRA, Liberty Braves CS A
+BATRK, Liberty Braves CS C
+BBBY, Bed Bath & Beyond
+BBCP, Concrete Pumping Holdings Inc
+BBGI, Beasley Brdcst Gr
+BBH, Biotech Vaneck ETF
+BBI, Brickell Biotech Inc
+BBIO, Bridgebio Pharma Inc
+BBQ, Bbq Holdings Inc.
+BBSI, Barrett Business S
+BCBP, Bcb Bancorp Inc
+BCDA, Biocardia Inc
+BCEL, Atreca Inc Cl A
+BCLI, Brainstorm Cell
+BCML, Bay Commercial Bk CA
+BCNA, Reality Shares Nasdaq Nexgen Economy China ETF
+BCOM, B Communications Ltd
+BCOR, Blucora Inc
+BCOV, Brightcove Inc
+BCOW, 1895 Bancorp of Wisconsin Inc
+BCPC, Balchem Cp
+BCRX, Biocryst Pharma Inc
+BCTF, Bancorp 34 Inc
+BCYC, Bicycle Therapeutics Plc ADR
+BDGE, Bridge Bancorp Inc
+BDSI, Biodelivery Sci Intl
+BEAT, Biotelemetry Inc
+BECN, Beacon Roofing Suppl
+BELFA, Bel Fuse Cl A
+BELFB, Bel Fuse Inc Cl B
+BFC, Bank First National Corp [Wisconsin]
+BFIN, Bankfinancial Corp
+BFIT, G-X Health & Wellness Thematic Et
+BFRA, Biofrontera Ag ADR
+BFST, Business First Bancshares Inc
+BGCP, Bgc Partners Cl A
+BGFV, Big 5 Sporting
+BGNE, Beigene Ltd Ads
+BGRN, Ishares Global Green Bond ETF
+BHAT, Blue Hat Interactive Entertainment Tech
+BHF, Brighthouse Financial Inc
+BHFAL, Brighthouse Financial Inc 6.25% Junior Subordi
+BHFAP, Brighthouse Financial Inc Dep Shs Repstg 1/1000T
+BHTG, Biohitech Global Inc
+BIB, Ultra Nasdaq Biotech Proshares
+BICK, BICK Index Fund FT
+BIDU, Baidu Inc
+BILI, Bilibili Inc ADR
+BIMI, NF Energy Saving Corp
+BIOC, Biocept Inc
+BIOL, Biolase Inc
+BIOS, Option Care Health Inc
+BIS, Ultrashort Biotechnology Proshares
+BJRI, Bj's Restaurants Inc
+BKCC, Blackrock Cptl Invt
+BKCH, Advisorshares Sabretooth ETF
+BKEP, Blueknight Energy LP
+BKEPP, Blueknight Srs A Uts
+BKSC, Bank of So Car Cp
+BKYI, Bio-Key Intl Inc
+BL, Blackline Inc
+BLBD, Blue Bird Corp
+BLCM, Bellicum Pharma Comm
+BLCN, Reality Shares Nasdaq Nextgen Economy ETF
+BLDP, Ballard Power Sys
+BLDR, Builders Firstsource
+BLFS, Biolife Solutions
+BLIN, Bridgeline Digital
+BLKB, Blackbaud Inc
+BLMN, Bloomin' Brands Inc
+BLNK, Blink Charging Company
+BLPH, Bellerophon Ther Com
+BLRX, Biolinerx Ltd
+BLU, Bellus Health Inc
+BLUE, Bluebird Bio
+BMCH, Bmc Stock Holdings
+BMLP, Dorsey Wright MLP Index ETN
+BMRA, Biomerica Inc
+BMRC, Bank of Marin Bancrp
+BMRN, Biomarin Pharmaceuticals
+BMTC, Bryn Mawr Bank Corp
+BND, Total Bond Market ETF Vanguard
+BNDW, Total World Bond Vanguard ETF
+BNDX, Total Intl Bond ETF Vanguard
+BNFT, Benefitfocus
+BNGO, Bionano Genomics Inc
+BNSO, Bonso Elec Intl IN
+BNTC, Benitec Biopharm Ads
+BOCH, Bank of Commerce Hld
+BOKF, Bok Financial Corp
+BOKFL, Bok Financial Corp
+BOLD, Audentes Therapeutics Inc
+BOMN, Boston Omaha Corp Cl A
+BOOM, Dynamic Materials
+BOSC, Bos Better Online
+BOTJ, Bank of The Jame Fnl
+BOTZ, G-X Robotics & Artificial Intel Thmtc ETF
+BOXL, Boxlight Corp Cl A
+BPFH, Boston Pvt Finl Hldg
+BPMC, Blueprint Medicines Corp
+BPOP, Popular Inc
+BPOPM, Popular Inc Trust II
+BPOPN, Popular Inc Trust
+BPR, Brookfield Property REIT Inc
+BPRAP, Brookfield Property REIT Inc 6.375% Series A
+BPRN, Bank of Princeton
+BPTH, Bio-Path Holdings
+BPY, Brookfield Property Partners L
+BPYPO, Brookfield Property Partners L.P. - 6.375% Prf P
+BPYPP, Brookfield Property Partners LP Pfd Unit Ltd Par
+BREW, Craft Brew Alliance
+BRID, Bridgford Foods Cp
+BRKL, Brookline Bancorp
+BRKR, Bruker Corp
+BRKS, Brooks Automation
+BROG, Twelve Seas Investment Company
+BROGU, Twelve Seas Investment Company Units
+BRPA, Big Rock Partners Acquisition Corp
+BRPAR, Big Rock Partners Acquisition Corp Right
+BRPAU, Big Rock Partners Acquisition Corp Unit
+BRY, Berry Pete Corp
+BSET, Bassett Furniture
+BSGM, Biosig Technologies
+BSQR, Bsquare Corp
+BSRR, Sierra Bancorp
+BSTC, Biospecifics Tech Cp
+BSVN, Bank7 Corp
+BTAI, Bioxcel Therapeutics Inc
+BTEC, Principal Healthcare Innovators Index
+BURG, Chanticleer Hldgs
+BUSE, First Busey Corp
+BVSN, Broadvision Inc
+BVXV, Biondvax Pharma Ads
+BWAY, Brainsway Ltd ADR
+BWB, Bridgewater Bancshares Inc
+BWEN, Broadwind Energy Inc
+BWFG, Bankwell Financial
+BWMC, Boxwood Merger Corp Cl A
+BWMCU, Boxwood Merger Corp Unit
+BYFC, Broadway Fin Cp
+BYND, Beyond Meat Inc
+BYSI, Beyondspring Inc
+BZUN, Baozun Inc Ads
+CAAS, China Automotive Sys
+CAC, Camden Natl Cp
+CACC, Credit Acceptance
+CACG, Legg Clearbridge All Cap Growth ETF
+CAKE, Cheesecake Fact
+CALA, Calithera Biosci Com
+CALM, Cal-Maine Foods IN
+CAMP, Calamp Corp
+CAMT, Camtek Ltd
+CAPR, Capricor Therap
+CAR, Avis Budget Group
+CARA, Cara Therapeutics
+CARB, Carbonite Inc
+CARG, Cargurus Inc Cl A
+CARO, Carolina Financial Corp
+CART, Carolina Trust Bank
+CARV, Carver Bancorp
+CARZ, Nasdaq Global Auto Index Fund FT
+CASA, Casa Systems Inc
+CASH, Meta Financial Group
+CASI, Casi Phrmactcls Inc
+CASS, Cass Information Sys
+CASY, Casey's General Stor
+CATB, Catabasis Pharma
+CATC, Cambridge Bancorp
+CATH, G-X S&P 500 Catholic Values ETF
+CATM, Cardtronics Inc
+CATY, Cathay Genl Bncp
+CBAN, Colony Bankcorp Inc
+CBAY, Cymabay Therapeutics
+CBFV, Cb Financial Svc
+CBIO, Catalyst Bio
+CBLI, Cleveland Biolabs
+CBLK, Carbon Black Inc
+CBMB, Cbm Bancorp Inc
+CBMG, Cellular Biomedicine
+CBNK, Capital Bancorp Inc
+CBPO, China Biologic Produ
+CBRL, Cracker Barrel
+CBSH, Commerce Bancshares
+CBSHP, Commerce BNC B Dep
+CBTX, Cbtx Inc
+CCB, Coastal Financial Corp
+CCBG, Capital City Bank Gr
+CCCL, China Ceramics Company
+CCD, Calams Dy Cnv IN
+CCLP, CSI Compressco
+CCMP, Cabot Microelectron
+CCNE, Cnb Financial Corp
+CCOI, Cogent Comm Hldgs
+CCRC, China Customer Ord
+CCRN, Cross Ctry Hlthcr
+CCXI, Chemocentryx Inc
+CDC, Victory US Eqty Income Ehnd Vol Wtd ETF
+CDEV, Centennial Resource Development Inc
+CDK, Cdk Global Inc
+CDL, Victory US Largecap HI Div Vol Wtd ETF
+CDLX, Cardlytics Inc
+CDMO, Avid Bioservices Inc
+CDMOP, Avid Bioservices Inc
+CDNA, Caredx Inc
+CDTX, Cidara Thera
+CDXC, Chromadex Corp CS
+CDXS, Codexis Inc
+CDZI, Cadiz Inc
+CECE, C E C O Envir
+CECO, Career Education
+CELC, Celcuity Inc
+CELG, Celgene Corp
+CELGZ, Celgene Cp Cvr
+CELH, Celsius Holdings Inc
+CEMI, Chembio Diagnostics
+CENT, Central Garden
+CENTA, Central Garden & Pet
+CENX, Century Aluminum C
+CERC, Cerecor Inc
+CERS, Cerus Corp
+CETV, Central EUR Med A
+CETX, Cemtrex Inc
+CETXP, Cemtrex Inc Series 1 Pfd
+CEVA, Ceva Inc
+CEY, Victoryshares Emerging Market High Div Vol Wtd E
+CEZ, Victory EM Vol Wtd ETF
+CFA, Victory US 500 Vol ETF
+CFB, Crossfirst Bankshares Inc
+CFBI, Community First Bancshares Inc
+CFBK, Central Fed Cp
+CFFA, Cf Finance Acquisition Corp Cl A
+CFFAU, Cf Finance Acquisition Corp Unit
+CFFI, C&F Financial Corp
+CFFN, Capitol Fed Finl Inc
+CFMS, Conformis Inc CS
+CFO, Victory US 500 Ehnd Vol Wtd ETF
+CFRX, Contrafect
+CG, The Carlyle Group
+CGBD, Tcg Bdc Inc
+CGEN, Compugen Ltd
+CGIX, Cancer Genetics Inc
+CGNX, Cognex Cp
+CGO, Calamos Glb Ttl Rtn
+CHCI, Comstock Hldgs Cos
+CHCO, City Holding Company
+CHDN, Churchill Downs IN
+CHEF, The Chefs Warehouse
+CHEK, Check-Cap Ltd Ord
+CHFS, Chf Solutions Inc
+CHI, Calamos Cv Opp & Inc
+CHKP, Check Point Software
+CHMA, Chiasma Inc
+CHMG, Chemung Financial Cp
+CHNA, Loncar China Biopharma ETF
+CHNG, Change Healthcare Inc
+CHNGU, Change Healthcare Inc Tangible Equity Units
+CHNR, China Natural Res
+CHRS, Coherus Bio
+CHSCL, CHS B Cum Pfd Srs 4
+CHSCM, CHS Pfd Clb Ser3
+CHSCN, CHS Inc Pfd B Srs 2
+CHSCO, CHS Inc Cl B Pfd
+CHSCP, CHS Inc
+CHUY, Chuy's Holdings Inc
+CHW, Calamos Gbl Dyn Inc
+CHY, Calamos Cv & High IN
+CIBR, Nasdaq Cybersecurity ETF FT
+CID, Victory Intl HI Div Vol Wtd ETF
+CIDM, Cinedigm Corp
+CIFS, China Internet Nationwide Financial Services Inc
+CIGI, Colliers Intl Grp IN
+CIH, China Index Holdings Ltd.
+CIL, Victory Intl Vol Wtd ETF
+CIVB, Civista Bncshrs
+CIVBP, Civista Bancshrs Dep
+CIZ, Victory Dev Enhd Vol Wtd ETF
+CIZN, Citizens Hldg Company
+CJJD, China Jojo Drugstore
+CKPT, Checkpoint Therapeutics Inc
+CLAR, Clarus Corp
+CLBK, Columbia Financial Inc
+CLBS, Caladrius Bio
+CLCT, Collectors Universe
+CLDB, Cortland Bncp Crtld Ohio
+CLDX, Celldex Therapeutics
+CLFD, Clearfield Inc
+CLGN, Collplant Biotechnologies Ltd.
+CLIR, Clearsign Combustion
+CLLS, Cellectis S.A. ADR
+CLMT, Calumet Specialty Pr
+CLNE, Clean Energy Fuels
+CLOU, Global X Cloud Computing ETF
+CLPS, Clps Incorp
+CLRB, Cellectar Biosc
+CLRG, IQ Chaikin U.S. Large Cap ETF
+CLRO, Clearone Inc
+CLSD, Clearside Biomedi
+CLSN, Celsion Corp
+CLUB, Town Sports International
+CLVS, Clovis Oncology Inc
+CLWT, Euro Tech Hldg
+CLXT, Calyxt Inc
+CMBM, Cambium Networks Corp
+CMCO, Columbus Mckinnon
+CMCT, Cim Commercial TR Cp
+CMCTP, Cim Commercial Trust Corp Series L
+CMLS, Cumulus Media Inc Cl A
+CMPR, Cimpress N.V. Ord
+CMRX, Chimerix Inc
+CMTL, Comtech Telecom Company
+CNAT, Conatus Pharmaceutic
+CNBKA, Century Bancorp Inc
+CNCE, Concert Pharmaceutic
+CNCR, Loncar Cancer Immunotherapy ETF
+CNET, Chinanet Online Hldg
+CNFR, Conifer Holdings
+CNFRL, Conifer Holdings Inc 6.75% Senior Unsecured No
+CNMD, C O N M E D Cp
+CNOB, Connectone Bancorp
+CNSL, Consolidated Communications Holdings Inc
+CNST, Constellation Pharmaceuticals Inc
+CNTY, Century Casinos IN
+CNXN, PC Connection Inc
+COCP, Cocrystal Pharma Inc
+CODA, Coda Octopus Group
+CODX, Co-Diagnostics Inc
+COHR, Coherent Inc
+COHU, Cohu Inc
+COKE, Coca Cola Bot Cons
+COLB, Columbia Banking Sys
+COLL, Collegium Pharma
+COLM, Columbia Sprtswr
+COMM, Commscope Holding Company
+COMT, Commodities Select Strategy Ishares ETF
+CONE, Cyrusone Inc
+CONN, Conn's Inc
+COOP, Mr.Cooper Group Inc
+CORE, Core Mark Holding
+CORT, Corcept Therapeutics
+CORV, Correvio Pharma Corp
+COUP, Coupa Software Inc
+COWN, Cowen Group Inc
+COWNL, Cowen Inc 7.75% Senior Notes Due 2033
+COWNZ, Cowen Inc 7.35% Senior Notes Due 2027
+CPAA, Conyers Park II Acquisition Corp Cl A
+CPAH, Counterpath Corp
+CPHC, Canterbury Park Hl
+CPIX, Cumberland Pharmaceu
+CPLP, Capital Product Part
+CPRX, Catalyst Pharm Inc
+CPSH, Cps Technologies
+CPSI, Computer Programs
+CPSS, Consumer Portfol
+CPST, Capstone Turbine Cp
+CPTA, Capitala Finance Crp
+CPTAG, Capitala Finance Corp 5.75% Convertible Notes D
+CPTAL, Capitala Finance Corp 6% Notes Due 2022
+CRAI, Cra International
+CRAY, Cray Inc
+CRBP, Corbus Pharma
+CREE, Cree Inc
+CREG, China Recycling Ener
+CRESY, Cresud Sacif ADR
+CRIS, Curis Inc
+CRMT, America's Car-Mart
+CRNC, Cerence Inc
+CRNT, Ceragon Networks Ltd
+CRNX, Crinetics Pharmaceuticals Inc
+CRON, Cronos Group Inc
+CROX, Crocs Inc
+CRSA, Crescent Acquisition Corp Cl A
+CRSP, Crispr Therapeutics Ag
+CRTO, Criteo S.A. Ads
+CRTX, Cortexyme Inc
+CRUS, Cirrus Logic Inc
+CRVL, Corvel Cp
+CRVS, Corvus Pharma Com
+CRWD, Crowdstrike Holdings Inc
+CRWS, Crown Crafts Inc
+CRZO, Carrizo Oil & Gas
+CSA, Victory US Smallcap Vol Wtd ETF
+CSB, Victory US Smallcap HI Div Vol Wtd ETF
+CSBR, Champions Oncolog
+CSF, Victory US Disc Enhd Vol Wtd ETF
+CSFL, Centerstate Bank Corp
+CSGP, Costar Group Inc
+CSGS, C S G Sys Intl
+CSII, Cardiovascular Syst
+CSIQ, Canadian Solar Inc
+CSML, IQ Chaikin U.S. Small Cap ETF
+CSOD, Cornerstone Ondemand
+CSPI, C S P Inc
+CSQ, Calamos Strgc Ttl Rt
+CSSE, Chicken Soup For The Soul Entertainment Inc
+CSSEP, Chicken Soup For The Soul Entertainment Inc 9.
+CSTE, Caesarstone Sdot-Yam
+CSTL, Castle Biosciences Inc
+CSTR, Capstar Financial Holdings Inc
+CSWC, Capital Southwest
+CSWCL, Capital Southwest Corp 5.95% Notes Due 20
+CSWI, Csw Industrials Inc
+CTAC, Chaserg Technology Acquisition Corp Cl A
+CTACU, Chaserg Technology Acquisition Corp Unit
+CTBI, Community TR Bancp
+CTG, Computer Task Gp Inc
+CTHR, Charles & Colvard
+CTIB, Cti Inds Corp
+CTIC, Cti Biopharm Corp
+CTMX, Cytomx Thera
+CTRC, Centric Brands Inc
+CTRE, Caretrust REIT Inc
+CTRM, Castor Maritime Inc
+CTRN, Citi Trends Inc
+CTRP, Ctrip.com Intl Ltd
+CTSO, Cytosorbents Cor
+CTWS, Conn Water Svcs IN
+CTXR, Citius Pharmaceuticals Inc
+CUBA, Herzfeld Caribbean
+CUE, Cue Biopharma Inc
+CUI, Cui Global Inc
+CUR, Neuralstem Inc
+CUTR, Cutera Inc
+CVBF, Cvb Financial Corp
+CVCO, Cavco Inds Inc
+CVCY, Central Vly Cmty Bcp
+CVET, Covetrus Inc
+CVGI, Commercial Vehicle G
+CVGW, Calavo Growers Inc
+CVLT, Commvault Systems
+CVLY, Codorus Valley Bncp
+CVTI, Covenant Transportn
+CVV, CVD Equipment Corp
+CWBC, Community West Bncsh
+CWBR, Cohbar Inc
+CWCO, Cons Water Co. Inc
+CWST, Casella Waste Sys
+CXDC, China Xd Plastics Company
+CXSE, Wisdomtree China Ex-Cso Fund
+CY, Cypress Semiconductor
+CYAD, Celyad Sa Ads
+CYAN, Cyanotech Corp
+CYBE, Cyberoptics Cp
+CYBR, Cyberark Soft Ord
+CYCC, Cyclacel Pharmaceuti
+CYCCP, Cyclacel Pharmaceuti
+CYCN, Cyclerion Therapeutics Inc
+CYOU, Changyou.com Ltd
+CYRN, Cyren Ltd
+CYRX, Cryoport Inc
+CYTK, Cytokinetics
+CZNC, Citizens Nrthn Cp
+CZR, Caesars Entertainment Corp
+CZWI, Citizens Community
+DAIO, Data I O Cp
+DAKT, Daktronics Inc
+DALI, First Trust Dorseywright Dali 1 ETF
+DARE, Dare Bioscience Inc
+DAX, DAX Germany ETF
+DBVT, Dbv Technologies Ads
+DBX, Dropbox Inc
+DCAR, Dropcar Inc
+DCIX, Diana Containerships Inc
+DCOM, Dime Community Bncsh
+DCPH, Deciphera Pharmaceuticals Inc
+DDIV, First Trust High Income ETF
+DDMX, Dd3 Acquisition Corp
+DDMXU, Dd3 Acquisition Corp Units
+DEAC, Diamond Eagle Acquisition Cl A
+DENN, Dennys Corp
+DERM, Dermira Inc
+DEST, Destination Maternty
+DFBH, Dfb Healthcare Acquisitions Corp
+DFBHU, Dfb Healthcare Acquisitions Corp Unit
+DFBHW, Dfb Healthcare Acquisitions Corp WT
+DFFN, Diffusion Pharmaceuticals Inc
+DFNL, Davis Select Financial ETF
+DFRG, Del Frisco's Restrnt
+DGICA, Donegal Group Cl A
+DGICB, Donegal Group Cl B
+DGII, Digi Intl Inc
+DGLD, VS 3X Inv Gold
+DGLY, Digital Ally Inc
+DGRE, Wisdomtree EM Quality Divd Growth Fund
+DGRS, Wisdomtree US Smallcap Quality Dvid Fund
+DGRW, Wisdomtree US Quality Divd Fund
+DHIL, Diamond Hill Inv
+DHXM, Dhx Media Varbl Vtg
+DINT, Davis Select International ETF
+DIOD, Diodes Inc
+DISCB, Discovery Comm B
+DJCO, Daily Journal Cp
+DLHC, Dlh Holdings Corp
+DLPN, Dolphin Entertainment Inc
+DLTH, Duluth Hldg Cl B
+DMAC, Diamedica Therapeutics Inc
+DMLP, Dorchester Minls
+DMPI, Delmar Pharmaceuticals Inc
+DMRC, Digimarc Corp
+DMTK, Dermtech Inc
+DNBF, Dnb Finl Corp
+DNJR, Golden Bull Ltd
+DNKN, Dunkin' Brands Group
+DNLI, Denali Therapeutics Inc
+DOCU, Docusign Inc
+DOGZ, Dogness Corp Cl A
+DOMO, Domo Inc Cl B
+DOOO, Brp Inc
+DORM, Dorman Products Inc
+DOVA, Dova Pharmaceuticals Inc
+DOX, Amdocs Ltd Ord
+DOYU, Douyu International Holdings Ltd Ads
+DPHC, Diamondpeak Holdings Corp Cl A
+DPHCU, Diamondpeak Holdings Corp Units
+DRAD, Digirad Corp
+DRADP, Digirad Corporation Series A Cumulative Perpetua
+DRIO, Labstyle Innovat
+DRIV, Global X Autonomous & Electric Vehicles ETF
+DRNA, Dicerna Pharmaceutic
+DRRX, Durect Corp
+DRTT, Dirtt Environmental Solutions Ltd
+DRYS, Dryships Inc
+DSGX, Descartes Sys Group
+DSKE, Daseke Inc
+DSLV, VS 3X Inv Silver
+DSPG, D S P Group Inc
+DSWL, Deswell Inds Inc
+DTEA, Davidstea Inc
+DTIL, Precision Biosciences Inc
+DTSS, Datasea Inc
+DUSA, Davis Select USA ETF
+DVAX, Dynavax Technologies
+DVLU, First Trust Momentum & Value ETF
+DVOL, First Trust Momentum & Low Volatility ETF
+DVY, Select Dividend Ishares ETF
+DWAQ, DWA Nasdaq Momentum Invesco ETF
+DWAS, DWA Smallcap Momentum Invesco ETF
+DWAT, Arrow DWA Tactic ETF
+DWCR, Arrow DWA Country Rotation ETF
+DWFI, DW Fixed Income Allocation ETF SPDR
+DWIN, DWA Tactical Multi-Asset Income Invesco ETF
+DWLD, Davis Select World Opportunities ETF
+DWMC, Advisorshares D.W. Micro-Cap ETF
+DWPP, First Trust Dorsey Wright People's Portfolio ETF
+DWSH, Advisorshares D.W. Short ETF
+DWSN, Dawson Geophscl
+DWTR, DWA Tactical Sector Rotation Invesco ETF
+DXCM, Dexcom
+DXGE, Wisdomtree Germany Hedged Eqty Fund
+DXJS, Wisdomtree Japan Smallcap Eqty Hedged Fund
+DXLG, Destination XL Group
+DXPE, Dxp Enterprise
+DXYN, The Dixie Group
+DYAI, Dyadic International
+DYNT, Dynatronics Cp
+DZSI, Dasan Zhone Solutions Inc
+EARS, Auris Medical
+EAST, Eastside Distilling Inc
+EBAYL, Ebay Inc 6.0% NTS
+EBIX, Ebix Inc
+EBIZ, Global X E-Commerce ETF
+EBMT, Eagle Bancorp [Mt]
+EBSB, Meridian Bncp
+EBTC, Enterprise Bancorp
+ECHO, Echo Global Logistic
+ECOL, US Ecology Inc
+ECOR, Electrocore Inc
+ECOW, Pacer Emerging Markets Cash Cows 100 ETF
+ECPG, Encore Capital Group
+EDAP, Edap Tms Sa ADR
+EDIT, Editas Medicine
+EDNT, Edison Nation Inc
+EDRY, Eurodry Ltd
+EDSA, Edesa Biotech Inc
+EDTX, Edtechx Holdings Acquisition Corp
+EDTXU, Edtechx Holdings Acquisition Corp Unit
+EDUC, Educational Dev Cp
+EEFT, Euronet Worldwide
+EEI, Ecology Environment
+EEMA, Emrg Mkts Asia Ishares MSCI ETF
+EFAS, G-X MSCI Superdividend EAFE ETF
+EFBI, Eagle Financial Bancorp Inc
+EFOI, Energy Focus
+EFSC, Enterprises Finl Svc
+EGAN, Egain Corp
+EGBN, Eagle Bancorp Inc
+EGLE, Eagle Bulk Ship
+EGOV, Nic Inc
+EGRX, Eagle Pharmaceuticals
+EHTH, Ehealth Inc
+EIDX, Eidos Therapeutics Inc
+EIGI, Endurance Int Group
+EIGR, Eiger Biopharma
+EKSO, Ekso Bionics Holdings Inc
+ELGX, Endologix Inc
+ELOX, Eloxx Pharmaceuticals Inc
+ELSE, Electro Sensors IN
+ELTK, Eltek Ltd
+EMB, USD Emrg Mkts Bond Ishares JPM ETF
+EMCB, Wisdomtree EM Corp Bond Fund
+EMCF, Emclaire Finl Cor
+EMCG, Wisdomtree EM Consumer Growth
+EMCI, E M C Insurance Gp
+EMIF, Emrg Mkts Infrastructure Ishares ETF
+EMKR, Emcore Corp
+EML, Eastern Company
+EMMS, Emmis Commun Cl A
+EMXC, Emrg Mkts Ex China Ishares MSCI ETF
+ENDP, Endo Int'l Plc
+ENFC, Entegra Financial Corp
+ENG, Englobal Corp
+ENLV, Enlivex Therapeutics Ltd
+ENOB, Enochian Biosciences Inc
+ENPH, Enphase Energy Inc
+ENSG, The Ensign Group IN
+ENT, Global Eagle Entrtn
+ENTA, Enanta Pharmaceutica
+ENTG, Entegris Inc
+ENTX, Entera Bio Ltd
+ENZL, New Zealand Ishares MSCI ETF
+EOLS, Evolus Inc
+EPAY, Bottomline Tech IN
+EPIX, Essa Pharma
+EPSN, Epsilon Energy
+EPZM, Epizyme Inc
+EQ, Equillium Inc
+EQBK, Equity Bncsrs Cm A
+EQRR, Proshares Trust Proshares Equities For Rising Ra
+ERI, Eldorado Resorts
+ERIC, Ericsson ADR
+ERIE, Erie Indemnity Company
+ERII, Energy Recovery Inc
+ERYP, Erytech Pharma
+ESBK, Elmira Sav Bk
+ESCA, Escalade Inc
+ESEA, Euroseas Ltd
+ESGD, EAFE ESG Optimized Ishares MSCI ETF
+ESGE, Emrg Mkts ESG Optimized Ishares MSCI ETF
+ESGG, Flexshares Global ESG Impact Index
+ESGR, Enstar Group Ltd
+ESGRO, Enstar Group Ltd Depository Shares 7.00% Per
+ESGRP, Enstar Group Ltd
+ESGU, USA ESG Optimized Ishares MSCI ETF
+ESLT, Elbit Systems Ltd
+ESPR, Esperion Theraptc
+ESQ, Esquire Financial Holdings Inc
+ESSA, Essa Bancorp Inc
+ESTA, Establishment Labs Holdings Inc
+ESTR, Estre Ambiental Inc
+ESXB, Community Bankers
+ETON, Eton Pharmaceutcials Inc
+ETSY, Etsy Inc
+ETTX, Entasis Therapeutics Holdings Inc
+EUFN, Europe Financials Ishares MSCI ETF
+EVBG, Everbridge Inc
+EVER, Everquote Inc Cl A
+EVFM, Evofem Biosciences Inc
+EVGN, Evogene Ltd Ord
+EVK, Ever Glory Intl Group
+EVLO, Evelo Biosciences Inc
+EVOK, Evoke Pharma
+EVOL, Evolving Systems Inc
+EVOP, Evo Payments Inc Cl A
+EVSI, Envision Solar International Inc
+EVSTC, Eaton Vance Nextshares Trust Eaton Vance Stock N
+EWBC, East West Bancorp
+EWJE, Ishares MSCI Japan Equal Weighted ETF
+EWJV, Ishares MSCI Japan Value ETF
+EWZS, Brazil Small-Cap Ishares MSCI ETF
+EXAS, Exact Sciences Cor
+EXEL, Exelixis Inc
+EXFO, Exfo Inc
+EXLS, Exlservice Holdings
+EXPCU, Experience Investment Corp
+EXPI, Exp Realty International
+EXPO, Exponent Inc
+EXTR, Extreme Networks
+EYE, National Vision Holdings Inc
+EYEG, Eyegate Pharma
+EYEN, Eyenovia Inc
+EYES, Second Sight
+EYPT, Eyepoint Pharmaceuticals Inc
+EZPW, Ezcorp Inc
+FAAR, Alternative Absolute Return Strategy ETF FT
+FAB, Multi Cap Value Alphadex Fund FT
+FAD, Multicap Growth Alphadex Fund FT
+FALN, US Fallen Angels Ishares ETF
+FAMI, Farmmi Inc
+FANH, Fanhua Inc
+FARM, Farmer Brothers
+FARO, Faro Tech Inc
+FAT, Fat Brands Inc
+FATE, Fate Therapeutics
+FBIO, Fortress Biotech Inc
+FBIOP, Fortress Biotech Inc 9.375% Series A Cumulativ
+FBIZ, First Business Finan
+FBMS, First Bancshs [Ms]
+FBNC, First Bancorp [Nc]
+FBSS, Fauquier Bankshares
+FBZ, Brazil Alphadex Fund FT
+FCA, China Alphadex Fund FT
+FCAL, First Trust Exchange-Traded Fund III First Trust
+FCAN, Canada Alphadex Fund FT
+FCAP, First Capital Inc
+FCBC, First Community Bksh
+FCBP, First Choice Bancorp
+FCCO, First Community Corp
+FCCY, 1st Constitution Bcp
+FCEF, CEF Income Opportunity ETF FT
+FCEL, Fuelcell Energy Inc
+FCFS, First Cash Fin Svcs
+FCNCA, First Citizens Bancs
+FCSC, Fibrocell Science
+FCVT, Ssi Strategic Convertible Securities ETF FT
+FDBC, Fidelity D & D Bancorp Inc
+FDEF, First Defiance Finl
+FDIV, Strategic Income ETF FT
+FDNI, FT DJ International Internet ETF
+FDT, Dev Mkts Ex-US Alphadex Fund FT
+FDTS, Dev Mkts Ex-US Small Cap Alphadex Fund FT
+FDUS, Fidus Investment Cor
+FDUSZ, Fidus Investment Corp 6% Notes Due 2024
+FEIM, Frequency Elcts Inc
+FELE, Franklin Electric Company
+FEM, Emrg Mkts Alphadex Fund FT
+FEMB, Emrg Mkts Local Currency Bond ETF FT
+FEMS, Emrg Mkts Small Cap Alphadex Fund FT
+FENC, Fennec Pharmaceuticals Inc
+FEP, Europe Alphadex Fund FT
+FEUZ, Eurozone Alphadex Fund FT
+FEX, Largecap Core Alphadex Fund FT
+FEYE, Fireeye Inc
+FFBC, First Finl Bncp [Oh]
+FFBW, Ffbw Inc
+FFHL, Fuwei Films [Holding
+FFIC, Flushing Finl Corp
+FFIN, First Finl Bkshs Inc
+FFNW, First Financial Nort
+FFWM, First Foundation
+FGBI, First Gurty Banc
+FGEN, Fibrogen Inc CS
+FGM, Germany Alphadex Fund FT
+FHB, First Hawaiian Inc
+FHK, Hong Kong Alphadex Fund FT
+FHL, Futu Holdings Ltd
+FIBK, First Interstate Ban
+FID, First Trust S&P Intl Dividend Aristocrats ETF
+FINX, G-X Fintech Thematic ETF
+FISI, Financial Institut
+FITBI, Fifth Third Bancorp
+FITBP, Fifth Third Bancorp Depositary Shares 1/40Th
+FIVE, Five Below Inc
+FIVN, Five9 Inc
+FIXD, Tcw Opportunistic Fixed Income ETF FT
+FIXX, Homology Medicines Inc
+FIZZ, Natl Beverage Cp
+FJP, Japan Alphadex Fund FT
+FKO, South Korea Alphadex Fund FT
+FKU, UK Alphadex Fund FT
+FLDM, Fluidigm Corp
+FLEX, Flextronics Intl Ltd
+FLGT, Fulgent Genetics Inc
+FLIC, First of Long Isla
+FLL, Full House Rsts
+FLMN, Falcon Minerals Corp Cl A
+FLN, Latin America Alphadex Fund FT
+FLNT, Fluent Inc
+FLWS, 1-800-Flowers.com
+FLXN, Flexion Therapeutics
+FLXS, Flexsteel Inds
+FMAO, Farmers & Merch Banc
+FMB, Managed Municipal ETF FT
+FMBH, First Mid Ill Bncshr
+FMBI, First Midwest Bncp
+FMCI, Forum Merger II Corp Cl A
+FMCIU, Forum Merger II Corp Unit
+FMHI, FT Municipal High Income ETF
+FMK, Mega Cap Alphadex Fund FT
+FMNB, Farmers Natl Banc Cp
+FNCB, FNCB Bancorp Inc
+FNHC, Federated Natl Hldg
+FNJN, Finjan Holdings
+FNK, Mid Cap Value Alphadex Fund FT
+FNKO, Funko Inc Cl A
+FNLC, First Bancorp Inc
+FNSR, Finisar Corp
+FNWB, First Nw Banc
+FNX, Mid Cap Core Alphadex Fund FT
+FNY, Mid Cap Growth Alphadex Fund FT
+FOCS, Focus Financial Partners Inc Cl A
+FOLD, Amicus Therapeutics
+FOMX, Foamix Pharma Ord
+FONR, Fonar Corp
+FORD, Forward Inds Inc
+FORK, Fuling Global Ord Sh
+FORM, Formfactor Inc
+FORR, Forrester Resrch
+FORTY, Formula Sys [1985]
+FOSL, Fossil Group
+FOXF, Fox Factory Cp
+FPA, Asia Pacific Ex-Japan Alphadex Fund FT
+FPAY, Flexshopper Inc
+FPRX, Five Prime Thera
+FPXE, First Trust Ipox Europe Equity Opp ETF
+FPXI, International IPO Fund FT
+FRAF, Franklin Finl Svcs Corp
+FRAN, Francesca's Holdings
+FRBA, First Bank
+FRBK, Republic First Bcp
+FRGI, Fiesta Restaurant Gp
+FRME, First Merchants Corp
+FRPH, Frp Holdings Inc
+FRPT, Freshpet Inc CS
+FRSX, Foresight Autonomous Holdings Ltd ADR
+FRTA, Forterra Inc
+FSBC, Fsb Community Bnksh
+FSBW, FS Bancorp Inc
+FSCT, Forescout Technologies Inc
+FSEA, First Seacoast Bancorp
+FSFG, First Savings Financ
+FSLR, First Solar Inc
+FSTR, Foster L B Company
+FSV, Firstsrvce Sub VT Sh
+FSZ, Switzerland Alphadex Fund FT
+FTA, Largecap Value Alphadex Fund FT
+FTAC, Fintech Acquisition Corp III Cl A
+FTACU, Fintech Acquisition Corp III Unit
+FTAG, Indxx Global Agriculture ETF FT
+FTC, Largecap Growth Alphadex Fund FT
+FTCS, Capital Strength ETF FT
+FTDR, Frontdoor Inc
+FTEK, Fuel Tech Inc
+FTEO, Fronteo Inc
+FTFT, Future Fintech Group Inc
+FTGC, Global Tactical Commodity Strategy Fund FT
+FTHI, High Income ETF FT
+FTLB, Low Beta Income ETF FT
+FTR, Frontier Commun Cp
+FTRI, Indxx Global Natural Resources Income ETF FT
+FTSL, Senior Loan ETF FT
+FTSM, Enhanced Short Maturity ETF FT
+FTSV, Forty Seven Inc
+FTXD, Nasdaq Retail ETF FT
+FTXG, Nasdaq Food & Beverage ETF FT
+FTXH, Nasdaq Pharmaceuticals ETF FT
+FTXL, Nasdaq Semiconductor ETF FT
+FTXN, Nasdaq Oil & Gas ETF FT
+FTXO, Nasdaq Bank ETF FT
+FTXR, Nasdaq Transportation ETF FT
+FULC, Fulcrum Therapeutics Inc
+FULT, Fulton Financial Cor
+FUNC, First United Corp
+FUND, Sprott Focus Trust
+FUSB, First US Bancshares Inc
+FUV, Arcimoto Inc
+FV, Dorsey Wright Focus 5 ETF FT
+FVC, Dorsey Wright Dynamic Focus 5 ETF FT
+FVCB, Fvcbankcorp Inc
+FVE, Five Star Quality Care
+FWONA, Liberty Media F1 Series A
+FWONK, Liberty Media F1 Series K
+FWP, Forward Pharma Ads
+FWRD, Foward Air Corp
+FXNC, First Natl Corp Strasburg VA
+FYC, Smallcap Growth Alphadex Fund FT
+FYT, Smallcap Value Alphadex Fund FT
+FYX, Smallcap Core Alphadex Fund FT
+GABC, German Amer Bncp Inc
+GAIA, Gaiam Inc
+GAIN, Gladstone Investment
+GAINL, Gladstone Investment Corp Term Pfd Ser E %
+GAINM, Gladstone Investment Corp
+GALT, Galectin Therapeutic
+GARS, Garrison Capital Inc
+GASS, Stealthgas Inc
+GBCI, Glacier Bancorp Inc
+GBDC, Golub Capital Bdc
+GBLI, Global Indemnity Plc
+GBLIZ, Global Indmnty 7.75
+GBT, Global Blood Ther
+GCBC, Greene County Bncp
+GCVRZ, Sanofi Cvr
+GDEN, Golden Entmt
+GDS, Gds Holdings Ltd
+GEC, Great Elm Capital Group Inc
+GECC, Great Elm Capital Corp
+GECCN, Great Elm Capital Corp. 6.5% Notes Due 2024
+GEMP, Gemphire Therapeutics Inc
+GENC, Gencor Industries IN
+GENE, Genetic Tech Spn Ads
+GENY, Principal Millennials Index ETF
+GEOS, Geospace Technologie
+GERN, Geron Corp
+GEVO, Gevo Inc
+GFED, Guaranty Fedl Bcshs
+GFN, General Finance Corp
+GFNCP, General Fn Cum Pfd C
+GGAL, Grupo Fin Galicia
+GH, Guardant Health Inc
+GHDX, Genomic Health Inc
+GHSI, Guardion Health Sciences Inc
+GIFI, Gulf Island Fab
+GIGE, Sofi Gig Economy ETF
+GIGM, Gigamedia Ltd
+GIII, G-III Apparel Gp
+GILT, Gilat Satellite Ntwk
+GLAC, Greenland Acquisition Corp
+GLACU, Greenland Acquisition Corp Unit
+GLACW, Greenland Acquisition Corp WT
+GLAD, Gladstone Cap Corp
+GLADD, Gladstone Capital Corp 6.125% Notes Due 2
+GLADN, Gladstone Capital Corp Term Pfd. Ser 2024
+GLBS, Globus Maritime Limi
+GLBZ, Glen Burnie Bancorp
+GLDD, Great Lakes Drg Dock
+GLDI, CS X-Links Gold Share
+GLG, China Bat Group Inc
+GLIBA, Gci Liberty Inc Cl A
+GLIBP, Gci Liberty Inc Ser A Pfd
+GLMD, Galmed Pharmaceutica
+GLNG, Golar Lng Ltd
+GLPG, Galapagos NV
+GLPI, Gaming & Leisure
+GLRE, Greenlight Cap. Re.
+GLUU, Glu Mobile Inc
+GLYC, Glycomimetics Inc
+GMAB, Genmab A/S
+GMDA, Gamida Cell Ltd
+GMHI, Gores Metropoulos Cl A
+GMHIU, Gores Metropoulos Inc Unit
+GMLP, Golar Lng Partners
+GMLPP, Golar Lng Partners LP
+GNCA, Genocea Biosciences
+GNFT, Genfit S.A. ADR
+GNLN, Greenlane Holdings Inc Cl A
+GNMA, GNMA Bond Ishares ETF
+GNMK, Genmark Diagnostics
+GNMX, Aevi Genomic Medicine
+GNOM, Global X Genomics & Biotechnology ETF
+GNPX, Genprex Inc
+GNTX, Gentex Corp
+GNTY, Guaranty Bancshares Inc
+GNUS, Genius Brands International Inc
+GO, Grocery Outlet Holding Corp
+GOGL, Golden Ocean Gp
+GOGO, Gogo Inc
+GOOD, Gladstone Comml
+GOODM, Gladstone Commercial Corp
+GOODO, Gladstone Commercial Corp
+GOODP, Gladstone Commercial Corp
+GOSS, Gossamer Bio Inc
+GPAQ, Gordon Pointe Acquisition Corp Cl A
+GPAQU, Gordon Pointe Acquisition Corp Unit
+GPOR, Gulfport Energy Corp
+GPP, Green Plains Partners LP
+GPRE, Green Plains Inc
+GPRO, Gopro Inc Cl A
+GRBK, Green Brick Partners
+GRFS, Grifols S.A.
+GRID, Nasdaq Clean Edge Smart Grid Infr Index Fund FT
+GRIF, Griffin Industrial
+GRIN, Grindrod Shipping Holdings Ltd
+GRNQ, Greenpro Capital Corp
+GROW, U S Global Inv Inc
+GRPN, Groupon Cl A
+GRSH, Gores Holdings III Inc Cl A
+GRSHU, Gores Holdings III Inc
+GRTS, Gritstone Oncology Inc
+GRVY, Gravity Co. Ltd
+GSBC, Great Southern Bncp
+GSHD, Goosehead Insurance Inc Cl A
+GSIT, Gsi Technology Inc
+GSKY, Greensky Inc Cl A
+GSM, Ferroglobe Plc Os
+GSUM, Gridsum Holding Inc
+GT, Goodyear Tire Rubber
+GTHX, G1 Therapeutics Inc
+GTIM, Good Times Rest
+GTLS, Chart Industries IN
+GTYH, Gty Technology Holdings Inc
+GULF, Wisdomtree Middle East Dividend Fund
+GURE, Gulf Resources Inc
+GVP, GSE Systems
+GWGH, Gwg Holdings
+GWPH, Gw Pharma ADR
+GWRS, Global Water Reso
+GXGX, Gx Acquisiton Corp Cl A
+GYRO, Gyrodyne Llc
+HA, Hawaiian Hldgs Inc
+HABT, Habit Rest
+HAFC, Hanmi Financial Cp
+HAIN, Hain Celestial Group
+HAIR, Restoration Robotics Inc
+HALL, Hallmark Fin Svc
+HALO, Halozyme Therapeutic
+HARP, Harpoon Therapeutics Inc
+HAYN, Haynes Intl Inc
+HBANN, Huntington Bancshares Incorporated ADR
+HBANO, Huntington Banc. Dep
+HBCP, Home Bancorp Inc
+HBIO, Harvard Bioscience
+HBMD, Howard Bancorp MD
+HBNC, Horizon Bancorp
+HBP, Huttig Bldg Products
+HCAC, Hennessy Capital Acquisition Corp IV Cl A
+HCAP, Harvest Capital Cred
+HCAT, Health Catalyst Inc
+HCCH, Hl Acquisitions Corp
+HCCHU, Hl Acquisitions Corp Unit
+HCCI, Heritage-Crystal
+HCKT, Hackett Grp Inc
+HCM, Hutchison China Ads
+HCSG, Healthcare Svcs Gp
+HDS, HD Supply Hlds Cmm
+HDSN, Hudson Tech Inc
+HEAR, Turtle Beach Corp
+HEBT, Hebron Technology Co. Ltd
+HEES, H&E Equip Services
+HELE, Helen of Troy Ltd
+HEPA, Hepion Pharmaceuticals Inc
+HERD, Pacer Cash Cows Fund of Funds ETF
+HEWG, Germany Curr Hedged Ishares MSCI ETF
+HFBL, Home Federal
+HFFG, HF Foods Group Inc
+HFWA, Heritage Financial
+HGSH, China Hgs Real Est
+HHHH, Wealthbridge Acquisition Ltd
+HHR, Headhunter Group Plc ADR
+HHT, Huitao Technology Co. Ltd.
+HIBB, Hibbett Sports Inc
+HIFS, Hingham Inst For Svg
+HIHO, Highway Hldgs Ltd
+HIIQ, Health Insurance Inn
+HIMX, Himax Technologies
+HJLI, Hancock Jaffe Laboratories Inc
+HJLIW, Hancock Jaffe Laboratories Inc WT
+HLAL, Wahed FTSE USA Shariah ETF
+HLG, Hailiang Edu Grp Ads
+HLIO, Helios Technologies Inc
+HLIT, Harmonic Inc
+HLNE, Hamilton Lane Incorporated Cl A
+HMHC, Houghton Mifflin Har
+HMNF, Hmn Financial Inc
+HMST, Homestreet Inc
+HMSY, Hms Hldgs Cp
+HMTV, Hemisphere Media A
+HNDL, Strategy Shares Nasdaq 7Handl Index ETF
+HNNA, Hennessy Advisors
+HNRG, Hallador Energy Company
+HOFT, Hooker Furniture
+HOLI, Hollysys Automation
+HOMB, Home Bancshares Inc
+HONE, Harborone Bancorp Inc
+HOOK, Hookipa Pharma Inc
+HOPE, Hope Bancorp Inc
+HOTH, Hoth Therapeutics Inc
+HOVNP, Hovnanian Entr Dep A
+HPJ, Highpower Intl Inc
+HPT, Hospitality Properites Trust
+HQI, Hirequest Inc.
+HQY, Healthequity
+HROW, Harrow Health Inc
+HRTX, Heron Therapeutics
+HRZN, Horizon Technology F
+HSAC, Health Sciences Acquisitions Corp
+HSACU, Health Sciences Acquisitions Corp Units
+HSDT, Helius Medical Technologies Inc
+HSGX, Histogenics Cp
+HSII, Heidrick & Struggl
+HSKA, Heska Corp
+HSON, Hudson Global
+HSTM, Healthstream Inc
+HTBI, Hometrust Bancshares
+HTBK, Heritage Commerce
+HTBX, Heat Biologics Inc
+HTGM, Htg Molecular Dia
+HTHT, Huazhu Group Ltd
+HTLD, Heartland Express
+HTLF, Heartland Finl USA
+HUBG, Hub Group Inc A
+HURC, Hurco Cos Inc
+HURN, Huron Consulting
+HVBC, Hv Bancorp Inc
+HWBK, Hawthorn Bancshares
+HWC, Hancock Whitney Corp
+HWCC, Houston Wire Cable
+HWCPL, Hancock Whitney Corp 5.95 Nt
+HWKN, Hawkins Inc
+HX, Hexindai Inc
+HYAC, Haymaker Acquisition Corp. II Cl A
+HYACU, Haymaker Acquisition Corp Unit
+HYLS, Tactical High Yield ETF FT
+HYND, Wisdomtree Neg Duration HI Yld Bond Fund
+HYRE, Hyrecar Inc
+HYXE, High Yield Ex Oil and Gas Corp Bond Ishares Ibox
+HYZD, Wisdomtree Int Rate HI Yld Bond Hedged Fund
+HZNP, Horizon Therapeutics
+IAC, Iac/Interactive
+IART, Integra Lifesciences
+IBB, Nasdaq Biotechnology Ishares ETF
+IBCP, Independent Bk Cp
+IBKC, Iberiabank Corp
+IBKCN, Iberiabank Corp Dep Shs Repstg
+IBKCO, Iberiabank Ds Rep C
+IBKCP, Iberiabank Dp Sh B
+IBKR, Interactive Brokers
+IBOC, Intl Bancshares
+IBTX, Independent Bank Group
+IBUY, Online Retail Amplify ETF
+ICAD, Icad Inc
+ICBK, County Bancorp
+ICCC, Immucell Cp
+ICCH, Icc Holdings Inc
+ICFI, Icf International
+ICHR, Ichor Holdings Ltd
+ICLK, Iclick Interactive Asia Group Ltd ADR
+ICLN, Global Clean Energy Ishares ETF
+ICLR, Icon Plc
+ICMB, Investcorp Credit Management Bdc Inc
+ICON, Iconix Brand Group
+ICPT, Intercept Pharmaceuticals
+ICUI, I C U Medical Inc
+IDCC, Interdigital Inc
+IDEX, Ideanomics Inc
+IDLB, FTSE Intl Low Beta EW Invesco ETF
+IDRA, Idera Pharmaceuticals
+IDSA, Industrial Svcs Am
+IDSY, ID Systems Inc
+IDXG, Interpace Diag Group
+IDYA, Ideaya Biosciences Inc
+IEA, Infrastructure and Energy Alternatives Inc
+IEF, 7-10 Year Treas Bond Ishares ETF
+IEI, 3-7 Year Treas Bond Ishares ETF
+IEP, Icahn Enterprises
+IESC, Ies Holdings
+IEUS, Europe Small-Cap Ishares MSCI ETF
+IFEU, Europe Developed Real Estate Ishares ETF
+IFGL, Intl Developed Real Estate Ishares ETF
+IFMK, Ifresh Inc
+IFRX, Fireman B.V.
+IFV, Dorsey Wright Intl Focus 5 ETF FT
+IGF, Global Infrastructure Ishares ETF
+IGIB, Intermediate-Term Corp Bond Ishares ETF
+IGLD, Internet Gold-Golden
+IGOV, Intl Treasury Bond Ishares ETF
+IGSB, Short-Term Corp Bond Ishares ETF
+III, Information Svcs Group
+IIIN, Insteel Industries
+IIIV, I3 Verticals Inc Cl A
+IIN, Intricon Corp
+IIVI, I I V I Inc
+IJT, S&P Small-Cap 600 Growth Ishares ETF
+IKNX, Ikonics Corp
+ILPT, Industrial Logistics Properties Trust
+IMAC, Imac Holdings Inc
+IMBI, Imedia Brands Inc
+IMGN, Immunogen Inc
+IMI, Intermolecular Inc
+IMKTA, Ingles Markets Inc
+IMMP, Immutep Ltd ADR
+IMMR, Immersion Corp
+IMMU, Immunomedics Inc
+IMOS, Chipmos Tech
+IMRN, Immuron Ltd
+IMTE, Integrated Media Technology
+IMUX, Immunic Inc
+IMV, Imv Inc
+IMXI, International Money Express Inc
+INAP, Internap Corp
+INBK, First Internet Bcp
+INBKL, First Internet Bancorp
+INBKZ, First Internet Bancorp 6.0% Fixed-To-Floating Ra
+INDB, Independent Bk Corp
+INDY, India 50 Ishares ETF
+INFI, Infinity Pharmaceuti
+INFN, Infinera Corp
+INFR, Legg Global Infrastructure ETF
+INGN, Inogen Inc
+INMB, Inmune Bio Inc
+INMD, Inmode Ltd
+INNT, Innovate Biopharmaceuticals Inc
+INO, Inovio Pharma
+INOD, Innodata Inc
+INOV, Inovalon Hldgs Cm A
+INPX, Inpixon
+INSE, Inspired Entertainment Inc
+INSG, Inseego Corp
+INSM, Insmed Inc
+INSU, Insurance Acquisition Corp Cl A
+INTG, Intergroup Cp The
+INTL, Intl Fcstone Inc
+INVA, Innoviva Inc
+INVE, Identiv Inc
+INWK, Innerworkings Inc
+IONS, Ionis Pharmaceuticals
+IOSP, Innospec Inc
+IOTS, Adesto Tech
+IOVA, Iovance Biotherapeutics Inc
+IPAR, Inter Parfums Inc
+IPDN, Professional Diversi
+IPHS, Innophos Hldngs Inc
+IPKW, Intl Buyback Achievers Invesco ETF
+IPLDP, Interstate Power & Light Company Perp Prd Se
+IPWR, Ideal Power Inc
+IQ, Iqiyi Inc ADR
+IRBT, Irobot Corp
+IRCP, Irsa Propiedades Ads
+IRDM, Iridium Comm Inc
+IRIX, Iridex Cp
+IRMD, Iradimed Cp
+IROQ, If Bancorp Inc
+IRTC, Irhythm Technologies Inc
+IRWD, Ironwood Pharmaceuti
+ISBC, Investors Bancorp
+ISCA, Intl Speedway Cl A
+ISDS, Invesco Developed Ex-US Small Company ETF
+ISDX, Invesco Developed Ex-US ETF
+ISEE, Iveric Bio Inc
+ISEM, Invesco Emerging Markets ETF
+ISHG, 1-3 Year Intl Treas Bond Ishares ETF
+ISIG, Insignia Systems
+ISNS, Image Sensing Syst
+ISRL, Isramco Inc
+ISSC, Innovative Sol&Sup
+ISTB, 1-5 Year USD Bond Ishares Core ETF
+ISTR, Investar Holding
+ITCI, Intra-Cellular Ther
+ITI, Iteris Inc
+ITIC, Investors Title Company
+ITMR, Itamar Medical Ltd ADR
+ITRI, Itron Inc
+ITRM, Iterum Therapeutics Plc
+ITRN, Ituran Location
+IUS, Invesco Strategic US ETF
+IUSB, USD Bond Market Total Ishares Core ETF
+IUSG, S&P US Growth Ishares Core ETF
+IUSS, Invesco US Small Company ETF
+IUSV, S&P US Value Ishares Core ETF
+IVAC, Intevac Inc
+IXUS, Total Intl Stock Ishares Core MSCI ETF
+IZEA, Izea Inc
+JACK, Jack IN The Box Inc
+JAGX, Jaguar Health Inc
+JAKK, Jakks Pacific Inc
+JAN, Janone Inc.
+JASN, Jason Indst
+JAZZ, Jazz Pharma Plc
+JBLU, Jetblue Airways Cp
+JBSS, John B Sanfilippo
+JCOM, J2 Global Inc
+JCS, Commun Systems Inc
+JCTCF, Jewett-Cameron Trd
+JD, Jd.com Inc Ads
+JFIN, Jiayin Group Inc ADR
+JFK, 8I Enterprises Acquisition Corp
+JFKKU, 8I Enterprises Acquisition Corp Unit
+JFU, 9F Inc ADR
+JG, Aurora Mobile Ltd ADR
+JJSF, J J Snack Foods
+JKI, Mstar Mid-Cap Value Ishares ETF
+JMU, Jmu Ltd
+JNCE, Jounce Therapeutics Inc
+JOBS, 51Job Inc
+JOUT, Johnson Outdoors
+JRJC, China Finance Online
+JRSH, Jerash Holdings Inc
+JRVR, James River Gp HD
+JSM, SLM Cp 6% Sr Nt
+JSMD, Janus Small/Midcap Growth ETF
+JSML, Janus Smallcap Growth ETF
+JVA, Coffee Holding Company
+JYNT, The Joint Corp
+KALA, Kala Pharmaceuticals Inc
+KALU, Kaiser Aluminum
+KALV, Kalvista Pharmaceuticals Inc
+KBAL, Kimball Intl Cl B
+KBLM, Kbl Merger Corp IV
+KBSF, Kbs Fashion Gp Ltd
+KBWB, KBW Bank Invesco ETF
+KBWD, KBW High Dividend Yield Financial Invesco ETF
+KBWP, KBW Property & Casualty Insurance Invesco ETF
+KBWR, KBW Regional Banking Invesco ETF
+KBWY, KBW Premium Yield Equity REIT Invesco ETF
+KE, Kimball Electrnc
+KELYA, Kelly Svcs Cl A
+KELYB, Kelly Services Inc Cl B
+KEQU, Kewaunee Scientifi
+KERN, Akerna Corp. Cl A
+KFFB, Kentucky First Fed
+KFRC, Kforce Inc
+KGJI, Kingold Jewelry Inc
+KIDS, Orthopediatrics Corp
+KIN, Kindred Biosciences
+KINS, Kingstone Cos Inc
+KIRK, Kirkland's Inc
+KLDO, Kaleido Biosciences Inc
+KLIC, Kulicke and Soffa
+KLXE, Klx Energy Services Holdings Inc
+KMDA, Kamada Ltd
+KMPH, Kempharm Inc
+KNDI, Kandi Techs Group
+KNSA, Kiniksa Pharmaceuticals Ltd
+KNSL, Kinsale Capital Group Inc
+KOD, Kodiak Sciences Inc
+KOOL, Cesca Therapeutics
+KOPN, Kopin Cp
+KOSS, Koss Cp
+KPTI, Karyopharm Therapeut
+KRMA, G-X Conscious Companies ETF
+KRNT, Kornit Digital Ord
+KRNY, Kearny Financial
+KRTX, Karuna Therapeutics Inc
+KRUS, Kura Sushi USA Inc Cl A
+KRYS, Krystal Biotech Inc
+KTCC, Key Tronic Cp
+KTOS, Kratos Defns
+KTOV, Kitov Pharamceut Ads
+KURA, Kura Oncology
+KVHI, K V H Inds Inc
+KXIN, Kaixin Auto Holdings
+KZIA, Kazia Therapeutics Ltd
+KZR, Kezar Life Sciences Inc
+LACQ, Leisure Acquisition Corp
+LACQU, Leisure Acquisition Corp Unit
+LAKE, Lakeland Inds Inc
+LAMR, Lamar Advertis A
+LANC, Lancaster Colony Cor
+LAND, Gladstone Land Corp
+LANDP, Gladstone Land Corp
+LARK, Landmark Bancorp Inc
+LASR, Nlight Inc
+LAUR, Laureate Education Inc
+LAWS, Lawson Products IN
+LAZY, Lazydays Holdings Inc
+LBAI, Lakeland Bancorp Inc
+LBC, Luther Burbank Corp
+LBRDA, Liberty Broadbd A
+LBRDK, Liberty Broadbd C
+LBTYA, Liberty Global Ord A
+LBTYB, Liberty Global Ord B
+LBTYK, Liberty Global Ord C
+LCA, Landcadia Holdings II Inc Cl A
+LCNB, Lcnb Corp
+LCUT, Lifetime Brands Inc
+LDRI, Ladderrite 0-5 Year Corp Bond Invesco ETF
+LDSF, FT Low Duration Strategic Focus ETF
+LE, Lands' End Inc
+LECO, Lincoln Elec Hldg
+LEDS, Semileds Corp
+LEGH, Legacy Housing Corp
+LEGR, First Trust Indxx Innovative Transaction & Proce
+LEVL, Level One Bancorp Inc
+LFAC, Lf Capital Acquistion Corp Cl A
+LFACU, Lf Capital Acquistion Corp Unit
+LFUS, Littelfuse Inc
+LFVN, Lifevantage Cp
+LGIH, LGI Homes Inc
+LGND, Ligand Pharm
+LHCG, LHC Group Inc
+LIFE, Atyr Pharma Inc
+LILA, Liberty Latin America Cl A
+LILAK, Liberty Latin America Cl C
+LINC, Lincoln Educational
+LIND, Lindblad Expd Hld
+LIQT, Liqtech International Inc
+LITE, Lumentum Hld
+LIVE, Live Ventures
+LIVN, Livanova Plc OR Sh
+LIVX, Livexlive Media Inc
+LJPC, LA Jolla Pharma
+LK, Luckin Coffee Inc ADR
+LKCO, Luokung Technology Corp
+LKFN, Lakeland Finl Corp
+LKOR, Flexshares Credit Scored US Long Corp
+LLIT, Lianluo Smart Ltd
+LLNW, Limelight Networks
+LMAT, Lemaitre Vascular
+LMB, Limbach Holdings Inc
+LMBS, Low Duration Opportunities ETF FT
+LMFA, Lm Funding America Inc
+LMNR, Limoneira Company
+LMNX, Luminex Corp
+LMRK, Landmark Common Units
+LMRKN, Landmark Infrastructure Partners LP
+LMRKO, Landmark Infrastructure Partners LP
+LMRKP, Landmark Inf Prf
+LMST, Limestone Bancorp Inc
+LNDC, Landec Cp
+LNGR, G-X Longevity Thematic Et
+LNTH, Lantheus Holdings
+LOACU, Longevity Acquisition Corp Units
+LOAN, Manhattan Bridge
+LOB, Live Oak Bancsh
+LOCO, El Pollo Loco
+LOGC, Logicbio Therapeutics Inc
+LOGI, Logitech Int S.A.
+LOGM, Logmein Inc
+LONE, Lonestar Resources US Inc
+LOOP, Loop Industries Inc
+LOPE, Grand Canyon Educati
+LORL, Loral Space Comm
+LOVE, The Lovesac Company
+LPCN, Lipocine Inc
+LPLA, Lpl Financial Hld
+LPSN, Liveperson Inc
+LPTH, Lightpath Tech Inc
+LPTX, Leap Therapeutics Inc
+LQDA, Liquidia Technologies Inc
+LQDT, Liquidity Services
+LRAD, Lrad Corp
+LRGE, Legg Clearbridge Large Cap Groowth ETF
+LSBK, Lake Shore Bancorp
+LSCC, Lattice Semicond
+LSTR, Landstar System
+LSXMA, Liberty Srs XM CS A
+LSXMB, Liberty Srs XM CS B
+LSXMK, Liberty Srs XM CS C
+LTBR, Lightbridge Corp
+LTRPA, Liberty Tripadv A
+LTRPB, Liberty Tripadv B
+LTRX, Lantronix Inc
+LTXB, Legacytexas Fnl
+LULU, Lululemon Athletica
+LUNA, Luna Innovations Inc
+LVGO, Livongo Health Inc
+LVHD, Legg Low Vol HI Div ETF
+LWAY, Lifeway Foods Inc
+LX, Lexinfintech Holdings Ltd
+LXRX, Lexicon Pharmaceutcl
+LYFT, Lyft Inc Cl A
+LYL, Dragon Victory Intl Ltd
+LYTS, L S I Industries
+MACK, Merrimack Pharmaceuticals Inc
+MAGS, Magal Security Syst
+MAMS, Mam Software Gp
+MANH, Manhattan Assoc
+MANT, Mantech Intl Cp A
+MARA, Marathon Patent Grou
+MARK, Remark Holdings Inc
+MARPS, Marine Petroleum U
+MASI, Masimo Corp
+MAT, Mattel Inc
+MATW, Matthews Intl Corp
+MAYS, J W Mays Inc
+MBB, MBS Ishares ETF
+MBCN, Middlefield Banc
+MBII, Marrone Bio Innov
+MBIN, Merchants Bancorp
+MBINO, Merchants Bancorp Depositary Shares Each Represe
+MBINP, Merchants Bancorp [Indiana] Perp Pfd Ser A
+MBIO, Mustang Bio Inc
+MBOT, Microbot Medical Inc
+MBRX, Moleculin Biotech CS
+MBSD, Flexshares Disciplined Duration MBS Index Fund
+MBUU, Malibu Boats Inc
+MBWM, Mercantile Bank Corp
+MCBC, Macatawa Bank Corp
+MCBS, Metrocity Bankshares Inc
+MCEF, Municipal CEF Income Opportunity ETF FT
+MCEP, Mid-Con Energy Partn
+MCFT, Mcbc Holdings
+MCHI, China Ishares MSCI ETF
+MCHX, Marchex Inc
+MCRB, Seres Theraptc
+MCRI, Monarch Casino
+MDB, Mongodb Inc Cl A
+MDCA, Mdc Partners Cl A
+MDCO, Medicines Company
+MDGL, Madrigal Pharmaceuticals Inc
+MDGS, Medigus Ltd Ads
+MDIV, Multi-Asset Diversified Income Index Fund FT
+MDJH, Mdjm Ltd
+MDRR, Medalist Diversified REIT Inc
+MDRX, Allscripts Hlthcare
+MDSO, Medidata Solutions
+MDWD, Mediwound Ltd Ord Sh
+MEDP, Medpace Holdings Inc
+MEET, The Meet Group
+MEIP, Mei Pharma Inc
+MELI, Mercadolibre Inc
+MEOH, Methanex Cp
+MERC, Mercer Intl Inc
+MESA, Mesa Air Group Inc
+METC, Ramaco Resources Inc
+MFIN, Medallion Fin Cp
+MFINL, Medallion Fin Notes
+MFNC, Mackinac Financial
+MFSF, Mutualfirst Finl Inc
+MGEE, Mge Energy Inc
+MGEN, Miragen Therapeutics Inc
+MGI, Moneygram Intl
+MGIC, Magic Software Entpr
+MGLN, Magellan Health
+MGNX, Macrogenics
+MGPI, MGP Ingredients Inc
+MGRC, Mcgrath Rentcorp
+MGTA, Magenta Therapeutics Inc
+MGTX, Meiragtx Holdings Plc
+MGYR, Magyar Bancorp Inc
+MHLD, Maiden Holdings Ltd
+MICT, Micronet Enertec Tec
+MIDD, Middleby Corp
+MIK, The Michaels Comp
+MILN, G-X Millennials Thematic ETF
+MIME, Mimecast Ltd Ord
+MIND, Mitcham Industries Inc
+MINDP, Mitcham Industries Inc
+MINI, Mobile Mini Inc
+MIRM, Mirum Pharmaceuticals Inc
+MIST, Milestone Pharmaceuticals Inc
+MITK, Mitek Systems Inc
+MITO, Stealth Biotherapeutics Corp Ads
+MJCO, Majesco
+MKGI, Monaker Group Inc
+MKSI, Mks Instruments Inc
+MLAB, Mesa Labs Inc
+MLCO, Melco Resorts & Entertainment
+MLHR, Miller Herman Inc
+MLND, Millendo Therapeutics Inc
+MLNT, Melinta Therapeutics Inc
+MLNX, Mellanox Technologies
+MLVF, Malvern Bncp
+MMAC, Mma Capital Mngt
+MMLP, Martin Midstrm LP
+MMSI, Merit Medical Sys
+MMYT, Makemytrip Ltd
+MNCL, Monocle Acquisition Corp
+MNCLU, Monocle Acquisition Corp Units
+MNDO, Mind C.T.I. Ltd
+MNKD, Mannkind Corp
+MNLO, Menlo Therapeutics Inc
+MNOV, Medicinova Inc
+MNRO, Monro Muffler Brak
+MNSB, Mainstreet Bank
+MNTA, Momenta Pharma
+MNTX, Manitex Intl Inc
+MOBL, Mobileiron Inc
+MOFG, Midwestone Fnl Gp
+MOGO, Mogo Inc
+MOMO, Momo Inc Ads
+MOR, Morphosys Ag ADR
+MORF, Morphic Holding Inc
+MORN, Morningstar Inc
+MOSY, Mosys Inc
+MOTS, Motus Gi Holdings Inc
+MOXC, Moxian Inc
+MPAA, Motorcar Parts Amer
+MPB, Mid Penn Bancorp Inc
+MPVD, Mountain Prv Dmds
+MPWR, Monolithic Power Sys
+MRAM, Everspin Technologies Inc
+MRBK, Meridian Bank
+MRCC, Monroe Capital Corp
+MRCCL, Monroe Capital Corp 5.75% Notes Due 2023
+MRCY, Mercury Sys Inc
+MREO, Mereo Biopharma Group Plc ADR
+MRIN, Marin Sotfware Incorporated
+MRKR, Marker Therapeutics Inc
+MRLN, Marlin Business Serv
+MRNA, Moderna Inc
+MRNS, Marinus Pharma CS
+MRSN, Mersana Therapeutics Inc
+MRTN, Marten Transport L
+MRTX, Mirati Therapeutics
+MRUS, Merus N.V. CS
+MRVL, Marvell Tech Group
+MSBF, MSB Financial
+MSBI, Midland Sts BNC
+MSEX, Middlesex Water Company
+MSON, Misonix Inc
+MSTR, Microstrategy Cl A
+MSVB, Mid-Southn Svg Bk IN
+MTBC, Medical Transc Bl
+MTBCP, Mtbc 11% Sr A Prf ST
+MTC, Mmtec Inc
+MTCH, Match Group Inc CS
+MTEM, Molecular Templates Inc
+MTEX, Mannatech Inc
+MTFB, Motif Bio Plc
+MTLS, Materialise NV Ads
+MTP, Midatech Pharma Ads
+MTRX, Matrix Service Company
+MTSC, M T S Systems Cp
+MTSI, Macom Technology S
+MTSL, Mer Telemanagement Solutions Ltd
+MUDS, Mudrick Capital Acquisition Corp Cl A
+MUDSU, Mudrick Capital Acquisition Corp Unit
+MVBF, Mvb Financial Corp
+MVIS, Microvision
+MWK, Mohawk Group Holdings Inc
+MYFW, First Western Financial Inc
+MYGN, Myriad Genetics Inc
+MYOK, Myokardia Inc
+MYOS, Myos Rens Tech
+MYRG, MYR Group Inc
+MYSZ, My Size Inc
+MYT, Urban Tea Inc
+NAII, Natural Alternativ
+NAKD, Naked Brand Group Inc
+NANO, Nanometrics Inc
+NAOV, Nanovibronix Inc
+NATH, Nathan's Famous IN
+NATI, Natl Instruments Cor
+NATR, Nature S Sunshine
+NAVI, Navient Cp
+NBEV, New Age Beverages Corp
+NBIX, Neurocrine Bioscienc
+NBN, Northeast Bncp
+NBRV, Nabriva Therape Ads
+NBSE, Neu Base Therapeutics Inc
+NBTB, NBT Bancorp Inc
+NCBS, Nicolet Bnkshr
+NCMI, National Cinemedia
+NCNA, Nucana Plc ADR
+NCSM, Ncs Multistage Holdings Inc
+NCTY, The9 Ltd
+NDLS, Noodles & Company
+NDRA, Endra Life Sciences Inc
+NDSN, Nordson Corp
+NEBU, Nebula Acquisition Corp Cl A
+NEBUU, Nebula Acquisition Corp Unit
+NEBUW, Nebula Acquisition Corp WT
+NEO, Neogenomics Inc
+NEOG, Neogen Cp
+NEON, Neonode Inc
+NEOS, Neos Therapeutics
+NEPH, Nephros Inc
+NEPT, Neptune Wellness Solutions Inc
+NERV, Minerva Neuroscie
+NESR, National Energy Services Reunited Corp
+NETE, Net Element Inc
+NEWA, Newater Technology Inc
+NEWT, Newtek Bus Svcs
+NEWTL, Newtek Business Services Corp. 5.75% Notes Due 2
+NEXT, Nextdecade Corp
+NFBK, Northfield Bncrp Del
+NFE, New Fortress Energy Llc
+NFIN, Netfin Acquisition Corp Cl A
+NFINU, Netfin Acquisition Corp. Unit
+NFTY, First Trust India Nifty 50 EW ETF
+NGHC, National General Hld
+NGHCN, National General Holdings Corp
+NGHCO, National Gnl Hld Ds
+NGHCP, National Gen Srs A
+NGHCZ, National Gen Sub NTS
+NGM, Ngm Biopharmaceuticals Inc
+NH, Nanthealth Inc
+NHLD, National Holdings
+NHTC, Natural Hlth Trd
+NICE, Nice Ltd
+NICK, Nicholas Fincl Inc
+NIHD, NII Holdings
+NIU, Niu Technologies ADR
+NK, Nantkwest Inc CS
+NKSH, Natl Bankshares Inc
+NKTR, Nektar Therapeutics
+NLNK, Newlink Genetics Cor
+NLTX, Neoleukin Therapeutics Inc
+NMCI, Navios Maritime Containers L.P.
+NMIH, Nmi Holdings Inc
+NMRD, Nemaura Med Inc
+NMRK, Newmark Group Inc Cl A
+NNBR, NN Inc
+NNDM, Nano Dimension Ads
+NODK, Ni Holdings Inc
+NOVN, Novan Inc
+NOVT, Novanta Inc
+NRC, National Research Corp
+NRIM, Northrim Bancorp Inc
+NSEC, Natl Security Gp
+NSIT, Insight Enterpr
+NSSC, Napco Sec Tech Inc
+NSTG, Nanostring Tech
+NSYS, Nortech Systems IN
+NTCT, Netscout Systems
+NTEC, Intec Pharma Ord Shr
+NTES, Netease Inc Ads
+NTGN, Neon Therapeutics Inc
+NTGR, Netgear Inc
+NTIC, Northern Technologies Intl Corp
+NTLA, Intellia Thera CS
+NTNX, Nutanix Inc
+NTRA, Natera Inc
+NTRP, Neurotrope Inc
+NTRSP, Northern TR Dep Shs
+NTUS, Natus Medical Inc
+NTWK, Netsol Tech Inc
+NUAN, Nuance Communicatns
+NURO, Neurometrix Inc
+NUVA, Nuvasive Inc
+NVAX, Novavax Inc
+NVCN, Neovasc Inc
+NVCR, Novocure Ltd Ord Sh
+NVEC, Nve Corp
+NVEE, Nv5 Global
+NVFY, Nova Lifestyle Inc
+NVIV, Invivo Therapeutics Holdings Corp
+NVLN, Novelion Therapeutics Inc
+NVMI, Nova Measuring Instr
+NVTR, Nuvectra Corp
+NVUS, Novus Therapeutics Inc
+NWBI, Northwest Bancshares
+NWFL, Norwood Financial Cp
+NWLI, Natl Wstrn Life Gp A
+NWPX, Northwest Pipe Company
+NXGN, Nextgen Healthcare Inc
+NXPI, Nxp Semiconductors
+NXST, Nexstar Broadcasting
+NXTC, Nextcure Inc
+NXTD, Nxt-Id Inc
+NXTG, Nasdaq Smartphone Index Fund FT
+NYMT, New York Mtge Trust
+NYMTN, New York Mortgage Trust Inc 8.00% Series D
+NYMTO, New York Mort 7.875
+NYMTP, New York Mrtg 7.75 B
+NYMX, Nymox Pharm Corp
+NYNY, Empire Resorts Inc
+OBAS, Optibase Ltd
+OBCI, Ocean Bio Chem Inc
+OBLN, Obalon Therapeutics Inc
+OBNK, Origin Bancorp Inc
+OBSV, Obseva Sa
+OCC, Optical Cable Corp
+OCCI, Ofs Credit Company Inc
+OCFC, Oceanfirst Finl Corp
+OCGN, Ocugen Inc.
+OCSI, Oaktree Strategic Income Corp
+OCSL, Oaktree Specialty Lending Corp
+OCSLL, Oaktree Specialty Lending Corp 6.125 Sn
+OCUL, Ocular Therapeut
+ODFL, Old Dominion Freig
+ODP, Office Depot
+ODT, Odonate Therapeutics Inc
+OESX, Orion Energy Syst
+OFED, Oconee Fed Fin Corp
+OFIX, Orthofix Intl NV
+OFLX, Omega Flex Inc
+OFS, Ofs Capital Corp
+OFSSZ, Ofs Capital Corp 6.50% Notes Due 2025
+OGI, Organigram Hldgs Inc
+OHAI, Oha Investmnt Cp
+OIIM, O2Micro Intl Ltd
+OKTA, Okta Inc Cl A
+OLBK, Old Line Bancshs MD
+OLD, Long-Term Care ETF
+OLED, Universal Display
+OLLI, Ollies Bargain CS
+OMAB, Grupo Aeroportuario
+OMCL, Omnicell Inc
+OMER, Omeros Corp
+OMEX, Odyssey Marine Expl
+ON, On Semiconductor
+ONB, Old National Bncp
+ONCE, Spark Therap
+ONCS, Oncosec Medical
+ONCT, Oncternal Therapeutics Inc
+ONCY, Oncolytics Biotech Inc
+ONEQ, Nasdaq Composite ETF
+ONTX, Onconova Therapeutic
+ONVO, Organovo Holdings
+OPB, Opus Bank
+OPBK, Open Bank
+OPES, Opes Acquisition Corp
+OPESU, Opes Acquisition Corp Unit
+OPGN, Opgen Inc
+OPHC, Optimumbank Hldgs
+OPI, Office Properties Income Trust
+OPINI, Office Properties Income Trust
+OPK, Opko Health Inc
+OPNT, Opiant Pharmaceuticals Inc
+OPOF, Old Point Finl Cp
+OPRA, Opera Ltd ADR
+OPRX, Optimizerx Corp
+OPTN, Optinose Inc
+OPTT, Ocean Power Tech Inc
+ORBC, Orbcomm Inc
+ORG, Organics ETF
+ORGO, Organogenesis Holdings Inc
+ORGS, Orgenesis Inc
+ORIT, Oritani Financial
+ORMP, Oramed Pharma
+ORRF, Orrstown Finl Svcs
+ORTX, Orchard Therapeutics Plc ADR
+OSBC, Old Second Bancorp
+OSBCP, Old Second Bncp
+OSIS, O S I Systems Inc
+OSMT, Osmotica Pharmaceuticals Plc
+OSN, Ossen Innovation Company
+OSPN, Onespan Inc
+OSS, One Stop Systems Inc
+OSTK, Overstock.com Inc
+OSUR, Orasure Tech Inc
+OSW, Onespaworld Holdings Ltd
+OTEL, Otelco Cl A
+OTEX, Open Text Cp
+OTIC, Otonomy Inc
+OTIV, On Track Innovations
+OTLK, Outlook Therapeutics Inc
+OTTR, Otter Tail Corp
+OTTW, Ottawa Saving Bcp IL
+OVBC, Ohio Valley Banc Cp
+OVID, Ovid Therapeutics Inc
+OVLY, Oak Valley Bancp CA
+OXBR, Oxbridge Ord Shrs
+OXFD, Oxford Immunotec
+OXLC, Oxford Lane Capital
+OXLCM, Oxford Lane Capital Corp Pfd Ser 2024
+OXLCO, Oxford Lane Cap 7.5
+OXSQ, Oxford Square Capital Corp
+OXSQL, Oxford Square Capital Corp 6.50% Note Due 2024
+OZK, Bank Ozk
+PAAC, Proficient Alpha Acquisition Corp
+PAAS, Pan Amer Silver Corp
+PACB, Pacific Biosciences
+PACQ, Pure Acquisition Corp Cl A
+PACQU, Pure Acquisition Corp Unit
+PACQW, Pure Acquisition Corp WT
+PACW, Pacwest Bancorp
+PAHC, Phibro Anl Htlh A
+PANL, Pangaea Logistics So
+PATI, Patriot TR HD
+PATK, Patrick Inds Inc
+PAVM, Pavmed Inc
+PAVMW, Pavmed Inc WT
+PAYS, Paysign Inc
+PBBI, Pb Bancorp Inc
+PBCTP, Peoples Utd Finl Inc
+PBFS, Pioneer Bancorp Inc
+PBHC, Pathfinder Bcp MD
+PBIP, Prudential Bancorp
+PBPB, Potbelly Corp
+PBTS, Powerbridge Technologies Co. Ltd
+PBYI, Puma Biotechnology
+PCB, Pacific City Finl Cp
+PCH, Potlatch Cp
+PCOM, Points Intl Ltd
+PCRX, Pacira Pharm Inc
+PCSB, Pcsb Financial Corp
+PCTI, Pc-Tel Inc
+PCTY, Paylocity Hldng Corp
+PCYG, Park City Group
+PCYO, Pure Cycle Corp
+PDBC, Optimum Yield Diversified Commodity Strategy No
+PDCE, Pdc Energy Inc
+PDCO, Patterson Companies
+PDD, Pinduoduo Inc ADR
+PDEV, Principal International Multi-Factor Core Index
+PDEX, Pro-Dex Inc
+PDFS, Pdf Solutions Inc
+PDLB, Pdl Community Bancorp
+PDLI, Pdl Biopharma Inc
+PDP, DWA Momentum Invesco ETF
+PDSB, Pds Biotechnology Corp
+PEBK, Peoples Bancorp NC
+PEBO, Peoples Bancorp Inc
+PECK, The Peck Company Inc
+PEGA, Pegasystems Inc
+PEGI, Pattern Energy Cl A
+PEIX, Pacific Ethanol Inc
+PENN, Penn Natl Gaming Inc
+PERI, Perion Network Ltd
+PESI, Perma-Fix Envir
+PETQ, Petiq Inc Cl A
+PETS, Petmed Express Inc
+PETZ, Tdh Holdings Inc
+PEY, High Yield Equity Dividend Achievers Invesco ETF
+PEZ, DWA Consumer Cyclicals Momentum Invesco ETF
+PFBC, Preferred Bank LA
+PFBI, Premier Finl Bncp
+PFF, US Preferred Stock Ishares ETF
+PFI, DWA Financial Momentum Invesco ETF
+PFIE, Profire Energy
+PFIN, P F Inds Inc A
+PFIS, Peoples Finl Svcs Company
+PFLT, Pennantpark Fltng Rt
+PFM, Dividend Achievers Invesco ETF
+PFMT, Performant Financial
+PFPT, Proofpoint Inc
+PFSW, Pfsweb Inc
+PGC, Peapack Gladstone FI
+PGJ, Golden Dragon China Invesco ETF
+PGNX, Progenics Pharmaceuticals
+PHAS, Phasebio Pharmaceuticals Inc
+PHCF, Puhui Wealth Investment Management Company
+PHIO, Phio Pharmaceuticals Corp
+PHO, Water Resources Invesco ETF
+PI, Impinj Inc
+PICO, Pico Holdings Inc
+PID, Intl Dividend Achievers Invesco ETF
+PIE, DWA Emerging Markets Momentum Invesco ETF
+PIH, 1347 Property Ins
+PIHPP, 1347 Property Insurance Holdings Inc Pfd Ser A
+PINC, Premier Inc Cl A
+PIO, Global Water Invesco ETF
+PIRS, Pieris Pharma
+PIXY, Shiftpixy Inc
+PIZ, DWA Developed Markets Momentum Invesco ETF
+PKBK, Parke Bancorp Inc
+PKOH, Park Ohio Hldg Cp
+PKW, Buyback Achievers Invesco ETF
+PLAB, Photronics Inc
+PLAY, Dave & Buster's Ente
+PLBC, Plumas Bancorp
+PLC, Principal U.S. Large-Cap Multi-Factor Core Index
+PLCE, Children's Place Inc
+PLIN, China Xiangtai Food Company
+PLL, Piedmont Lithium Ltd ADR
+PLMR, Palomar Holdings Inc
+PLPC, Preformed Line Prd
+PLSE, Pulse Biosciences CS
+PLUG, Plug Power Inc
+PLUS, Eplus Inc
+PLW, 1-30 Laddered Treasury Invesco ETF
+PLXP, Plx Pharma Inc
+PLXS, Plexus Cp
+PLYA, Playa Hotels & Resorts N.V.
+PMBC, Pacific Mercantile
+PMD, Psychemedics
+PME, Pingtan Marine
+PMOM, Principal Sustainable Momentum Index ETF
+PMTS, CPI Card Group
+PNBK, Patriot Natl Bncp
+PNFP, Pinnacle Finl Ptnrs
+PNNT, Pennantpark Investme
+PNQI, Nasdaq Internet Invesco ETF
+PNRG, Primeenergy Cp
+PNRL, Paringa Resources Ltd ADR
+PNTR, Pointer Telocation
+POAI, Predictive Oncology Inc
+PODD, Insulet Corp
+POLA, Polar Power Inc
+POOL, Pool Corp
+POPE, Pope Resource Uts
+POWI, Power Integratn
+POWL, Powell Inds Inc
+PPBI, Pacific Premier Bncp
+PPC, Pilgrim's Pride
+PPH, Pharmaceutical Vaneck ETF
+PPHI, Positive Physicians Holdings Inc
+PPIH, Perma-Pipe International Holdings Inc
+PPSI, Pioneer Pwr Sol
+PRAA, Pra Group Inc
+PRAH, Pra Health
+PRCP, Perceptron Inc
+PRFT, Perficient Inc
+PRFZ, FTSE RAFI US 1500 Small- Mid Invesco ETF
+PRGS, Progress Software
+PRGX, Prgx Global Inc
+PRIM, Primoris Services Cp
+PRMW, Primo Water Corp
+PRN, DWA Industrials Momentum Invesco ETF
+PRNB, Principia Biopharma Inc
+PROV, Provident Financial
+PRPH, Prophase Labs Inc
+PRPL, Purple Innovation Inc
+PRPO, Precipio Inc
+PRQR, Proqr Therapeutics
+PRSC, Providence Svc Cp
+PRTA, Prothena Corp
+PRTH, Priority Techno Holdings Inc
+PRTK, Paratek Pharma Inc
+PRTO, Proteon Thera Com ST
+PRTS, U.S. Auto Parts Netw
+PRVB, Provention Bio Inc
+PRVL, Prevail Therapeutics Inc
+PS, Pluralsight Inc Cl A
+PSC, Resources Prospect Ltd
+PSCC, S&P Smallcap Consumer Staples Invesco ETF
+PSCD, S&P Smallcap Consumer Discretionary Invesco ETF
+PSCE, S&P Smallcap Energy Invesco ETF
+PSCF, S&P Smallcap Financials Invesco ETF
+PSCH, S&P Smallcap Health Care Invesco ETF
+PSCI, S&P Smallcap Industrials Invesco ETF
+PSCM, S&P Smallcap Materials Invesco ETF
+PSCT, S&P Smallcap Information Technology Invesco ETF
+PSCU, S&P Smallcap Utilities Invesco ETF
+PSDO, Presidio Inc
+PSEC, Prospect Capital Cp
+PSET, Principal Price Setters ETF
+PSL, DWA Consumer Staples Momentum Invesco ETF
+PSM, Principal U.S. Small-Midcap Multi-Factor Core IN
+PSMT, Pricesmart Inc
+PSNL, Personalis Inc
+PSTI, Pluristem Therapeutc
+PSTV, Plus Therapeutics Inc
+PT, Pintec Technology Holdings Ltd ADR
+PTC, Ptc Inc
+PTCT, Ptc Therapeutics
+PTE, Polarityte Inc
+PTEN, Patterson-Uti Energy
+PTF, DWA Technology Momentum Invesco ETF
+PTGX, Protagonist Therapeutics Inc
+PTH, DWA Healthcare Momentum Invesco ETF
+PTI, Proteostasis Ther
+PTLA, Portola Pharma
+PTMN, Portman Ridge Finance Corp
+PTNR, Partner Comm Co. Ltd
+PTSI, P A M Transport Sv
+PTVCA, Protective Insurance Corp Cl A
+PTVCB, Protective Insurance Corp Cl B
+PUB, Peoples Utah
+PUI, DWA Utilities Momentum Invesco ETF
+PULM, Pulmatrix Inc
+PUYI, Puyi Inc ADR
+PVAC, Penn VA Corp
+PVAL, Principal Contrarian Value Index ETF
+PVBC, Provident Bancorp CS
+PWOD, Penns Woods Bancorp
+PXI, DWA Energy Momentum Invesco ETF
+PXLW, Pixelworks Inc
+PXS, Pyxis Tankers
+PY, Principal Shareholders Yield ETF
+PYZ, DWA Basic Materials Momentum Invesco ETF
+PZZA, Papa John's Intl
+QABA, Qtec First Trust ETF
+QADA, Qad Inc
+QADB, Q A D Inc Cl B
+QAT, Qatar Ishares MSCI ETF
+QBAK, Qualstar Corp
+QCLN, Nasdaq Clean Edge Green Energy Index Fund FT
+QCRH, Qcr Holdings Inc
+QDEL, Quidel Cp
+QFIN, 360 Finance Inc ADR
+QIWI, Qiwi Plc ADR
+QLC, Flexshares US Quality Largecap
+QLYS, Qualys Inc
+QNST, Quinstreet Inc
+QQEW, Nasdaq-100 EW Index Fund FT
+QQQ, Nasdaq QQQ Invesco ETF
+QQQX, Nuveen Nasdaq 100
+QQXT, Nasdaq-100 Ex-Tech Sector Indexsm Fund FT
+QRHC, Quest Resource
+QRTEA, Qurate Retail Group
+QRTEB, Liberty Int Qvc Sr B
+QTEC, Nasdaq-100 Technology Index Fund FT
+QTNT, Quotient Ltd Ord
+QTRH, Quarterhill Inc
+QTRX, Quanterix Corp
+QTT, Qutoutiao Inc ADR
+QUIK, Quicklogic Corp
+QUMU, Qumu Corp
+QURE, Uniqure N.V.
+QYLD, Horizons Nasdaq-100 Covered Call ETF
+RADA, Rada Electr Inds Ltd
+RAIL, Freightcar America
+RAND, Rand Capital Cp
+RARE, Ultragenyx Pharmaceu
+RARX, Ra Pharmaceuticals Inc
+RAVE, Rave Restaurant Group
+RAVN, Raven Industries Inc
+RBB, Rbb Bancorp
+RBBN, Ribbon Communications Inc
+RBCAA, Republic Bancorp Inc
+RBCN, Rubicon Technology
+RBKB, Rhinebeck Bancorp Inc
+RBNC, Reliant Bancorp Inc
+RBZ, Reebonz Holding Ltd
+RCEL, Avita Medical Limited American Depositary Shares
+RCII, Rent-A-Center Inc
+RCKT, Rocket Pharmaceuticals Inc
+RCKY, Rocky Brands Inc
+RCM, R1 Rcm Inc
+RCMT, R C M Tech Inc
+RCON, Recon Technology Ltd
+RDCM, Radcom Ltd
+RDFN, Redfin Corp
+RDHL, Redhill Biophrma ADR
+RDI, Reading Intl Cl A
+RDIB, Reading International Inc Cl B
+RDNT, Radnet Inc
+RDUS, Radius Health
+RDVT, Red Violet Inc
+RDVY, Rising Dividend Achievers ETF FT
+RDWR, Radware Ltd
+REAL, The Realreal Inc
+RECN, Resources Connect
+REDU, Rise Education Cayman Ltd ADR
+REED, Reeds Inc
+REFR, Research Frontiers
+REGI, Renewable Energy
+REKR, Rekor Systems Inc
+RELL, Richardson Electrncs
+RELV, Reliv Intl Inc
+REPH, Recro Pharma Inc
+REPL, Replimune Group Inc
+RESN, Resonant Inc
+RETA, Reata Pharma
+RETO, Reto Eco-Solutions Inc
+REXN, Rexahn Pharmaceuticals
+RFAP, Riverfront Dyn Asia Pacific ETF FT
+RFDI, Riverfront Dyn Developed Intl ETF FT
+RFEM, Riverfront Dyn Emerging Markets ETF FT
+RFEU, Riverfront Dyn Europe ETF FT
+RFIL, RF Industries Ltd
+RGCO, Rgc Resources Inc
+RGEN, Repligen Cp
+RGLD, Royal Gold Inc
+RGLS, Regulus Therapeutics
+RGNX, Regenxbio Inc
+RIBT, Ricebran Technologie
+RICK, RCI Hospitality Hold
+RIGL, Rigel Pharmaceuticals
+RILY, B. Riley Financl
+RILYG, B. Riley Financial Inc 7.25% Senior Notes Due
+RILYH, B. Riley Financial Inc 7.375% Senior Notes Due
+RILYI, B. Riley Financial Inc 6.875% Senior Notes Due
+RILYL, B. Riley Financial Inc
+RILYO, B. Riley Financial Inc 6.75% Senior Notes Due
+RILYZ, B. Riley Financial Inc 7.50% Senior Notes Due
+RING, Global Gold Miners Ishares MSCI ETF
+RIOT, Riot Blockchain Inc
+RIVE, Riverview Financial Corp
+RKDA, Arcadia Bio
+RMBI, Richmond Mutual Bancorp Inc
+RMBL, Smart Server Inc
+RMBS, Rambus Inc
+RMCF, Rocky MT Chocolate
+RMNI, Rimini Street Inc
+RMR, The Rmr Grp A
+RMTI, Rockwell Medical IN
+RNDB, Randolph Bancorp Inc
+RNDM, First Trust Exchange-Traded Fund Vi First Trust
+RNDV, First Trust Exchange-Traded Fund Vi First Trust
+RNEM, First Trust Exchange-Traded Fund Vi First Trust
+RNET, Rignet Inc
+RNLC, First Trust Exchange-Traded Fund Vi First Trust
+RNMC, First Trust Exchange-Traded Fund Vi Mid Cap US E
+RNSC, First Trust Exchange-Traded Fund Vi First Trust
+RNST, Renasant Corp
+RNWK, Realnetworks Inc
+ROAD, Construction Partners Inc Cl A
+ROBT, FT Nasdaq Artificial Intelligence and Robotics E
+ROCK, Gibraltar Ind Inc
+ROIC, Retail Opp Invts Cp
+ROKU, Roku Inc
+ROLL, RBC Bearings Incorp
+ROSE, Rosehill Resources Inc
+RP, Realpage Inc
+RPAY, Repay Holdings Corp. Cl A
+RPD, Rapid7 Inc
+RRBI, Red River Bancshares Inc
+RRGB, Red Robin Gourmet Burgers Inc
+RRR, Red Rock Resorts Inc
+RTIX, Rti Surgical Inc
+RTLR, Rattler Midstream LP Common Units
+RTRX, Retrophin Inc
+RTTR, Ritter Pharmac. Com
+RUBY, Rubius Therapeutics Inc
+RUHN, Ruhnn Holding Ltd ADR
+RUN, Sunrun Inc
+RUSHA, Rush Entpr Cl A
+RUSHB, Rush Entpr Cl B
+RUTH, Ruth's Hospitality
+RVEN, Reven Housing REIT
+RVLT, Revolution Lgt Tc
+RVNC, Revance Therapeutics
+RVSB, Riverview Bancorp
+RWLK, Rewalk Roboti Ord Sh
+RYAAY, Ryanair Hldgs Plc
+RYTM, Rhythm Pharmaceuticals Inc
+SABR, Sabre Corp
+SAEX, Saexploration Hldgs
+SAFM, Sanderson Farms IN
+SAFT, Safety Ins Group Inc
+SAGE, Sage Therapeutic Com
+SAIA, Saia Inc
+SAL, Salisbury Bancorp
+SALM, Salem Media Grp Inc
+SAMA, Schultze Special Purpose Acquisition Corp
+SAMAU, Schultze Special Purpose Acquisition Corp Unit
+SAMG, Silvercrest Ast Cm A
+SANM, Sanmina Corp
+SANW, S&W Seed Company
+SASR, Sandy Spring Bancorp
+SATS, Echostar Corp
+SAUC, Diversified Rstrt HD
+SAVA, Cassava Sciences Inc
+SBBP, Strongbridge Bio Ord
+SBBX, Sussex Bancorp
+SBCF, Seacoast Banking Cp
+SBFG, Sb Financial Group
+SBFGP, Sb Fin Grp Dep Shs
+SBGI, Sinclair Brdcst A
+SBLK, Star Bulk Carriers
+SBLKZ, Star Bulk Carriers Corp 8.30% Senior Notes Due
+SBNY, Signature Bank
+SBPH, Spring Bank Ph CS
+SBRA, Sabra REIT
+SBSI, Southside Bancshares
+SBT, Sterling Bancorp Inc [Southfield Mi]
+SCHL, Scholastic Cp
+SCHN, Schnitzer Steel A
+SCKT, Socket Mobile
+SCON, Superconductor Tech
+SCOR, Comscore Inc
+SCPH, SC Pharmaceuticals Inc
+SCPL, Sciplay Corp Cl A
+SCSC, Scansource Inc
+SCVL, Shoe Carnival Inc
+SCWX, Secureworks Corp CS
+SCYX, Scynexis Inc
+SCZ, EAFE Small-Cap Ishares MSCI ETF
+SDC, Smiledirectclub Inc
+SDG, Ishares MSCI Global Impact ETF
+SDVY, FT Smid Cap Rising Dividend Achievers ETF
+SEAC, Sea Change Intl IN
+SECO, Secoo Holding ADR
+SEDG, Solaredge Tech
+SEED, Origin Agritech Ltd
+SEEL, Seelos Therapeutics Inc
+SEIC, Sei Investments Company
+SELB, Selecta Biosciences
+SELF, Global Self Storage
+SENEA, Seneca Foods Cp A
+SENEB, Seneca Foods Cp B
+SES, Synthesis Energy Sys
+SESN, Sesen Bio Inc
+SFBC, Sound Financial
+SFBS, Servisfirst Bancs
+SFET, Safe-T Group Ltd ADR
+SFIX, Stitch Fix Inc
+SFLY, Shutterfly Inc
+SFM, Sprouts Farmers Mark
+SFNC, Simmons First Natl
+SFST, Southern First Bancs
+SG, Sirius International Insurance Group
+SGA, Saga Communications
+SGBX, Sg Blocks Inc
+SGC, Superior Uniform Group
+SGEN, Seattle Genetics Inc
+SGH, Smart Global Holdings Inc
+SGLB, Sigma Labs Inc
+SGMA, Sigmatron Intl Inc
+SGMO, Sangamo Therapeutics
+SGMS, Scientific Games
+SGOC, Sgoco Group Ltd
+SGRP, Spar Group Inc
+SGRY, Surgery Partners CS
+SHBI, Shore Bancshares Inc
+SHEN, Shenandoah Telecom
+SHIP, Seanergy Maritime Hl
+SHLO, Shiloh Inds Inc
+SHOO, Steven Maddens Ltd
+SHOS, Sears Hometown
+SHSP, Sharpspring Inc
+SHV, Short Treasury Bond Ishares ETF
+SHY, 1-3 Year Treasury Bond Ishares ETF
+SIBN, Si-Bone Inc
+SIC, Select Interior Concepts Inc Cl A
+SIEB, Siebert Fin Cp
+SIEN, Sientra Inc
+SIFY, Sify Techs Ltd Ads
+SIGA, Siga Technologies Inc
+SIGI, Selective Ins Group
+SILC, Silicom Ltd
+SILK, Silk Road Medical Inc
+SIMO, Silicon Motion Techn
+SINA, Sina Corp
+SINO, Sino-Global Shipping
+SINT, Sintx Technologies Inc
+SIRI, Sirius XM Holdings
+SITO, Sito Mobile
+SKIS, Peak Resorts
+SKOR, Flexshares Credit Scored US Corp Bond
+SKYS, Sky Solar Holdings
+SKYW, Skywest Inc
+SKYY, Cloud Computing ETF FT
+SLAB, Silicon Labs Inc
+SLCT, Select Bancorp Inc
+SLDB, Solid Biosciences Inc
+SLGG, Super League Gaming Inc
+SLGL, Sol-Gel Technologies Ltd
+SLGN, Silgan Holdings
+SLIM, Obesity ETF
+SLM, SLM Corp
+SLMBP, SLM Cp Srs B Pfd
+SLNG, Stabilis Energy Inc
+SLNO, Soleno Therapeutics Inc
+SLNOW, Soleno Therapeutics Inc
+SLP, Simulations Plus Inc
+SLQD, 0-5 Year Invst Grade Corp Bond Ishares ETF
+SLRC, Solar Capital
+SLRX, Salarius Pharmaceuticals Inc
+SLS, Sellas Life Sciences Group Inc
+SLVO, CS X-Links Silver Share
+SMBC, Southern MO Bancorp
+SMBK, Smartfinancial Inc
+SMCP, Alphamark Actmg Smallcap ETF
+SMED, Sharps Compliance
+SMIT, Schmitt Inds Inc
+SMMC, South Mountain Merger Corp Cl A
+SMMCU, South Mountain Merger Corp. Unit
+SMMF, Summit Financial Gp
+SMMT, Summit Therapeu ADR
+SMPL, The Simply Good Foods Company
+SMRT, Stein Mart Inc
+SMSI, Smith Micro Software
+SMTC, Semtech Corp
+SMTX, Smtc Corp
+SNBR, Sleep Number Corp
+SNCR, Synchronoss Technolo
+SND, Smart Sand Inc
+SNDE, Sundance Energy Australia Ltd
+SNDL, Sundial Growers Inc
+SNDX, Syndax Pharma
+SNES, Senestech Inc
+SNFCA, Security Natl Finl
+SNGX, Soligenix Inc
+SNH, Senior Housing Properties Trust
+SNHNI, Senior Housing Properties Trust
+SNLN, Pyxis/Iboxx Senior Loan ETF
+SNNA, Sienna Biopharmaceuticals Inc
+SNOA, Sonoma Pharmaceuticals Inc
+SNSR, G-X Internet of Things Thematic ETF
+SNSS, Sunesis Pharmaceutic
+SNY, Sanofi-Aventis S.A.
+SOCL, G-X Social Media ETF
+SOHO, Sotherly Hotels
+SOHOB, Sotherly Hotels Inc 8.0% Series B Cumulative Re
+SOHON, Sotherly Hotels Inc Perp Pfd Ser D
+SOHOO, Sotherly Hotels LP
+SOHU, Sohu.com Inc
+SOLO, Electrameccanica Vehs Corp
+SOLY, Soliton Inc
+SONA, Southern National Bk
+SONG, Akazoo S.A.
+SONM, Sonim Technologies Inc
+SONO, Sonos Inc
+SORL, Sorl Auto Parts Inc
+SOXX, PHLX Semiconductor Ishares ETF
+SP, SP Plus Corp
+SPAR, Spartan Motors Inc
+SPCB, Supercom Ltd
+SPEX, Spherix Inc
+SPFI, South Plains Financial Inc
+SPHS, Sophiris Bio
+SPI, Spi Energy Co. Ads
+SPKE, Spark Energy
+SPKEP, Spark Energy Inc
+SPLK, Splunk Inc
+SPNE, Seaspine Holdings
+SPNS, Sapiens Intl Cp NV
+SPOK, Spok Holdings Inc
+SPPI, Spectrum Pharma Inc
+SPRO, Spero Therapeutics Inc
+SPRT, Support.com Inc
+SPSC, Sps Commerce Inc
+SPTN, Spartannash Company
+SPWH, Sportsman's Wareh
+SPWR, Sunpower Corp
+SQBG, Sequential Brands
+SQLV, Legg Small-Cap Quality Value ETF
+SQQQ, Ultrapro Short QQQ Proshares
+SRAX, Social Reality Inc
+SRCE, 1st Source Corp
+SRCL, Stericycle Inc
+SRDX, Surmodics Inc
+SRET, G-X Super Dividend REIT ETF
+SREV, Servicesrce Intl Inc
+SRNE, Sorrento Therpt
+SRPT, Sarepta Therapeutics
+SRRA, Sierra Oncology Inc
+SRRK, Scholar Rock Holding Corp
+SRTS, Sensus Healthcare Inc
+SSB, South State Cp
+SSBI, Summit State Bank
+SSFN, Stewardship
+SSKN, Strata Skin Scien
+SSNC, SS&C Technologies
+SSNT, Silversun Technologies Inc Cl A
+SSP, E.W. Scripps Company
+SSRM, Silver Standard Resources Inc
+SSSS, Sutter Rock Capital Corp
+SSTI, Shotspotter Inc
+SSYS, Stratasys Ltd
+STAA, Staar Surgical Company
+STAF, Staffing 360 Solutions Inc
+STAY, Extended Stay America Inc
+STBA, S&T Bancorp Inc
+STCN, Steel Connect Inc
+STFC, State Auto Finl Corp
+STIM, Neuronetics Inc
+STKL, Sunopta Inc
+STKS, The One Group
+STLD, Steel Dynamics Inc
+STML, Stemline Therapeutic
+STMP, Stamps.com Inc
+STND, Standard Financial
+STNE, Stoneco Ltd Cl A
+STNL, Sentinel Energy Services Inc Cl A
+STNLU, Sentinel Energy Services Inc
+STOK, Stoke Therapeutics Inc
+STRA, Strayer Education
+STRL, Sterling Constructio
+STRM, Streamline Health So
+STRO, Sutro Biopharma Inc
+STRS, Stratus Pptys Inc
+STRT, Strattec Security
+STSA, Satsuma Pharmaceuticals Inc
+STXB, Spirit of Texas Bancshares Inc
+SUMR, Summer Infant Inc
+SUNS, Solar Senior Capital
+SUNW, Sunworks Inc
+SUPN, Supernus Pharm
+SURF, Surface Oncology Inc
+SUSB, 1-5 Year USD Corp Bond Ishares ESG ETF
+SUSC, USD Corp Bond Ishares ESG ETF
+SUSL, Ishares ESG MSCI USA Leaders ETF
+SVBI, Severn Bancorp Inc
+SVC, Service Properties Trust
+SVMK, Svmk Inc
+SVRA, Savara Inc
+SVVC, Firsthand Technology
+SWAV, Shockwave Medical Inc
+SWIR, Sierra Wireless IN
+SWTX, Springworks Therapeutics Inc
+SXTC, China Sxt Pharmaceuticals Inc
+SY, So-Young International Inc ADR
+SYBT, Stock Yards Bancorp
+SYBX, Synlogic Inc
+SYKE, Sykes Enterprises
+SYMC, Symantec Corp
+SYNA, Synaptics Inc
+SYNC, Synacor Inc
+SYNH, Syneos Health Inc
+SYNL, Synalloy Cp
+SYPR, Sypris Solutions
+SYRS, Syros Pharmaceuticals
+TA, Travelcenters of America Llc
+TACO, Del Taco Rest
+TACT, Transact Tech Inc
+TAIT, Taitron Components
+TANH, Tantech Holdings
+TANNI, Travelcenters of America Llc
+TANNL, Travelcenters of America Llc
+TANNZ, Travelcenters of America Llc
+TAOP, Taoping Inc
+TAST, Carrols Rstrnt Group
+TATT, T A T Tech Ltd
+TAYD, Taylor Devices Inc
+TBBK, The Bancorp Inc
+TBIO, Translate Bio Inc
+TBK, Triumph Bancorp
+TBLT, Toughbuilt Industries Inc
+TBLTU, Toughbuilt Industries Inc Cl A Units
+TBLTW, Toughbuilt Industries Inc WT
+TBNK, Territorial Bancorp
+TBPH, Theravance Bio Ord
+TC, Tuanche Ltd ADR
+TCBI, Texas Capital Bncsh
+TCBIL, Texas Cap 6.5 Sr NTS
+TCBIP, Texas Capital
+TCBK, Trico Bancshares
+TCCO, Technical Commctn Cp
+TCDA, Tricida Inc
+TCF, TCF Financial Corp
+TCFC, The Community Fin Cp
+TCGP, The Carlyle Group LP
+TCMD, Tactile Systems Technology Inc
+TCON, Tracon Pharma
+TCPC, TCP Capital Corp
+TCRD, THL Credit Inc
+TCRR, Tcr2 Therapeutics Inc
+TCX, Tucows Inc Cl A
+TDAC, Trident Acquisitions Corp
+TDACU, Trident Acquisitions Corp Units
+TDIV, Nasdaq Technology Dividend Index Fund FT
+TEAM, Atlassian Cls A Ord
+TECD, Tech Data Cp
+TECH, Bio-Techne Cp
+TECTP, Tectonic Financial Inc 9.00% Fixed-To-Floating
+TEDU, Tarena Intl ADR
+TELL, Tellurian Inc
+TENB, Tenable Holdings Inc
+TENX, Tenax Therapeutics
+TER, Teradyne Inc
+TERP, Terraform Power Inc
+TESS, Tessco Tech Inc
+TEUM, Pareteum Corp
+TFSL, Tfs Financial Corp
+TGA, Transglobe Energy Cp
+TGEN, Tecogen Inc
+TGLS, Tecnoglass Inc
+TGTX, Tg Therapeuticscmn
+TH, Target Hospitality Corp
+THCA, Tuscan Holdings Corp. II
+THCAU, Tuscan Holdings Corp. II Unit
+THCB, Tuscan Holdings Corp
+THCBU, Tuscan Holdings Corp Unit
+THFF, First Finl Corp [In]
+THOR, Synthorx Inc
+THRM, Gentherm Inc
+THTX, Theratechnologies Inc
+TIBR, Tiberius Acquisition Corp
+TIBRU, Tiberius Acquisition Corp Units
+TIGO, Millicom International Cellular S.A.
+TIGR, Up Fintech Holding Ltd ADR
+TILE, Interface Inc
+TIPT, Tiptree Fncl Cl A
+TITN, Titan Machinery Inc
+TIVO, Tivo Corp
+TKKS, Tkk Symphony Acquisition Corp
+TKKSU, Tkk Symphony Acquisition Corp Unit
+TLC, Taiwan Liposome Company Ltd ADR
+TLF, Tandy Leather Fctry
+TLGT, Teligent
+TLND, Talend S.A.
+TLRY, Tilray Inc
+TLSA, Tiziana Life Sciences Plc ADR
+TLT, 20+ Year Treas Bond Ishares ETF
+TMCX, Trinity Merger Corp Cl A
+TMDI, Titan Medical Inc
+TMDX, Transmedics Group Inc
+TMSR, Tmsr Holding Company Ltd
+TNAV, Telenav Inc
+TNDM, Tandem Diabetes Care
+TNXP, Tonix Pharm Hldg
+TOCA, Tocagen Inc
+TOPS, Top Ships Inc
+TORC, Restorbio Inc
+TOTA, Tottenham Acquisition I Ltd
+TOUR, Tuniu Corporatio Ads
+TOWN, Towne Bank
+TPCO, Tribune Publishing Company
+TPIC, Tpi Composites Inc
+TPTX, Turning Point Therapeutics Inc
+TQQQ, Ultrapro QQQ Proshares
+TRCB, Two River Bncrp
+TRCH, Torchlight Energy
+TREE, Lendingtree Inc
+TRHC, Tabula Rasa Healthcare Inc
+TRIB, Trinity Bio ADR
+TRIL, Trillium Therapeutic
+TRMB, Trimble Navigation
+TRMD, Torm Plc Cl A
+TRMK, Trustmark Corp
+TRMT, Tremont Mortgage Trust
+TRNS, Transcat Inc
+TRNX, Taronis Technologies Inc
+TROV, Trovagene Inc
+TRPX, Therapix Biosciences Ltd
+TRS, Trimas Corp
+TRST, Trustco Bank Corp NY
+TRUE, Truecar Inc
+TRUP, Trupanion Inc
+TRVG, Trivago NV
+TRVI, Trevi Therapeutics Inc
+TRVN, Trevena Inc
+TSBK, Timberland Bancorp
+TSC, Tristate Capital Hld
+TSCAP, Tristate Capital Holdings Inc Dep Shs Repstg 1/4
+TSCBP, Tristate Capital Holdings Inc - Fxdfr Prf Perpet
+TSEM, Tower Semiconductor
+TSG, The Stars Group Inc
+TSLA, Tesla Inc
+TSRI, T S R Inc
+TTD, Trade Desk Inc
+TTEC, Teletech Hldgs
+TTEK, Tetra Tech Inc
+TTGT, Techtarget Inc
+TTMI, TTM Technologies
+TTNP, Titan Pharma
+TTOO, T2 Biosystems CS
+TTPH, Tetraphase Pharmaceu
+TTS, Tile Shop Hldgs
+TTTN, Tigershares China-U.S. Internet Titans ETF
+TUES, Tuesday Morning Company
+TUR, Turkey Ishares MSCI ETF
+TURN, 180 Degree Capital Corp
+TUSA, Total US Market Alphadex ETF FT
+TUSK, Mammoth Energy Services Inc
+TVIX, VS 2X VIX Short Term
+TVTY, Tivity Health
+TW, Tradeweb Markets Inc
+TWIN, Twin Disc Inc
+TWMC, Trans World Entertainment Corp
+TWNK, Hostess Brands Inc
+TWNKW, Gores Holdings Warr
+TWOU, 2U Inc
+TWST, Twist Bioscience Corp
+TXG, 10X Genomics Inc
+TXRH, Texas Roadhouse Inc
+TYHT, Shineco Inc
+TYME, Tyme Technologies
+TYPE, Monotype Imag. Hold.
+TZAC, Tenzing Acquisition Corp
+TZACU, Tenzing Acquisition Corp Units
+TZOO, Travelzoo Inc
+UAE, UAE Ishares MSCI ETF
+UBCP, United Bncp Inc
+UBFO, United Security Bcsh
+UBIO, Ultrapro Biotechnology Proshares
+UBNK, United Fin Bncp
+UBOH, United Bancshares
+UBSI, United Bkshs Inc
+UBX, Unity Biotechnology Inc
+UCBI, United Comm Banks
+UCFC, United Community Fnl
+UCTT, Ultra Clean Holdings
+UEIC, Universal Elect IN
+UEPS, Net 1 Ueps Techs Inc
+UFCS, United Fire Group
+UFPI, Universal Forest Prd
+UFPT, U F P Tech Inc
+UG, United Guardian Inc
+UGLD, VS 3X Gold
+UHAL, A M E R C O
+UIHC, United Insurance Hld
+ULBI, Ultralife Corp
+ULH, Universal Logis Hldg
+UMBF, Ump Financial Corp
+UMPQ, Umpqua Holdings Corp
+UMRX, Unum Therapeutics Inc
+UNAM, Unico American Cp
+UNB, Union Bankshares Inc
+UNIT, Uniti Group Inc
+UNTY, Unity Bancorp Inc
+UONE, Urban One Inc
+UONEK, Urban One Inc
+UPLD, Upland Software Inc
+UPWK, Upwork Inc
+URBN, Urban Outfitters Inc
+URGN, Urogen Pharma Ltd
+UROV, Urovant Sciences Ltd
+USAK, U S A Truck Inc
+USAP, Universal Stainles
+USAT, USA Technologies Inc
+USATP, USA Technologies Pfd
+USAU, U.S. Gold Corp
+USCR, U S Concrete Inc
+USEG, U S Energy Corp
+USIG, Broad USD Investment Gr. Corp Bond Ishares ETF
+USIO, Usio Inc
+USLB, Russell 1000 Low Beta EW Invesco ETF
+USLM, U S Lime & Mineral
+USLV, VS 3X Silver
+USMC, Principal U.S. Mega-Cap Multi-Factor Index ETF
+USOI, Credit Suisse Ag Credit Suisse X-Links Crude Oil
+USWS, U.S. Well Services Inc
+UTHR, United Therapeutic
+UTMD, Utah Medical Prod
+UTSI, Utstarcom Holdings C
+UVSP, Univest Corp of Penn
+UXIN, Uxin Ltd Ads
+VALU, Value Line Inc
+VALX, Validea Market Legends ETF
+VBFC, Village Bank & Trust
+VBIV, Vbi Vaccines Inc CS
+VBLT, Vascular Biogen. Ord
+VBTX, Veritex Holdings
+VC, Visteon Corp
+VCEL, Vericel Corproation
+VCIT, Interm Corp Bond Vanguard
+VCLT, Long-Term Corp Bond Vanguard
+VCNX, Vaccinex Inc
+VCSH, Sht-Term Corp Bond Vanguard
+VCTR, Victory Capital Holdings Inc Cl A
+VCYT, Veracyte Inc
+VECO, Veeco Instrument
+VEON, Veon Ltd
+VERB, Verb Technology Company Inc
+VERI, Veritone Inc
+VERU, Veru Inc
+VERY, Vericity Inc
+VETS, Pacer Military Times Best Employers ETF
+VFF, Village Farms Intl
+VGIT, Interm Govt Bond Vanguard
+VGLT, Long-Term Govt Bond Vanguard
+VGSH, Sht-Term Govt Bond Vanguard
+VIA, Viacom Inc Cl A
+VIAV, Viavi Solutions
+VICR, Vicor Cp
+VIGI, Intl Div Appreciation ETF Vanguard
+VIIX, VS VIX Short Term
+VIOT, Viomi Technology Co. Ltd ADR
+VIRC, Virco MFG Cp
+VIRT, Virtu Financial Cm A
+VISL, Vislink Technologies Inc
+VIVE, Viveve Medical
+VIVO, Meridian Bioscience
+VKTX, Viking Thera
+VLGEA, Village Super Mkt
+VLRX, Valeritas Holdings Inc
+VLY, Valley National Bancorp
+VLYPO, Valley National Bancorp Pfd Series B
+VLYPP, Valley National Bancorp Pfd Series A
+VMBS, Mortgage-Backed Securities Vanguard
+VMD, Viemed Healthcare Inc
+VNDA, Vanda Pharmaceuticals
+VNET, 21Vianet Group Inc
+VNOM, Viper Energy LP
+VNQI, Global Ex-US Real Estate Vanguard
+VOD, Vodafone Grp Plc Ads
+VONE, Russell 1000 Vanguard
+VONG, Russell 1000 Growth Vanguard
+VONV, Russell 1000 Value Vanguard
+VOXX, Voxx Intl Corp
+VRA, Vera Bradley
+VRAY, Viewray Inc
+VRCA, Verrica Pharmaceuticals Inc
+VREX, Varex Imaging Corp
+VRIG, Variable Rate Investment Grade Invesco ETF
+VRML, Vermillion Inc
+VRNA, Verona Pharma Plc ADR
+VRNS, Varonis Systems Inc
+VRNT, Verint Systems Inc
+VRRM, Verra Mobility Corp
+VRTS, Virtus Inv Partners
+VRTSP, Virtus Investment Partners Inc Mandatory Pfd Con
+VRTU, Virtusa Corp
+VSAT, Viasat Inc
+VSDA, Victory Dividend Accelerator ETF
+VSEC, V S E Cp
+VSMV, Victory Portfolios II Victoryshares US Multi-Fac
+VSTM, Verastem Inc
+VTC, Total Corporate Bond Vanguard ETF
+VTGN, Vistagen Therap. Com
+VTHR, Russell 3000 Vanguard
+VTIP, Sht-Term Infl Protected Vanguard
+VTIQ, Vectoiq Acquisition Corp
+VTIQW, Vectoiq Acquisition Corp WT
+VTNR, Vertex Energy
+VTSI, Virtra Systems Inc
+VTVT, Vtv Theraptcs Cl A
+VTWG, Russell 2000 Growth Vanguard
+VTWO, Russell 2000 Vanguard
+VTWV, Russell 2000 Value Vanguard
+VUZI, Vuzix Corp
+VVPR, Vivopower International Plc
+VVUS, Vivus Inc
+VWOB, EM Govt Bond Vanguard
+VXRT, Vaxart Inc
+VXUS, Total Intl Stock ETF Vanguard
+VYGR, Voyager Therapeut
+VYMI, Intl High Divd Yld ETF Vanguard
+WABC, Westamerica Bancorp
+WAFD, Washington Federal
+WAFU, Wah Fu Education Group Limited
+WASH, Washington TR Bncorp
+WATT, Energous Corp
+WB, Weibo Corp Ads
+WBND, Western Asset Total Return ETF
+WCLD, Wisdomtree Cloud Computing Fund
+WDAY, Workday Inc
+WDFC, W D 40 Company
+WEBK, Wellesley Bncp Inc
+WEN, Wendys Company
+WERN, Werner Enterprise
+WETF, Wisdomtree Invstmnts
+WEYS, Weyco Gp Inc
+WHF, Whitehorse Finance
+WHFBZ, Whitehorse Finance Inc 6.50% Notes Due 2025
+WHLM, Wilhelmina Intl
+WHLR, Wheeler Real Estate
+WHLRD, Wheeler Real Estate Investment Trust Inc
+WHLRP, Wheeler REIT B Pfd
+WIFI, Boingo Wireless Inc
+WILC, G Willi-Food Intl
+WINA, Winmark Corp
+WINC, Western Asset Short Duration Income ETF
+WING, Wingstop Inc
+WINS, Wins Finance Holdings Inc
+WIRE, Encore Wire Cp
+WISA, Summit Semiconductor Inc
+WIX, Wix.com Ltd
+WKHS, Workhorse Grp
+WLDN, Willdan Group Inc
+WLFC, Willis Lease Fin C
+WMGI, Wright Med Grp NV
+WNEB, Western New England Bancorp Inc
+WOOD, Global Timber & Forestry Ishares ETF
+WORX, Scworx Corp
+WPRT, Westport Fuel Systems Inc
+WRLD, World Acceptance Cp
+WRLS, Pensare Acquisition Corp
+WRTC, Wrap Technologies Inc
+WSBC, Wesbanco Inc
+WSBF, Waterstone Financial
+WSC, Willscot Corp
+WSFS, WSFS Financial Corp
+WSG, Wanda Sports Group Company Ltd ADR
+WSTG, Wayside Technology
+WSTL, Westell Technologies
+WTBA, West Bancorp
+WTER, Alkaline Water Company Inc
+WTFC, Wintrust Finl Corp
+WTFCM, Wintrust Fin Pref D
+WTRE, Watford Holdings Ltd
+WTREP, Watford Holdings Ltd. 8.5%
+WTRH, Waitr Holdings Inc
+WVE, Wave Life Sci Ord Sh
+WVFC, Wvs Financial Corp
+WVVI, Willamette Valley
+WVVIP, Willamette Valley Vineyards IN
+WW, Weight Watchers International Inc
+WWD, Woodward Inc
+WWR, Westwater Resources
+XAIR, Beyond Air Inc
+XBIO, Xenetic Biosciences Inc
+XBIOW, Xenetic Biosciences Inc WT
+XBIT, Xbiotech Inc
+XCUR, Exicure Inc
+XELA, Exela Technologies Inc
+XELB, XCEL Brands
+XENE, Xenon Pharmaceuticals Inc
+XENT, Intersect Ent Inc
+XERS, Xeris Pharmaceuticals Inc
+XFOR, X4 Pharmaceuticals Inc
+XLRN, Acceleron Pharma
+XNCR, Xencor Inc
+XNET, Xunlei Ltd ADR
+XOG, Extraction Oil & Gas Inc
+XOMA, Xoma Corp
+XON, Intrexon Corp
+XONE, The Exone Company
+XPEL, Xpel Technologies
+XPER, Xperi Corp
+XSPA, Xpresspa Group Inc
+XT, Exponential Technologies Ishares ETF
+XTLB, Xtl Biopharma Ads
+YGYI, Youngevity International Inc
+YI, 111 Inc ADR
+YIN, Yintech Investm Ads
+YJ, Yunji Inc
+YLCO, G-X Yieldco Index ETF
+YLDE, Legg Clearbridge Dividend ESG ETF
+YMAB, Y-Mabs Therapeutics Inc
+YNDX, Yandex N.V.
+YORW, York Water Company
+YRCW, YRC Worldwide
+YTEN, Yield10 Bioscience Inc
+YTRA, Yatra Online Inc
+YVR, Liquid Media Group Ltd
+YY, YY Inc
+Z, Zillow Group Cl C
+ZAGG, Zagg Inc
+ZBIO, Ultrapro Short Biotechnology Proshares
+ZBRA, Zebra Technologies
+ZEAL, Zealand Pharma A/S ADR
+ZEUS, Olympic Steel Inc
+ZFGN, Zafgen Inc
+ZG, Zillow Grp Inc Cl A
+ZGNX, Zogenix Inc
+ZIONW, Zions Bncrp Wts
+ZIOP, Ziopharm Oncology IN
+ZIV, VS -1X VIX Mid Term
+ZIXI, Zix Corp
+ZKIN, Zk International Group Co. Ltd
+ZLAB, Zai Lab Ltd
+ZM, Zoom Video Communications Cl A
+ZN, Zion Oil & Gas Inc
+ZNGA, Zynga Inc Cl A
+ZS, Zscaler Inc
+ZSAN, Zosano Pharma
+ZUMZ, Zumiez Inc
+ZVO, Zovio Inc
+ZYNE, Zynerba Pharma CS
+ZYXI, Zynex Inc

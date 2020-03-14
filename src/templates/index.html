@@ -1,0 +1,397 @@
+<html>
+<head>
+    <title>Robo Advisor</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa\
+        9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <script src="https://code.highcharts.com/stock/highstock.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/data.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/export-data.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.2.7/dist/js/tabulator.min.js"></script>
+    <script type="text/javascript" src="http://cdn.rawgit.com/bassjobsen/Bootstrap-3-Typeahead/master/bootstrap3-typeahead.min.js"></script>
+    <script src="https://code.highcharts.com/stock/indicators/indicators.js"></script>
+    <script src="https://code.highcharts.com/stock/indicators/ema.js"></script>
+    <script src="https://code.highcharts.com/stock/indicators/bollinger-bands.js"></script>
+    <script src="https://code.highcharts.com/stock/indicators/rsi.js"></script>
+    <script src="https://code.highcharts.com/stock/indicators/macd.js"></script>
+	<script src="https://code.highcharts.com/stock/modules/drag-panes.js"></script>
+	<script src="https://code.highcharts.com/modules/annotations-advanced.js"></script>
+	<script src="https://code.highcharts.com/modules/price-indicator.js"></script>
+	<script src="https://code.highcharts.com/modules/full-screen.js"></script>
+	<script src="https://code.highcharts.com/modules/stock-tools.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://code.highcharts.com/css/stocktools/gui.css">
+	<link rel="stylesheet" type="text/css" href="https://code.highcharts.com/css/annotations/popup.css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link href="https://unpkg.com/tabulator-tables@4.2.7/dist/css/tabulator.min.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Roboto:500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href= "{{ url_for('static',filename='styles/index.css') }}" rel="stylesheet" type=text/css>
+    <style>
+        .container-sm{
+            width:55%;
+            margin-left:9.65%;
+            margin-right:3%;
+            float:left;
+            position:relative;
+        }
+        .table-container{
+            width:22.7%;
+            margin-right:9.65%;
+            float:left;
+            position:relative;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Robo Advisor</a>
+       <input class="form-control typehead form-control-dark w-100" name="pricequery" id="pricequery" type="text" placeholder="Search" aria-label="Search" data-provide="typeahead" autocomplete="off">
+      <ul class="navbar-nav px-3">
+    <li class="nav-item text-nowrap">
+      <a class="nav-link" href="#">Team 46</a>
+    </li>
+      </ul>
+    </nav>
+    <div class="recom">
+        <div id="recommendation-label">
+            <span>Recommendation: </span>
+            <span style="font-weight:bold" id="recommendation-value"></span>
+        </div>
+    </div>
+    <div class="border" id="container" style="min-width: 310px; height: 400px; margin: 0 auto; margin-top: 50px"></div>
+    <section id="demo" class="hero" style="margin-top:30px">
+        <div class="container-sm" style="max-width: 1250px">
+            <span class="news-title"> Top News Stories </span>
+            <div class="hero-inner">
+                <div class="cardbox">
+                    <div class="cardbox-overlay"></div>
+                    <div class="card-items">
+                        <div class="card">
+                            <a href="#"><img src="https://img.youtube.com/vi/j73LZDLFc5o/mqdefault.jpg" class="cardimage"></a>
+                            <div class="titlesearch"><a href="#">Amazon Fire TV ReCast Review: The OTA DVR for Alexa fans</a></div>
+                            <div class="textsearch">A simple black box that connects to your home network, the Fire TV Recast DVR delivers your local on-demand...</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="fundamental" class="hero" style="margin-top:30px">
+        <div class="table-container" style="max-width: 1250px">
+            <span class="news-title"> Financials (TTM) </span>
+            <div class="hero-inner">
+                <div class="cardbox">
+                    <div class="cardbox-overlay"></div>
+                    <div class="card-items">
+                        <div class="hero-inner">
+                            <div id="table">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<script>
+    function renderNews(item) {
+        var html = '';
+        html +=
+            '<div class="card">\n' +
+            '\t<a target="_blank" href="' + item.url + '" class="image-preview">' +
+            '\t<img src="' + item.urlToImage + '" class="cardimage">';
+        html += '</a>\n' +
+            '\t<div class="titlesearch"><a target="_blank" href="' + item.url + '">' + item.title + '</a></div>\n' +
+            '\t<div class="textsearch">' + item.content + '</div>\n' +
+            '\t\t<span class="bottomsearchtext">' + item.source.name + ' | ' + item.publishedAt +
+            '\t</div>\n' +
+            '</div>';
+        return html;
+    }
+
+    //show news blocks
+    function renderNewsArticles($box, data) {
+        var html = '';
+        data.articles.forEach(function(item) {
+            if (item.content != null) {
+                html += renderNews(item);
+            }
+        });
+        $box.find('.card-items').html(html);
+        $box.scrollTop(0);
+        $box.removeClass('loading');
+    }
+
+    function getRecommendation(symbol) {
+        $.get('http://127.0.0.1:5000/recommendation/' + symbol, function(data) {
+        if (data) {
+            $("#recommendation-value").text(data[0])
+        }
+        });
+    }
+
+    const table = new Tabulator("#table", {
+        height:"398px",
+        headerVisible:false, //hide header
+        clipboard:true,
+        columns:[
+            {title:"Indicator", field:"indicator", sortable:false, width:200},
+            {title:"Value", field:"value", sortable:false, width:235},
+        ],
+        });
+
+    //show fundamental information
+    function renderFundamentals(data) {
+        table.clearData()
+        var result = [];
+
+        for(var key in data)
+            result.push({"indicator": key.slice(3), "value": data[key]});
+
+        table.setData(result);
+    }
+
+$(document).ready(function(){
+    $.get('http://127.0.0.1:5000/typeahead', function(data) {
+    var data = data.symbols;
+    $("#pricequery").typeahead({ source:data });
+});
+});
+
+var selectedSymbol;
+$('#pricequery').change(function() {
+    $('#pricequery').unbind("click");
+    selectedOption1 = $('#pricequery').val().split(",");
+    selectedSymbol = selectedOption1[0];
+    Highcharts.getJSON('http://127.0.0.1:5000/data/' + selectedSymbol, function (data) {
+    var obv = [];
+
+    data.forEach(function (point) {
+        obv.push([
+            point[0],
+            point[13]
+        ]);
+    });
+
+        Highcharts.stockChart('container', {
+            yAxis: [{
+                labels: {
+                    align: 'left'
+                },
+                height: '80%',
+                resize: {
+                    enabled: true
+                }
+            }, {
+                labels: {
+                    align: 'left'
+                },
+                top: '80%',
+                height: '20%',
+                offset: 0
+            }],
+            tooltip: {
+                shape: 'square',
+                headerShape: 'callout',
+                borderWidth: 0,
+                shadow: false,
+                positioner: function (width, height, point) {
+                    var chart = this.chart,
+                        position;
+
+                    if (point.isHeader) {
+                        position = {
+                            x: Math.max(
+                                // Left side limit
+                                chart.plotLeft,
+                                Math.min(
+                                    point.plotX + chart.plotLeft - width / 2,
+                                    // Right side limit
+                                    chart.chartWidth - width - chart.marginRight
+                                )
+                            ),
+                            y: point.plotY
+                        };
+                    } else {
+                        position = {
+                            x: point.series.chart.plotLeft,
+                            y: point.series.yAxis.top - chart.plotTop
+                        };
+                    }
+
+                    return position;
+                }
+            },
+            series: [{
+                type: 'ohlc',
+                id: selectedSymbol,
+                name: selectedSymbol + ' Stock Price',
+                data: data
+            }, {
+                id: 'obv',
+                name: 'On Balance Volume',
+                data: obv,
+                yAxis: 1
+            }],
+            title: {
+                text: selectedSymbol + ' Stock Price'
+            },
+            responsive: {
+                rules: [{
+                    condition: {
+                        maxWidth: 800
+                    },
+                    chartOptions: {
+                        rangeSelector: {
+                            inputEnabled: false
+                        }
+                    }
+                }]
+            }
+        });
+    });
+    var $box = $('#demo .cardbox');
+    $.get('http://127.0.0.1:5000/news/' + selectedOption1[1], function(data) {
+        if (data) {
+            rawDemoResponse = data;
+            renderNewsArticles($box, rawDemoResponse);
+        } else {
+            console.log('No data');
+            $box.removeClass('loading');
+        }
+    });
+
+    getRecommendation(selectedOption1[0]);
+    $.get('http://127.0.0.1:5000/fundamentals/' + selectedSymbol, function(data) {
+       if (data) {
+           renderFundamentals(data);
+       } else {
+           console.log('No fundamental data');
+           table.removeClass('loading');
+       }
+    });
+});
+
+Highcharts.getJSON('http://127.0.0.1:5000/data/AMZN', function (data) {
+var obv = [];
+
+data.forEach(function (point) {
+        obv.push([
+            point[0],
+            point[13]
+        ]);
+});
+
+
+    Highcharts.stockChart('container', {
+
+        yAxis: [{
+            labels: {
+                align: 'left'
+            },
+            height: '80%',
+            resize: {
+                enabled: true
+            }
+        }, {
+            labels: {
+                align: 'left'
+            },
+            top: '80%',
+            height: '20%',
+            offset: 0
+        }],
+        tooltip: {
+            shape: 'square',
+            headerShape: 'callout',
+            borderWidth: 0,
+            shadow: false,
+            positioner: function (width, height, point) {
+                var chart = this.chart,
+                    position;
+
+                if (point.isHeader) {
+                    position = {
+                        x: Math.max(
+                            // Left side limit
+                            chart.plotLeft,
+                            Math.min(
+                                point.plotX + chart.plotLeft - width / 2,
+                                // Right side limit
+                                chart.chartWidth - width - chart.marginRight
+                            )
+                        ),
+                        y: point.plotY
+                    };
+                } else {
+                    position = {
+                        x: point.series.chart.plotLeft,
+                        y: point.series.yAxis.top - chart.plotTop
+                    };
+                }
+
+                return position;
+            }
+        },
+        series: [{
+            type: 'ohlc',
+            id: 'AMZN',
+            name: 'AMZN Stock Price',
+            data: data
+        }, {
+            id: 'obv',
+            name: 'On Balance Volume',
+            data: obv,
+            yAxis: 1
+        }],
+        title: {
+            text: 'AMZN Stock Price'
+        },
+        responsive: {
+            rules: [{
+                condition: {
+                    maxWidth: 800
+                },
+                chartOptions: {
+                    rangeSelector: {
+                        inputEnabled: false
+                    }
+                }
+            }]
+        }
+    });
+});
+
+var $box = $('#demo .cardbox');
+$.get('http://127.0.0.1:5000/news/Amazon.com Inc.', function(data) {
+    if (data) {
+        renderNewsArticles($box, data);
+    } else {
+        console.log('No data');
+        $box.removeClass('loading');
+    }
+});
+
+getRecommendation("AMZN");
+$.get('http://127.0.0.1:5000/fundamentals/AMZN', function(data) {
+   if(data) {
+        var result = [];
+
+        for(var key in data)
+            result.push({"indicator": key.slice(3), "value": data[key]});
+
+        table.setData(result)
+   } else {
+       console.log('No fundamental data');
+   }
+});
+
+</script>
+</body>
+</html>
